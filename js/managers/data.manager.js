@@ -5,15 +5,21 @@ class DataManager{
     constructor(settingsManager) {
         this.sAll = settingsManager;
         this.data = {};
+<<<<<<< HEAD
         this.subset = {};
         this.fileList = [
             // {name: "csvData", path: "/data/afg.csv", type: "csv"},
             {name: "csvData", path: "/data/CEM_data.csv", type: "csv"},
+=======
+        this.fileList = [
+            {name: "csvData", path: "/data/afg.csv", type: "csv"},
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
             {name: "mapData", path: "/data/afghanistan.json", type: 'json'},
         ]
     }
 
     rowConverter = function(d, i) {
+<<<<<<< HEAD
         var parseTime  = d3.timeParse("%Y-%m-%d %H:%M:%S");  
         // var parseTime  = d3.timeParse("%d-%m-%Y") ; 
         var event_type;
@@ -73,6 +79,24 @@ class DataManager{
                 pashtun: d.pashtun,
                 hazara: d.hazara,
                 matches: d.matches,
+=======
+        var parseTime  = d3.timeParse("%d-%m-%Y") ;  
+
+        if(typeof d.date == 'string'){
+                // var parse = d3.timeParse("%d-%m-%Y");
+                d.date = parseTime(d.date);
+            }
+            
+        return {dataset: d.dataset, 
+                event: d.event,
+                date: d.date,
+                latitude: d.latitude,
+                longitude: d.longitude,
+                actor_tax: d.actor_tax,
+                event_tax: d.event_tax,
+                prec_tax: d.prec_tax,
+                event_name: d.event_name,
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
             };
     }
 
@@ -84,6 +108,7 @@ class DataManager{
         // Convert array of data to more easily accessible object
         this.fileList.map((d, i) => {
             // To nest data in terms of enteries in terms of years
+<<<<<<< HEAD
             if (d.name == "csvData"){
                 
                 /* Use this block of code in case data preprocessing is not performed*/
@@ -106,6 +131,13 @@ class DataManager{
                 .sortKeys(d3.ascending)
                 .key(function(data) { return data.timestamp.getMonth(); })
                 .sortKeys(function(a,b) { return priority_order.indexOf(a) - priority_order.indexOf(b); })
+=======
+            if (d.name == 'csvData'){
+                var nested_data =   d3.nest()
+                .key(function(data) { return data.date.getFullYear(); })
+                .sortKeys(d3.ascending)
+                .key(function(data) { return data.date.getMonth(); })
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
                 .entries(dataNew[i]);
                 
                 this.data[d.name] = nested_data;

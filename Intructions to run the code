@@ -1,0 +1,4 @@
+Start Terminal
+Go to the repository in the local machine where the code is downloaded
+Enter the command to create a server: http-server -p 8100
+Open browser and type in localhost:8100

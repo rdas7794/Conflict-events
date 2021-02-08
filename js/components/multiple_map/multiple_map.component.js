@@ -22,8 +22,12 @@ function multiple_map(sg, s, f) {
         // This function is only called when initially building the component, later on only the update function will be called. 
         selection.each(function(data, idx) {
             if (!data) {return;}
+<<<<<<< HEAD
 
         //****************  Setting variables for constucting maps **********8***/
+=======
+            // Setting variables for constucting maps
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
             si.projection = d3.geoMercator().scale([350]).translate([-370, 270]);
 
             si.path = d3.geoPath().projection(si.projection);
@@ -31,10 +35,13 @@ function multiple_map(sg, s, f) {
             // Select the svg element and initializing map and csv data
             si.svg = d3.select(this);
 
+<<<<<<< HEAD
             //Selecting the checkboxes
             si.checkboxes = d3.select(this.parentNode)
                                 .select("#checkboxes");
 
+=======
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
             si.mapData = data.mapData;
 
             si.csvData = data.csvData;
@@ -57,8 +64,12 @@ function multiple_map(sg, s, f) {
 
             si.default_month = si.selected_month;
 
+<<<<<<< HEAD
         /***************Creation of tables ************************/
 
+=======
+            // Creation of tables
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
             si.tableHeads = si.svg.append("thead").selectAll("th")
                         .data(["", "JAN", "FEB", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUG", "SEPT", "OCT", "NOV", "DEC"])
                         .enter()
@@ -83,6 +94,7 @@ function multiple_map(sg, s, f) {
             si.canvases = si.tableData.append("div")
                         .each(function(d){fi.render(d,si.mapData,this)});
 
+<<<<<<< HEAD
         /****************Creation of Slider**********************************/    
             si.slider = si.svg
                     .append("div")
@@ -235,6 +247,141 @@ function multiple_map(sg, s, f) {
                                 .attr("id", "reset-button")
                                 .attr("class", "tool-button")
                                 .text("Reset")
+=======
+            //Creation of Slider    
+            si.slider = si.svg
+            .append('div')
+            .attr('class','slider');
+
+            // Creation of slider for year data                
+            si.years_slider = si.slider
+            .append('div')
+            .attr('class','years-slider')
+            .style('display','table-cell');
+
+            si.years_slider.value_time = si.years_slider.append('div')
+            .attr('class','years-valuetime')
+            .append('p')
+            .attr('id','years-value-time');
+
+            si.years_slider.slider_time = si.years_slider.append('div')
+            .attr('class','years-slidertime')
+            .append('div')
+            .attr('id','years-slider-time');
+            
+            si.years_sliderTime = d3
+            .sliderBottom()
+            .min(d3.min(si.year_data))
+            .max(d3.max(si.year_data))
+            .step(1)
+            .width(300)
+            .tickFormat(d3.format('1'))
+            .tickValues(si.year_data)
+            .default(si.default_year)
+            .on('onchange', val => {
+                // Update the map with selected slider year and month
+                si.selected_year = val;
+
+                si.year_value = si.csvData.filter(function(d){
+                    return d.key == si.selected_year;
+                })
+                
+                si.month_value = si.year_value.map(function(d){
+                    values = d.values.filter(function(e){
+                        return e.key == si.selected_month-1;
+                    })
+                    return values;
+                })
+                console.log(si.month_value[0][0]);
+                d3.select('p#years-value-time').text('Selected year:'+val);
+                sg.clicked = true;
+                d3.select(si.clicked_map).data([si.month_value[0][0]]).call(component.update);
+
+            });
+        
+            si.gTime1 = d3
+            .select('div#years-slider-time')
+            .append('svg')
+            .attr('width', 500)
+            .attr('height', 100)
+            .append('g')
+            .attr('transform', 'translate(30,30)');
+        
+            si.gTime1.call(si.years_sliderTime);
+        
+            d3.select('p#years-value-time').text('Selected Year:'+si.years_sliderTime.value());
+
+            //Creation of month slider
+            si.months_slider = si.slider.append('div')
+            .attr('class','months-slider')
+            .style('display','table-cell');
+
+            si.months_slider.value_time = si.months_slider.append('div')
+            .attr('class','col-sm-2')
+            .append('p')
+            .attr('id','months-value-time')
+            .style('display','table-cell');
+            
+
+            si.months_slider.slider_time = si.months_slider.append('div')
+            .attr('class','col-sm')
+            .append('div')
+            .attr('id','months-slider-time')
+            .style('display','table-cell');
+            
+            si.months_sliderTime = d3
+            .sliderBottom()
+            .min(d3.min(si.month_data))
+            .max(d3.max(si.month_data))
+            .step(1)
+            .width(300)
+            .tickValues([01, 02, 03, 04, 05, 06, 07 ,08 ,09, 10, 11, 12])
+            .default(si.default_month)
+            .on('onchange', val => {
+                // Update the map with selected slider year and month
+                si.selected_month = val;
+
+                si.year_value = si.csvData.filter(function(d){
+                    return d.key == si.selected_year;
+                })
+                
+                si.month_value = si.year_value.map(function(d){
+                    values = d.values.filter(function(e){
+                        return e.key == si.selected_month-1;
+                    })
+                    return values;
+                })
+
+                console.log(si.month_value[0][0]);
+                d3.select('p#months-value-time').text('Selected month:'+val);
+
+                sg.clicked = true;
+                d3.select(si.clicked_map).data([si.month_value[0][0]]).call(component.update);
+            });
+
+            si.gTime = d3
+            .select('div#months-slider-time')
+            .append('svg')
+            .attr('width', 500)
+            .attr('height', 100)
+            .append('g')
+            .attr('transform', 'translate(30,30)');
+        
+            si.gTime.call(si.months_sliderTime);
+        
+            d3.select('p#months-value-time').text('Selected month:'+si.months_sliderTime.value());
+
+            //Append a button
+            si.button = si.slider
+                        .selectAll('#reset-button')
+                        .data([0])
+                        .join(
+                            enter => enter
+                                .append('button:button')
+                                .attr('id', 'reset-button')
+                                .attr('class', 'tool-button')
+                                .text('Reset')
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
                         );
 
             d3.select(".loading-text").remove();
@@ -257,6 +404,7 @@ function multiple_map(sg, s, f) {
 
                 //Setting the visibility of table data
                 si.tableData
+<<<<<<< HEAD
                 .style("display", "table-cell")
 
                 // Setting the visibilty to visible
@@ -279,6 +427,28 @@ function multiple_map(sg, s, f) {
                 si.checkboxes
                 .selectAll(".checkbox")
                 .property("checked","true");
+=======
+                .style('display', 'table-cell')
+
+                // Setting the visibilty to visible
+                si.canvases
+                .selectAll('.map')
+                .transition()
+                .delay(10)
+                .style('display', 'block')
+                // .attr('visibility', 'visible');
+
+                // Table headers visbile
+                si.svg
+                .selectAll('.col-header')
+                .style('display', 'table-cell')
+                // .style('visibility', 'visible');
+
+                si.svg
+                .selectAll('.row-header')
+                .style('display', 'table-cell')
+                // .style('visibility', 'visible');
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
 
                 //Setting the projection of clicked map back to normal
                 d3.select(si.clicked_map)
@@ -288,17 +458,44 @@ function multiple_map(sg, s, f) {
                     .attr("height", s.height)//;
                     .each(function(d){fi.render(si.clicked_map_data,si.mapData,si.clicked_map)});
 
+<<<<<<< HEAD
                 fi.hide_elements();
+=======
+                //Slider display as none
+                si.months_slider
+                .style('display','none');
+
+                si.months_slider.value_time
+                .style('display','none');
+
+                si.months_slider.slider_time
+                .style('display','none');
+
+                si.years_slider
+                .style('display','none');
+
+                si.years_slider.value_time
+                .style('display','none');
+
+                si.years_slider.slider_time
+                .style('display','none');
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
 
             }
             else{
                 //Map clicked
                 si.clicked_map = this;
                 si.clicked_map_data = data;
+<<<<<<< HEAD
+=======
+                // si.clicked_map_data.year = parseInt(data.year);
+                // si.clicked_map_data.month = parseInt(data.key)+1;
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
                 si.first_time_clicked = true;
 
                 //Set table data as none
                 si.tableData
+<<<<<<< HEAD
                 .style("display", "none")
 
                 // Set display of all maps as none
@@ -332,12 +529,55 @@ function multiple_map(sg, s, f) {
                 // si.checkboxes
                 // .selectAll(".checkbox")
                 // .property("checked","true");
+=======
+                .style('display', 'none')
+
+                // Set display of all maps as none
+                si.canvases
+                .selectAll('.map')
+                .transition()
+                .delay(100)
+                .style('display', 'none')
+                // .attr('visibility', 'hidden');
+
+                //Set table headers as hidden
+                si.svg
+                .selectAll('.col-header')
+                .style('display', 'none')
+                // .style('visibility', 'hidden');
+
+                si.svg
+                .selectAll('.row-header')
+                .style('display', 'none')
+                // .style('visibility', 'hidden');
+
+                //Scaling
+                si. projection = d3.geoMercator()						
+							.scale([1800])
+							.center([60.7100, 30.9391])
+                            .translate([400, 350]);
+                            
+                si.path = d3.geoPath().projection(si.projection);
+
+                //Set the selected table data as visible
+                d3.select(si.clicked_map.parentNode.parentNode)
+                    .style('display', 'table-cell');
+
+                // d3.select(si.clicked_map.parentNode.parentNode)
+                //     .data(data[0])
+                //     .join(
+                //         enter => enter
+                //         .append('text')
+                //         .text("Show earthquakes before selected year"),
+                //     );
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
 
                 //Set the selected component as visibile
                 d3.select(si.clicked_map)
                     .transition()
                     .duration(500)
                     .delay(100)
+<<<<<<< HEAD
                     .style("display", "block")
                     .attr("align","center")
                     .attr("width", sg.width )
@@ -354,6 +594,32 @@ function multiple_map(sg, s, f) {
                     fi.update();
                 })
         
+=======
+                    .style('display', 'block')
+                    .attr('align','center')
+                    .attr("width", sg.width )
+                    .attr("height", sg.height )
+                    .each(function(d){fi.render(data,si.mapData,si.clicked_map)});
+
+                //Slider months and years displayed
+                si.months_slider
+                .style('display','table-cell');
+
+                si.months_slider.value_time
+                .style('display','table-cell');
+
+                si.months_slider.slider_time
+                .style('display','table-cell');
+
+                si.years_slider
+                .style('display','table-cell');
+
+                si.years_slider.value_time
+                .style('display','table-cell');
+
+                si.years_slider.slider_time
+                .style('display','table-cell');
+>>>>>>> 2f32c8bf0310d43585424c89e1dd5f0884d4df80
                     
             }
 
