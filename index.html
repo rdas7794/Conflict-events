@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Load scripts -->
+	<head>
+		<meta charset="utf-8">
+		<title>Project Title</title>
+		<!-- External -->
+		<!-- <script type="text/javascript" src="js/external/d3.js"></script> -->
+		
+		<script type="text/javascript" src="js/external/d3.js"></script>
+		<script type="text/javascript" src="js/external/underscore.js"></script>
+		<script src="https://d3js.org/d3.v6.min.js"></script>
+		<script src="https://unpkg.com/d3-simple-slider"></script>
+		<script src="https://unpkg.com/d3-simple-slider@1.10.2/dist/d3-simple-slider.min.js"></script>
+		<!-- Main -->
+		<script type="module" src="js/app.js"></script>
+		<script type="text/javascript" src="js/build.js"></script>
+		<!-- Managers -->
+		<script type="text/javascript" src="js/managers/settings.manager.js"></script>
+		<script type="text/javascript" src="js/managers/helperfunction.manager.js"></script>
+		<script type="text/javascript" src="js/managers/data.manager.js"></script>
+		<script type="text/javascript" src="js/managers/layout.manager.js"></script>
+		<script type="text/javascript" src="js/managers/event.manager.js"></script>
+		<!-- Components and function scripts -->
+		<script type="text/javascript" src="js/components/multiple_map/multiple_map.component.js"></script>
+		<script type="text/javascript" src="js/components/multiple_map/multiple_map.functions.js"></script>
+		<script type="text/javascript" src="js/components/map/map.component.js"></script>
+		<script type="text/javascript" src="js/components/map/map.functions.js"></script>
+		<!-- Styles -->
+		<link rel="stylesheet" type="text/scss" href="scss/styles.scss">
+		<style type="text/css">
+			/* Style rules externally */
+			html {
+				font-family: monospace;
+			}
+
+			th{
+			font-size: 20px;
+			font-weight: normal;
+			}
+
+			.row-header {
+			padding: none;
+			font-size: 20px;
+			font-weight: normal;
+			}
+
+		</style>
+	</head>
+    <body>
+		<h4 class="loading-text">
+			Loading... (Please wait till the maps are being loaded)
+		</h4>
+		<!-- Create containers -->
+		<div id="container-main">
+			<!-- <div id="container-toolbar-component-a"></div>
+			<div id="container-component-a"></div> -->
+			
+			<div id="container-map">
+				<div id = "checkboxes">
+					<input type="checkbox" class="checkbox" value="TRUE" checked><label>Matched</label>
+					<input type="checkbox" class="checkbox" value="FALSE" checked><label>Unmatched</label>
+					<!-- <input type="checkbox" class="checkbox" value="br_indis" checked><label>Br_Indis</label>
+					<input type="checkbox" class="checkbox" value="rb_sel" checked><label>Rb_Sel</label>
+					<input type="checkbox" class="checkbox" value="rb_indis" checked><label>Rb_Indis</label> -->
+				</div>
+			</div>
+		</div>
+		<!-- Start app -->
+		<script type="module">
+			import { runApp } from './js/app.js'
+            runApp();
+        </script>
+  </body>
+</html>

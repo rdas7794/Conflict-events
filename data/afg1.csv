@@ -1,0 +1,5 @@
+dataset,event,date,latitude,longitude,actor_tax,event_tax,prec_tax,event_name
+ged,1,01-01-2009,33.56105042,69.87404633,Taliban,2,1,Violence ged
+gtd,2,01-01-2010,31.12520027,64.20301819,Taliban,1,1,Violence gtd
+sigact,3,01-01-2008,35.35720825,71.55317688,Taliban,2,1,Violence sig
+gtd,4,01-01-2008,34.72766876,70.89572144,Taliban,1,1,Violence gtd

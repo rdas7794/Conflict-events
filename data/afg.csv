@@ -1,0 +1,1938 @@
+dataset,event,date,latitude,longitude,actor_tax,event_tax,prec_tax,event_name
+sigact,1,01-01-2009,33.56105042,69.87404633,Taliban,2,1,Violence sig
+sigact,2,01-01-2010,33.5652771,69.88087463,Taliban,1,1,Violence sig
+sigact,3,01-01-2008,33.52510071,69.93118286,Taliban,2,1,Violence sig
+sigact,4,01-01-2008,34.72766876,70.89572144,Taliban,1,1,Violence sig
+ged,1,01-01-2008,32.465816,64.737566,Government of Afghanistan,1,3,Violence ged
+ged,2,01-01-2009,33.383334,69.883334,Government of Afghanistan,1,4,Violence ged
+ged,3,01-01-2009,33,65,Taleban,1,6,Violence ged
+gtd,4,01-01-2009,37.008333,68.444722,Taliban,3,1,Violence gtd
+gtd,5,01-01-2008,35.640348,63.309294,Taliban,2,3,Violence gtd
+sigact,5,02-01-2008,31.64542198,65.0163269,Taliban,2,1,Violence sig
+sigact,6,02-01-2008,33.52643585,69.93195343,Taliban,2,1,Violence sig
+sigact,7,02-01-2008,31.9009304,64.75649261,Taliban,1,1,Violence sig
+sigact,8,02-01-2009,35.33551025,71.53929138,ISAF,3,1,Violence sig
+ged,4,02-01-2010,31,65.75,Taleban,1,4,Violence ged
+ged,5,02-01-2009,33.383334,69.883334,Taleban,1,4,Violence ged
+gtd,7,02-01-2009,33.333847,69.937167,Taliban,3,4,Violence gtd
+gtd,8,02-01-2009,33.458527,69.995087,Unknown,3,1,Violence gtd
+sigact,9,03-01-2008,31.20702934,62.40269089,Taliban,2,1,Violence sig
+sigact,10,03-01-2008,32.25579071,64.7930069,Taliban,1,1,Violence sig
+sigact,11,04-01-2008,34.81676865,69.65068054,Taliban,1,1,Violence sig
+sigact,12,04-01-2008,31.81949043,64.5690155,Taliban,2,1,Violence sig
+sigact,13,04-01-2009,35.12126923,70.93256378,Taliban,1,1,Violence sig
+sigact,14,04-01-2009,32.6965065,65.88038635,Taliban,2,1,Violence sig
+sigact,15,04-01-2009,31.49928093,65.55593872,ISAF,3,1,Violence sig
+sigact,16,04-01-2008,31.11904907,64.18509674,ISAF,3,1,Violence sig
+sigact,17,04-01-2008,31.52420044,65.30432892,ISAF,3,1,Violence sig
+gtd,14,04-01-2008,33.336728,69.923834,Unknown,3,1,Violence gtd
+sigact,18,05-01-2008,35.17124939,71.41242218,Taliban,1,1,Violence sig
+gtd,16,06-01-2008,35.011389,69.331667,Unknown,2,2,Violence gtd
+sigact,19,07-01-2008,31.00460815,66.39780426,Taliban,2,1,Violence sig
+sigact,20,07-01-2008,34.10984802,70.53524017,Taliban,2,1,Violence sig
+gtd,17,07-01-2008,34.104778,70.531937,Unknown,3,1,Violence gtd
+gtd,18,07-01-2008,31.008056,66.398056,Unknown,3,1,Violence gtd
+gtd,20,07-01-2010,34.888064,71.180737,Unknown,3,1,Violence gtd
+gtd,21,07-01-2010,31.137937,66.261374,Unknown,3,2,Violence gtd
+sigact,21,07-01-2010,34.96397018,69.57617188,Taliban,2,1,Violence sig
+sigact,22,07-01-2010,31.12520027,64.20301819,Taliban,1,1,Violence sig
+sigact,23,07-01-2010,35.02212906,70.40413666,Taliban,1,1,Violence sig
+sigact,24,07-01-2010,32.25115967,64.78930664,Taliban,2,1,Violence sig
+sigact,25,07-01-2010,32.11083984,66.91257477,Taliban,2,1,Violence sig
+gtd,22,07-01-2010,34.533333,69.166667,Unknown,3,4,Violence gtd
+sigact,26,07-01-2010,31.53576088,65.55458832,Taliban,1,1,Violence sig
+sigact,27,07-01-2010,31.8991394,64.75540161,Taliban,1,1,Violence sig
+sigact,28,07-01-2010,32.41466904,64.48438263,ISAF,3,1,Violence sig
+sigact,29,07-01-2010,32.66978073,65.46272278,Taliban,1,1,Violence sig
+sigact,30,07-01-2010,33.90665817,68.66999817,Taliban,1,1,Violence sig
+sigact,31,07-01-2010,32.48529816,62.05073166,Taliban,1,1,Violence sig
+sigact,32,07-01-2010,32.41405106,64.4835434,ISAF,3,1,Violence sig
+sigact,33,13-01-2008,31.83156013,65.79148102,Taliban,1,1,Violence sig
+sigact,34,13-01-2008,31.60978889,64.3704834,Taliban,2,1,Violence sig
+sigact,35,13-01-2008,31.59428024,65.16486359,Taliban,1,1,Violence sig
+sigact,36,13-01-2008,32.64733124,65.45805359,ISAF,3,1,Violence sig
+ged,21,13-01-2008,32.83333,66,Government of Afghanistan,1,4,Violence ged
+sigact,37,14-01-2008,34.51882553,69.17649078,Taliban,2,1,Violence sig
+sigact,38,15-01-2008,31.73099327,65.70407104,Taliban,2,1,Violence sig
+sigact,39,16-01-2008,31.46899796,65.31455231,Taliban,2,1,Violence sig
+sigact,40,17-01-2008,31.63488007,65.7286911,Taliban,1,1,Violence sig
+sigact,41,18-01-2008,34.92195129,71.04695129,ISAF,3,1,Violence sig
+ged,26,18-01-2008,34.998476,71.081975,Government of Afghanistan,1,3,Violence ged
+ged,27,18-01-2008,33.214845,69.958707,Taleban,1,2,Violence ged
+sigact,42,19-01-2008,31.5245266,65.43173981,Taliban,2,1,Violence sig
+ged,29,19-01-2008,31.611795,65.705795,Government of Afghanistan,1,2,Violence ged
+sigact,43,20-01-2008,31.71445084,61.62311935,Taliban,1,1,Violence sig
+sigact,44,20-01-2008,31.9229393,64.79498291,Taliban,1,1,Violence sig
+sigact,45,20-01-2008,31.85659027,64.68673706,Taliban,1,1,Violence sig
+gtd,29,20-01-2008,32.191878,67.189449,Taliban,1,4,Violence gtd
+sigact,46,21-01-2008,33.46326828,69.9965744,Taliban,2,1,Violence sig
+sigact,47,21-01-2008,32.35142136,63.21691895,Taliban,1,1,Violence sig
+sigact,48,21-01-2008,32.35496902,65.08822632,ISAF,3,1,Violence sig
+sigact,49,22-01-2008,31.59988976,64.3682251,Taliban,2,1,Violence sig
+sigact,50,22-01-2008,32.62015915,62.47409058,Taliban,1,1,Violence sig
+ged,33,22-01-2008,32.178461,66.508063,Government of Afghanistan,1,3,Violence ged
+sigact,51,23-01-2008,35.35720825,71.55317688,Taliban,1,1,Violence sig
+sigact,52,23-01-2008,33.33996964,69.92162323,Taliban,2,1,Violence sig
+sigact,53,23-01-2008,34.80994034,69.65596008,Taliban,1,1,Violence sig
+sigact,54,23-01-2008,33.53155518,69.89444733,Taliban,2,1,Violence sig
+gtd,33,23-01-2008,33.358508,69.859741,Unknown,3,4,Violence gtd
+sigact,55,24-01-2008,32.17625046,64.80417633,Taliban,1,1,Violence sig
+sigact,56,24-01-2008,31.70068741,64.75587463,Taliban,2,1,Violence sig
+ged,35,24-01-2008,33.5555,68.3989,Government of Afghanistan,1,1,Violence ged
+ged,36,24-01-2008,31.480806,64.875154,Taleban,1,5,Violence ged
+sigact,57,25-01-2008,33.27193069,70.15972137,Taliban,2,1,Violence sig
+sigact,58,25-01-2008,31.61879921,65.04527283,Taliban,1,1,Violence sig
+sigact,59,25-01-2008,31.13150978,64.20413971,Taliban,1,1,Violence sig
+sigact,60,26-01-2008,31.46698952,65.3110733,Taliban,2,1,Violence sig
+sigact,61,26-01-2008,31.84667015,64.63076782,Taliban,1,1,Violence sig
+sigact,62,26-01-2008,31.50623131,65.39864349,Taliban,2,1,Violence sig
+sigact,63,26-01-2008,35.36993027,71.54355621,ISAF,3,1,Violence sig
+ged,39,26-01-2008,32.627079,65.609744,Government of Afghanistan,1,2,Violence ged
+ged,40,26-01-2008,32.6984,65.4749,Government of Afghanistan,1,1,Violence ged
+gtd,34,26-01-2008,31.617667,65.675942,Unknown,6,1,Violence gtd
+gtd,35,26-01-2008,32.323203,64.811084,Unknown,3,3,Violence gtd
+sigact,64,27-01-2008,32.12141037,64.91544342,Taliban,1,1,Violence sig
+sigact,65,27-01-2008,32.13970184,65.37904358,Taliban,1,1,Violence sig
+sigact,66,27-01-2008,34.92787933,71.08992767,ISAF,3,1,Violence sig
+sigact,67,28-01-2008,31.96837997,65.96814728,Taliban,1,1,Violence sig
+sigact,68,28-01-2008,31.58461761,65.45015717,Taliban,2,1,Violence sig
+sigact,69,29-01-2008,31.58309937,65.43430328,Taliban,2,1,Violence sig
+sigact,70,29-01-2008,31.5571804,65.5226059,Taliban,2,1,Violence sig
+sigact,71,30-01-2008,32.11943054,64.60381317,Taliban,1,1,Violence sig
+gtd,39,30-01-2008,31.363647,63.958611,Taliban,3,4,Violence gtd
+sigact,72,31-01-2008,34.5558548,69.14279175,Taliban,2,1,Violence sig
+sigact,73,31-01-2008,31.96635056,64.80567169,Taliban,1,1,Violence sig
+sigact,74,31-01-2008,31.58921051,64.35437012,Taliban,2,1,Violence sig
+sigact,75,31-01-2008,31.55841064,65.84441376,ISAF,3,1,Violence sig
+sigact,76,01-02-2008,33.5322876,69.89555359,Taliban,2,1,Violence sig
+sigact,77,01-02-2008,35.38396835,71.5453186,ISAF,3,1,Violence sig
+sigact,78,01-02-2008,31.12336922,64.20613098,ISAF,3,1,Violence sig
+sigact,79,01-02-2008,34.98472977,70.90611267,ISAF,3,1,Violence sig
+sigact,80,01-02-2009,34.85606003,69.64247894,ISAF,4,1,Violence sig
+sigact,81,01-02-2009,34.93856812,70.99078369,ISAF,3,1,Violence sig
+sigact,82,01-02-2009,34.88645935,70.90647125,Taliban,1,1,Violence sig
+sigact,83,01-02-2009,31.63488007,65.7286911,Taliban,1,1,Violence sig
+sigact,84,01-02-2009,32.40060043,64.46862793,Taliban,1,1,Violence sig
+sigact,85,01-02-2009,31.4713707,65.26759338,Taliban,2,1,Violence sig
+sigact,86,01-02-2009,30.73298264,65.6366272,Taliban,2,1,Violence sig
+sigact,87,01-02-2009,31.12717056,64.18520355,ISAF,3,1,Violence sig
+sigact,88,01-02-2009,31.92238617,64.79262543,Taliban,2,1,Violence sig
+ged,53,01-02-2009,32.115474,64.923544,Taleban,1,5,Violence ged
+sigact,89,01-02-2009,31.92696953,64.87806702,Taliban,1,1,Violence sig
+sigact,90,01-02-2009,34.90447998,70.89572906,Taliban,1,1,Violence sig
+sigact,91,01-02-2009,33.32833099,69.80462646,Taliban,2,1,Violence sig
+sigact,92,01-02-2009,31.7432518,62.92810059,Taliban,2,1,Violence sig
+sigact,93,01-02-2009,32.93541718,66.68862152,Taliban,2,1,Violence sig
+sigact,94,07-02-2008,31.53034973,65.59509277,Taliban,1,1,Violence sig
+sigact,95,07-02-2008,31.13145065,64.20937347,Taliban,1,1,Violence sig
+sigact,96,07-02-2008,32.28826141,65.08672333,ISAF,3,1,Violence sig
+sigact,97,07-02-2008,34.93783188,71.01363373,ISAF,3,1,Violence sig
+ged,56,07-02-2008,33.383334,69.883334,Government of Afghanistan,1,4,Violence ged
+sigact,98,08-02-2008,33.53210831,68.41962433,Taliban,2,1,Violence sig
+sigact,99,09-02-2008,32.17932129,64.83001709,Taliban,1,1,Violence sig
+sigact,100,09-02-2008,33.31600952,62.14582062,Taliban,1,1,Violence sig
+sigact,101,09-02-2008,31.63068962,65.03497314,Taliban,1,1,Violence sig
+ged,60,09-02-2008,32.83333,66,Government of Afghanistan,1,4,Violence ged
+sigact,102,10-02-2008,34.12449265,62.27017593,Taliban,1,1,Violence sig
+sigact,103,10-02-2008,34.37376022,62.21168137,Taliban,1,1,Violence sig
+sigact,104,11-02-2008,31.96410942,65.96579742,Taliban,2,1,Violence sig
+sigact,105,11-02-2008,35.39096832,71.52266693,ISAF,3,1,Violence sig
+sigact,106,12-02-2008,32.18251801,63.32438278,Taliban,2,1,Violence sig
+sigact,107,12-02-2008,33.33259583,70.11077881,Taliban,2,1,Violence sig
+ged,61,12-02-2008,32.5,62.5,Government of Afghanistan,1,4,Violence ged
+sigact,108,13-02-2008,34.9454689,71.04229736,Taliban,1,1,Violence sig
+sigact,109,13-02-2008,32.30782318,64.78777313,Taliban,2,1,Violence sig
+sigact,110,13-02-2008,31.97234917,65.6592865,Taliban,1,1,Violence sig
+ged,63,13-02-2008,32.679049,65.912087,Government of Afghanistan,1,3,Violence ged
+ged,64,13-02-2008,34.5,69.416667,Taleban,1,4,Violence ged
+sigact,111,14-02-2008,31.73443031,64.7802124,Taliban,1,1,Violence sig
+sigact,112,14-02-2008,32.06474304,64.45678711,Taliban,2,1,Violence sig
+sigact,113,16-02-2008,34.94277573,70.9537735,Taliban,2,1,Violence sig
+ged,68,16-02-2008,34.944492,70.951996,Government of Afghanistan,1,1,Violence ged
+sigact,114,17-02-2008,31.12717056,64.18520355,Taliban,1,1,Violence sig
+sigact,115,17-02-2008,31.61611938,65.63436127,Taliban,2,1,Violence sig
+sigact,116,17-02-2008,34.95941925,71.07002258,Taliban,1,1,Violence sig
+sigact,117,17-02-2008,31.12174034,64.186203,Taliban,1,1,Violence sig
+sigact,118,17-02-2008,32.34770584,65.1111145,Taliban,2,1,Violence sig
+sigact,119,18-02-2008,31.5434494,65.45697784,Taliban,1,1,Violence sig
+sigact,120,18-02-2008,30.95649529,66.43625641,Taliban,2,1,Violence sig
+sigact,121,18-02-2008,31.56474876,65.35483551,Taliban,2,1,Violence sig
+ged,72,18-02-2008,31,64,Government of Afghanistan,1,4,Violence ged
+sigact,122,19-02-2008,34.88573837,69.70584869,Taliban,1,1,Violence sig
+sigact,123,19-02-2008,31.6197567,65.70970154,Taliban,2,1,Violence sig
+sigact,124,19-02-2008,32.40206909,65.10368347,Taliban,1,1,Violence sig
+ged,74,19-02-2008,35,69.58333,Taleban,1,4,Violence ged
+sigact,125,20-02-2008,32.11448669,64.89622498,Taliban,2,1,Violence sig
+sigact,126,20-02-2010,31.85416985,66.45292664,Taliban,1,1,Violence sig
+sigact,127,20-02-2010,33.92192841,68.97512054,Taliban,1,1,Violence sig
+sigact,128,20-02-2010,32.28916168,65.08672333,ISAF,3,1,Violence sig
+ged,75,20-02-2010,31,64,Taleban,1,4,Violence ged
+sigact,129,20-02-2010,33.37332916,70.26647949,Taliban,2,1,Violence sig
+sigact,130,20-02-2010,32.40190125,64.9744873,ISAF,3,1,Violence sig
+sigact,131,20-02-2010,32.54967499,69.27958679,Taliban,2,1,Violence sig
+sigact,132,20-02-2010,33.32569122,69.78060913,Taliban,2,1,Violence sig
+sigact,133,22-02-2008,32.36416245,64.9828186,Taliban,1,1,Violence sig
+sigact,134,22-02-2008,32.20035934,64.69115448,Taliban,1,1,Violence sig
+sigact,135,22-02-2008,34.96492004,70.92186737,ISAF,3,1,Violence sig
+sigact,136,23-02-2009,34.71046066,70.98573303,Taliban,2,1,Violence sig
+sigact,137,23-02-2009,32.62357712,62.43290329,Taliban,2,1,Violence sig
+sigact,138,23-02-2009,32.61624908,62.40842438,Taliban,2,1,Violence sig
+sigact,139,23-02-2009,32.35829163,64.97174835,Taliban,1,1,Violence sig
+ged,81,23-02-2009,32.5,62.5,Government of Afghanistan,1,4,Violence ged
+sigact,140,23-02-2009,31.83467484,65.08169556,Taliban,2,1,Violence sig
+sigact,141,23-02-2009,34.87630844,69.65072632,ISAF,3,1,Violence sig
+sigact,142,23-02-2009,31.4608593,65.26490021,ISAF,3,1,Violence sig
+ged,82,23-02-2009,31,65.75,Taleban,1,4,Violence ged
+sigact,143,23-02-2009,32.37081146,64.98455811,Taliban,1,1,Violence sig
+sigact,144,23-02-2009,32.0862999,64.92318726,ISAF,3,1,Violence sig
+sigact,145,26-02-2008,32.06984329,65.95544434,Taliban,2,1,Violence sig
+sigact,146,26-02-2008,31.81693077,65.78356171,Taliban,2,1,Violence sig
+sigact,147,26-02-2008,32.35646057,64.51631165,Taliban,1,1,Violence sig
+sigact,148,26-02-2008,35.41915512,71.31957245,Taliban,1,1,Violence sig
+sigact,149,26-02-2008,33.93574905,60.70737076,Taliban,1,1,Violence sig
+sigact,150,26-02-2008,33.47724152,70.03356171,Taliban,2,1,Violence sig
+sigact,151,26-02-2008,33.1147728,68.80931091,Taliban,2,1,Violence sig
+ged,89,26-02-2008,32.080455,66.007358,Government of Afghanistan,1,3,Violence ged
+sigact,152,27-02-2008,33.53082657,69.89926147,Taliban,2,1,Violence sig
+sigact,153,27-02-2008,31.90628052,64.7670517,Taliban,1,1,Violence sig
+ged,90,27-02-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,91,27-02-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+sigact,154,28-02-2008,31.12082672,64.18827057,Taliban,2,1,Violence sig
+sigact,155,28-02-2008,31.94417381,66.94015503,Taliban,2,1,Violence sig
+sigact,156,28-02-2008,32.93434906,69.45352936,Taliban,1,1,Violence sig
+sigact,157,29-02-2008,34.41957855,70.32433319,Taliban,1,1,Violence sig
+sigact,158,29-02-2008,31.13050079,64.21460724,ISAF,3,1,Violence sig
+sigact,159,29-02-2008,33.84407043,69.08030701,ISAF,3,1,Violence sig
+sigact,160,01-03-2008,32.16466904,63.41540909,Taliban,1,1,Violence sig
+sigact,161,01-03-2008,32.12668991,64.92402649,Taliban,1,1,Violence sig
+sigact,162,01-03-2008,33.45533752,70.20231628,Taliban,2,1,Violence sig
+sigact,163,02-03-2008,31.48158073,65.23742676,Taliban,2,1,Violence sig
+sigact,164,02-03-2008,33.34016037,68.93551636,Taliban,2,1,Violence sig
+sigact,165,02-03-2008,35.81137085,63.14485168,Taliban,1,1,Violence sig
+sigact,166,02-03-2008,31.48158073,65.23742676,Taliban,2,1,Violence sig
+ged,96,02-03-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,98,02-03-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+sigact,167,03-03-2008,32.36215973,64.50871277,Taliban,1,1,Violence sig
+sigact,168,03-03-2008,33.49871063,69.99136353,Taliban,2,1,Violence sig
+sigact,169,03-03-2008,32.06093979,64.8318634,Taliban,1,1,Violence sig
+sigact,170,03-03-2008,31.11657906,64.18377686,ISAF,3,1,Violence sig
+ged,101,03-03-2008,35,63.75,Government of Afghanistan,1,4,Violence ged
+sigact,171,04-03-2008,33.23626709,69.81889343,Taliban,2,1,Violence sig
+ged,105,04-03-2008,32.584696,65.465693,Government of Afghanistan,1,3,Violence ged
+sigact,172,05-03-2008,32.7538414,65.92682648,Taliban,1,1,Violence sig
+sigact,173,05-03-2008,31.49411011,65.41938782,Taliban,1,1,Violence sig
+sigact,174,06-03-2008,34.96242142,71.07380676,ISAF,3,1,Violence sig
+sigact,175,08-03-2008,32.06128693,68.33714294,Taliban,2,1,Violence sig
+sigact,176,08-03-2008,34.85026932,63.64305878,Taliban,1,1,Violence sig
+sigact,177,08-03-2008,31.71930313,64.33496857,Taliban,2,1,Violence sig
+sigact,178,08-03-2008,31.10890961,64.17920685,ISAF,3,1,Violence sig
+sigact,179,08-03-2008,32.33454895,65.06865692,ISAF,3,1,Violence sig
+ged,107,08-03-2008,33.3116,69.749,Taleban,1,1,Violence ged
+ged,109,08-03-2008,34.817973,63.586809,Government of Afghanistan,1,3,Violence ged
+sigact,180,09-03-2008,36.72874832,69.19877625,Taliban,1,1,Violence sig
+ged,112,10-03-2008,35,69.58333,Taleban,1,4,Violence ged
+ged,113,10-03-2008,31,64,Taleban,1,4,Violence ged
+sigact,181,11-03-2008,33.54375839,69.2542038,Taliban,2,1,Violence sig
+sigact,182,11-03-2008,32.48426056,66.77259064,Taliban,1,1,Violence sig
+sigact,183,11-03-2008,34.9407196,71.00276184,Taliban,1,1,Violence sig
+sigact,184,11-03-2008,34.23490143,62.18777084,ISAF,3,1,Violence sig
+sigact,185,11-03-2008,29.77450943,63.97653961,ISAF,3,1,Violence sig
+ged,114,11-03-2008,32.178461,66.508063,Government of Afghanistan,1,3,Violence ged
+ged,117,11-03-2008,34.797169,69.67923,Government of Afghanistan,1,3,Violence ged
+gtd,63,11-03-2008,34.341944,62.203056,Taliban,3,4,Violence gtd
+sigact,186,12-03-2008,32.19337845,64.80557251,Taliban,1,1,Violence sig
+sigact,187,12-03-2008,31.94335938,64.77983093,Taliban,1,1,Violence sig
+sigact,188,12-03-2008,31.61759949,65.73556519,Taliban,2,1,Violence sig
+ged,120,12-03-2008,31.749897,62.940045,Government of Afghanistan,1,3,Violence ged
+sigact,189,13-03-2008,31.56564903,65.35590363,Taliban,2,1,Violence sig
+sigact,190,13-03-2009,31.11098099,64.17975616,Taliban,1,1,Violence sig
+sigact,191,13-03-2009,33.24634933,62.176651,Taliban,1,1,Violence sig
+sigact,192,13-03-2009,34.54854584,69.20163727,Taliban,1,1,Violence sig
+sigact,193,13-03-2009,33.90058899,68.66483307,Taliban,2,1,Violence sig
+sigact,194,13-03-2009,34.54862595,69.21471405,Taliban,2,1,Violence sig
+sigact,195,13-03-2009,34.88446045,70.90708923,Taliban,1,1,Violence sig
+sigact,196,13-03-2009,32.1427803,66.50005341,Taliban,1,1,Violence sig
+sigact,197,13-03-2009,31.82296944,64.64936829,Taliban,1,1,Violence sig
+ged,124,13-03-2009,32.178461,66.508063,Government of Afghanistan,1,3,Violence ged
+sigact,198,13-03-2009,31.59871864,65.11543274,Taliban,2,1,Violence sig
+sigact,199,13-03-2009,32.30202103,64.7769165,Taliban,1,1,Violence sig
+sigact,200,13-03-2009,33.32642365,69.83988953,Taliban,2,1,Violence sig
+sigact,201,13-03-2009,32.95312119,66.26999664,Taliban,1,1,Violence sig
+sigact,202,13-03-2009,34.69964981,71.08207703,Taliban,1,1,Violence sig
+sigact,203,13-03-2009,34.6905899,71.08512878,Taliban,1,1,Violence sig
+ged,128,13-03-2009,31,65.75,Government of Afghanistan,1,4,Violence ged
+sigact,204,13-03-2009,36.74074936,66.73755646,Taliban,1,1,Violence sig
+sigact,205,17-03-2008,36.74723053,66.84375763,Taliban,1,1,Violence sig
+sigact,206,17-03-2008,31.80838013,64.51813507,Taliban,2,1,Violence sig
+sigact,207,17-03-2008,36.74723053,66.84375763,Taliban,1,1,Violence sig
+sigact,208,17-03-2008,34.47018814,63.11978149,Taliban,1,1,Violence sig
+sigact,209,17-03-2008,34.98559189,70.90306091,ISAF,3,1,Violence sig
+gtd,71,17-03-2008,35.213889,70.373333,Unknown,1,3,Violence gtd
+sigact,210,18-03-2008,32.35570908,64.92887115,Taliban,1,1,Violence sig
+sigact,211,18-03-2008,34.88640976,70.90363312,Taliban,1,1,Violence sig
+sigact,212,19-03-2008,31.58820915,64.3638382,Taliban,1,1,Violence sig
+sigact,213,19-03-2008,32.09386826,66.67830658,Taliban,1,1,Violence sig
+sigact,214,19-03-2008,32.37876129,64.77205658,Taliban,1,1,Violence sig
+sigact,215,19-03-2008,31.58820915,64.3638382,Taliban,1,1,Violence sig
+sigact,216,19-03-2008,32.42147064,64.46662903,ISAF,3,1,Violence sig
+sigact,217,20-03-2008,34.50442886,70.15320587,Taliban,1,1,Violence sig
+sigact,218,20-03-2008,34.72402954,71.03793335,Taliban,1,1,Violence sig
+sigact,219,20-03-2008,32.19525909,66.65026855,Taliban,2,1,Violence sig
+ged,135,20-03-2008,36.972465,69.163284,Taleban,1,3,Violence ged
+gtd,77,20-03-2008,37.070278,69.298333,Taliban,1,1,Violence gtd
+sigact,220,21-03-2008,33.02081299,66.34914398,Taliban,2,1,Violence sig
+sigact,221,21-03-2008,31.65260696,65.65752411,Taliban,2,1,Violence sig
+sigact,222,21-03-2008,32.60864639,62.33174896,Taliban,2,1,Violence sig
+sigact,223,21-03-2010,31.12957001,64.21774292,Taliban,1,1,Violence sig
+sigact,224,21-03-2010,31.59576797,65.47996521,Taliban,2,1,Violence sig
+ged,136,21-03-2010,31.58529,65.206725,Taleban,1,5,Violence ged
+ged,138,21-03-2010,32.584696,65.465693,Government of Afghanistan,1,3,Violence ged
+gtd,78,21-03-2010,36.896969,65.665857,Taliban,2,4,Violence gtd
+sigact,225,21-03-2010,32.63539886,67.39877319,Taliban,1,1,Violence sig
+sigact,226,21-03-2010,31.59570694,65.48310852,Taliban,2,1,Violence sig
+ged,141,21-03-2010,32.495924,67.394208,Government of Afghanistan,1,3,Violence ged
+sigact,227,21-03-2010,36.7843895,66.44494629,Taliban,1,1,Violence sig
+ged,142,21-03-2010,32.92962,66.2608,Government of Afghanistan,1,3,Violence ged
+gtd,84,21-03-2010,36.896969,65.665857,Unknown,2,4,Violence gtd
+sigact,228,21-03-2010,33.79650879,60.882061,Taliban,1,1,Violence sig
+sigact,229,21-03-2010,32.23416901,66.42646027,Taliban,1,1,Violence sig
+sigact,230,21-03-2010,34.83776093,69.64037323,Taliban,1,1,Violence sig
+ged,145,21-03-2010,33.003377,61.869972,Taleban,1,2,Violence ged
+gtd,85,21-03-2010,36.733333,68.866667,Unknown,2,4,Violence gtd
+sigact,231,21-03-2010,34.36016083,69.21040344,Taliban,2,1,Violence sig
+sigact,232,21-03-2010,33.14691925,68.76088715,Taliban,2,1,Violence sig
+sigact,233,26-03-2008,31.65434074,64.71492767,Taliban,1,1,Violence sig
+sigact,234,26-03-2008,31.85022926,64.63506317,Taliban,2,1,Violence sig
+ged,147,26-03-2008,32.997793,66.690348,Government of Afghanistan,1,3,Violence ged
+ged,150,26-03-2008,31.829363,64.608526,Taleban,1,3,Violence ged
+gtd,88,26-03-2008,36.694511,68.801575,Taliban,3,3,Violence gtd
+gtd,90,26-03-2008,31.363648,63.958562,Taliban,3,4,Violence gtd
+ged,151,28-03-2008,32.48418,65.038714,Government of Afghanistan,1,3,Violence ged
+ged,152,28-03-2008,35.481792,63.153801,Government of Afghanistan,1,1,Violence ged
+ged,153,28-03-2008,31.5296,62.7884,Government of Afghanistan,1,1,Violence ged
+sigact,235,29-03-2008,34.92031097,69.6180191,Taliban,1,1,Violence sig
+sigact,236,29-03-2008,31.94798088,66.79039764,Taliban,1,1,Violence sig
+sigact,237,29-03-2008,31.81678391,64.56896973,Taliban,2,1,Violence sig
+sigact,238,29-03-2008,32.27896881,67.12689972,Taliban,1,1,Violence sig
+ged,154,29-03-2008,31.974191,66.723663,Government of Afghanistan,1,2,Violence ged
+gtd,95,29-03-2008,36.896969,65.665857,Taliban,3,4,Violence gtd
+gtd,97,29-03-2008,35.088164,63.09357,Taliban,3,3,Violence gtd
+sigact,239,31-03-2008,31.57393265,64.34887695,Taliban,2,1,Violence sig
+sigact,240,31-03-2008,32.39630127,64.45877838,Taliban,2,1,Violence sig
+sigact,241,31-03-2008,31.62298965,65.06537628,Taliban,2,1,Violence sig
+ged,156,31-03-2008,31.579996,64.377396,Government of Afghanistan,1,2,Violence ged
+ged,158,31-03-2008,35.850494,64.614419,Taleban,1,5,Violence ged
+gtd,104,31-03-2008,31.640278,65.3975,Taliban,3,3,Violence gtd
+sigact,242,01-04-2008,32.66524506,68.35836029,Taliban,1,1,Violence sig
+sigact,243,01-04-2008,32.70634842,69.287117,Taliban,2,1,Violence sig
+sigact,244,01-04-2008,32.12470245,68.51278687,Taliban,2,1,Violence sig
+sigact,245,01-04-2008,33.44955826,68.37776947,Taliban,1,1,Violence sig
+ged,161,01-04-2008,30.959629,61.862839,Taleban,1,1,Violence ged
+ged,162,01-04-2008,32.48418,65.038714,Government of Afghanistan,1,3,Violence ged
+ged,163,01-04-2008,31,62.5,Taleban,1,4,Violence ged
+ged,165,01-04-2008,33.549999,68.416702,Government of Afghanistan,1,2,Violence ged
+ged,168,02-04-2008,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+ged,169,02-04-2008,31.611795,65.705795,Government of Afghanistan,1,2,Violence ged
+ged,170,02-04-2008,36.7208,68.9009,Government of Afghanistan,1,1,Violence ged
+sigact,246,03-04-2008,34.90230179,70.92510223,Taliban,2,1,Violence sig
+ged,171,03-04-2008,34.95,71.133333,Taleban,1,4,Violence ged
+sigact,247,04-04-2008,32.3001976,65.09685516,Taliban,2,1,Violence sig
+sigact,248,04-04-2009,31.47789192,65.34267426,Taliban,2,1,Violence sig
+sigact,249,04-04-2009,31.55891991,65.32939911,Taliban,2,1,Violence sig
+sigact,250,04-04-2009,31.57421875,64.32148743,Taliban,2,1,Violence sig
+ged,174,04-04-2009,31.640454,65.397591,Government of Afghanistan,1,3,Violence ged
+gtd,108,04-04-2009,37.181789,68.913158,Unknown,6,1,Violence gtd
+sigact,251,04-04-2009,35.24557877,70.42106628,Taliban,1,1,Violence sig
+sigact,252,04-04-2009,31.60508919,65.77207947,Taliban,2,1,Violence sig
+sigact,253,04-04-2009,32.07467651,64.84349823,Taliban,2,1,Violence sig
+sigact,254,04-04-2009,35.27315903,70.37217712,Taliban,1,1,Violence sig
+sigact,255,04-04-2009,35.74411392,63.84938049,Taliban,2,1,Violence sig
+sigact,256,04-04-2009,33.3821106,68.47898865,Taliban,1,1,Violence sig
+ged,180,04-04-2009,32.920909,65.474153,Government of Afghanistan,1,3,Violence ged
+gtd,109,04-04-2009,34.341944,62.203056,Unknown,3,1,Violence gtd
+ged,182,04-04-2009,32.83333,66,Taleban,1,4,Violence ged
+ged,184,04-04-2009,33.244188,62.359647,Taleban,1,3,Violence ged
+sigact,257,04-04-2009,32.21004868,66.67003632,Taliban,1,1,Violence sig
+sigact,258,04-04-2009,33.40595627,68.30419922,Taliban,2,1,Violence sig
+sigact,259,04-04-2009,32.07075882,67.26251221,Taliban,1,1,Violence sig
+ged,185,04-04-2009,33.33333,67.75,Taleban,1,4,Violence ged
+ged,186,04-04-2009,31.918721,67.151789,Government of Afghanistan,1,3,Violence ged
+ged,187,04-04-2009,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,189,04-04-2009,32.206837,66.671303,Government of Afghanistan,1,1,Violence ged
+sigact,260,04-04-2009,32.35633469,65.11483002,Taliban,2,1,Violence sig
+sigact,261,04-04-2009,33.03519821,69.50011444,Taliban,1,1,Violence sig
+ged,190,04-04-2009,36.223248,68.120033,Taleban,1,5,Violence ged
+sigact,262,04-04-2009,31.73734665,65.70214844,Taliban,2,1,Violence sig
+sigact,263,04-04-2009,31.62225151,65.71620178,Taliban,2,1,Violence sig
+ged,192,04-04-2009,32.212,67.3056,Government of Afghanistan,1,1,Violence ged
+ged,193,04-04-2009,33.957778,71.573611,Government of Afghanistan,1,2,Violence ged
+sigact,264,04-04-2009,32.54824066,67.28744507,Taliban,1,1,Violence sig
+sigact,265,04-04-2009,31.77232361,62.99894333,Taliban,2,1,Violence sig
+sigact,266,04-04-2009,31.54449654,64.8919754,Taliban,1,1,Violence sig
+gtd,114,04-04-2009,31.026149,62.450415,Taliban,3,4,Violence gtd
+gtd,115,04-04-2009,34.341944,62.203056,Unknown,3,1,Violence gtd
+sigact,267,04-04-2009,32.06314087,64.83055115,Taliban,2,1,Violence sig
+sigact,268,04-04-2009,33.372715,69.73692322,Taliban,2,1,Violence sig
+sigact,269,04-04-2009,31.48597717,65.8169632,Taliban,2,1,Violence sig
+sigact,270,04-04-2009,31.80132103,64.57926941,Taliban,1,1,Violence sig
+sigact,271,04-04-2009,31.7466526,65.73091125,Taliban,1,1,Violence sig
+sigact,272,04-04-2009,31.62714005,65.53559113,Taliban,1,1,Violence sig
+sigact,273,04-04-2009,34.9454689,71.04229736,ISAF,3,1,Violence sig
+sigact,274,04-04-2009,31.06990623,66.34489441,Taliban,2,1,Violence sig
+sigact,275,04-04-2009,31.5850029,65.4536438,Taliban,2,1,Violence sig
+sigact,276,04-04-2009,31.07022476,66.34454346,Taliban,2,1,Violence sig
+ged,201,04-04-2009,31.725736,67.390181,Government of Afghanistan,1,3,Violence ged
+sigact,277,04-04-2009,32.66459274,67.57633209,Taliban,1,1,Violence sig
+sigact,278,04-04-2009,31.63242912,65.03923798,Taliban,1,1,Violence sig
+sigact,279,04-04-2009,31.10969162,61.87792969,Taliban,2,1,Violence sig
+sigact,280,04-04-2009,34.88139725,70.91021729,Taliban,1,1,Violence sig
+sigact,281,04-04-2009,32.12383652,65.92115784,Taliban,1,1,Violence sig
+ged,203,04-04-2009,32.25,67.25,Taleban,1,4,Violence ged
+ged,204,04-04-2009,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+ged,205,04-04-2009,32.716667,67.633333,Government of Afghanistan,1,3,Violence ged
+gtd,118,04-04-2009,30.96,61.86,Unknown,3,1,Violence gtd
+sigact,282,04-04-2009,32.70869827,65.84899902,Taliban,2,1,Violence sig
+sigact,283,04-04-2009,31.55062675,65.43557739,Taliban,1,1,Violence sig
+sigact,284,04-04-2009,31.54419708,65.49810791,Taliban,2,1,Violence sig
+sigact,285,04-04-2009,33.86328506,68.92432404,Taliban,2,1,Violence sig
+sigact,286,04-04-2009,34.45517731,68.78455353,Taliban,1,1,Violence sig
+sigact,287,04-04-2009,34.68983078,68.58127594,Taliban,2,1,Violence sig
+sigact,288,04-04-2009,32.6750412,65.8483429,Taliban,2,1,Violence sig
+ged,208,04-04-2009,33.543516,69.9118,Government of Afghanistan,1,3,Violence ged
+sigact,289,04-04-2009,33.56114197,69.06464386,Taliban,2,1,Violence sig
+sigact,290,04-04-2009,32.62512207,69.04637146,Taliban,2,1,Violence sig
+sigact,291,04-04-2009,31.6095314,65.51403809,Taliban,1,1,Violence sig
+sigact,292,04-04-2009,31.54830742,65.41519165,Taliban,1,1,Violence sig
+sigact,293,04-04-2009,31.13888931,64.18639374,Taliban,1,1,Violence sig
+sigact,294,04-04-2009,32.22943497,67.19264984,Taliban,1,1,Violence sig
+sigact,295,04-04-2009,33.64523315,69.90827942,Taliban,1,1,Violence sig
+sigact,296,04-04-2009,32.47961044,69.24765015,Taliban,1,1,Violence sig
+ged,213,04-04-2009,31.072875,65.158015,Government of Afghanistan,1,3,Violence ged
+sigact,297,04-04-2009,34.84633636,69.65837097,Taliban,1,1,Violence sig
+sigact,298,04-04-2009,32.72840118,68.32595825,Taliban,2,1,Violence sig
+sigact,299,04-04-2009,31.51710701,65.39575195,Taliban,1,1,Violence sig
+sigact,300,04-04-2009,33.07757568,68.99678802,Taliban,1,1,Violence sig
+sigact,301,04-04-2009,32.32981873,65.08234406,ISAF,3,1,Violence sig
+ged,214,04-04-2009,31.126,64.1889,Government of Afghanistan,1,1,Violence ged
+ged,215,04-04-2009,33.1104,68.0326,Government of Afghanistan,1,1,Violence ged
+gtd,121,04-04-2009,36.890916,67.189449,Taliban,9,4,Violence gtd
+sigact,302,04-04-2009,31.50417328,65.50595093,Taliban,2,1,Violence sig
+sigact,303,04-04-2009,31.57616997,66.72705078,Taliban,1,1,Violence sig
+ged,217,04-04-2009,33.4232,69.041565,Government of Afghanistan,1,3,Violence ged
+ged,218,04-04-2009,31.447533,67.253177,Government of Afghanistan,1,3,Violence ged
+gtd,123,04-04-2009,34.176874,61.700565,Unknown,6,4,Violence gtd
+sigact,304,04-04-2009,31.57616997,66.72705078,Taliban,2,1,Violence sig
+sigact,305,04-04-2009,34.74126816,71.18229675,Taliban,1,1,Violence sig
+ged,219,04-04-2009,31.519681,66.552678,Government of Afghanistan,1,3,Violence ged
+gtd,125,04-04-2009,34.524667,69.192392,Taliban,7,4,Violence gtd
+sigact,306,04-04-2009,31.81949043,64.5690155,Taliban,2,1,Violence sig
+sigact,307,04-04-2009,31.007164,66.39930725,Taliban,2,1,Violence sig
+sigact,308,04-04-2009,31.64665604,65.64048767,Taliban,2,1,Violence sig
+sigact,309,04-04-2009,34.93146515,69.62269592,Taliban,1,1,Violence sig
+sigact,310,04-04-2009,34.71759796,69.77540588,Taliban,1,1,Violence sig
+ged,223,04-04-2009,34.826742,71.289216,Government of Afghanistan,1,5,Violence ged
+gtd,126,04-04-2010,31.363647,63.958611,Taliban,3,4,Violence gtd
+sigact,311,04-04-2010,34.76237869,70.39836121,Taliban,2,1,Violence sig
+sigact,312,04-04-2010,32.86660385,68.94869232,Taliban,1,1,Violence sig
+sigact,313,04-04-2010,31.69662285,65.66616058,Taliban,1,1,Violence sig
+ged,225,04-04-2010,32.6683,68.479991,Government of Afghanistan,1,3,Violence ged
+gtd,128,04-04-2010,34.348889,63.177778,Unknown,3,1,Violence gtd
+sigact,314,04-04-2010,31.56245995,65.28315735,Taliban,2,1,Violence sig
+sigact,315,04-04-2010,33.49191666,68.37133026,Taliban,2,1,Violence sig
+sigact,316,04-04-2010,32.59908295,62.40321732,Taliban,2,1,Violence sig
+sigact,317,04-04-2010,34.9601059,69.62981415,ISAF,3,1,Violence sig
+ged,229,04-04-2010,35,63.75,Taleban,1,4,Violence ged
+sigact,318,04-04-2010,34.69379044,69.91798401,Taliban,1,1,Violence sig
+sigact,319,04-04-2010,32.40074158,67.06698608,Taliban,2,1,Violence sig
+sigact,320,27-04-2008,33.56062317,68.35826874,Taliban,1,1,Violence sig
+sigact,321,27-04-2008,34.51793671,69.19171906,Taliban,1,1,Violence sig
+sigact,322,27-04-2008,34.92733002,71.09135437,ISAF,3,1,Violence sig
+ged,232,27-04-2008,34.33333,70.41667,Government of Afghanistan,1,4,Violence ged
+sigact,323,28-04-2008,32.82935333,67.78312683,Taliban,1,1,Violence sig
+sigact,324,28-04-2008,34.88526154,70.9021759,ISAF,3,1,Violence sig
+ged,236,28-04-2008,31.749897,62.940045,Government of Afghanistan,1,3,Violence ged
+sigact,325,29-04-2008,34.84170532,69.68032074,Taliban,2,1,Violence sig
+sigact,326,29-04-2008,30.98536682,66.34755707,Taliban,2,1,Violence sig
+sigact,327,29-04-2008,34.84351349,69.67923737,Taliban,2,1,Violence sig
+sigact,328,29-04-2008,34.87315369,70.93811035,Taliban,1,1,Violence sig
+sigact,329,29-04-2008,34.01663208,69.01083374,Taliban,1,1,Violence sig
+sigact,330,29-04-2008,34.26512527,70.19593048,Taliban,2,1,Violence sig
+sigact,331,30-04-2008,32.23941803,68.75585938,Taliban,2,1,Violence sig
+sigact,332,30-04-2008,34.25639343,69.18138123,Taliban,2,1,Violence sig
+sigact,333,30-04-2008,34.50350189,69.16320038,ISAF,3,1,Violence sig
+ged,241,30-04-2008,34,69.25,Taleban,1,4,Violence ged
+sigact,334,01-05-2008,34.88154602,69.65000916,Taliban,1,1,Violence sig
+sigact,335,01-05-2008,31.16614532,66.32364655,Taliban,2,1,Violence sig
+sigact,336,01-05-2008,34.96558762,69.61561584,Taliban,1,1,Violence sig
+ged,243,01-05-2008,32.25,67.25,Government of Afghanistan,1,4,Violence ged
+sigact,337,02-05-2008,31.07896614,64.22653198,Taliban,1,1,Violence sig
+sigact,338,02-05-2008,31.07896614,64.22653198,Taliban,1,1,Violence sig
+sigact,339,02-05-2008,32.48361588,64.6208725,Taliban,2,1,Violence sig
+sigact,340,02-05-2008,33.51819611,69.91355896,Taliban,2,1,Violence sig
+sigact,341,02-05-2008,33.22543335,70.16349792,Taliban,1,1,Violence sig
+sigact,342,02-05-2008,33.5320015,69.89539337,Taliban,2,1,Violence sig
+ged,248,02-05-2008,32.850827,67.818891,Government of Afghanistan,1,2,Violence ged
+sigact,343,03-05-2008,34.26105118,70.74233246,Taliban,2,1,Violence sig
+sigact,344,03-05-2008,31.06543541,64.22636414,Taliban,1,1,Violence sig
+sigact,345,03-05-2008,31.0384903,64.21343994,Taliban,1,1,Violence sig
+sigact,346,03-05-2008,34.97689819,71.10221863,Taliban,1,1,Violence sig
+sigact,347,03-05-2008,33.03480911,68.65088654,Taliban,1,1,Violence sig
+sigact,348,03-05-2008,33.87622833,68.64295959,Taliban,1,1,Violence sig
+sigact,349,03-05-2008,34.97051239,71.09099579,Taliban,1,1,Violence sig
+ged,250,03-05-2009,32.62675,65.873313,Government of Afghanistan,1,1,Violence ged
+ged,251,03-05-2009,30.15106,63.879346,Government of Afghanistan,1,3,Violence ged
+ged,252,03-05-2009,32.416667,68.75,Taleban,1,4,Violence ged
+gtd,140,03-05-2009,34.846589,71.097317,Unknown,2,4,Violence gtd
+sigact,350,03-05-2009,31.61888313,65.71768951,Taliban,2,1,Violence sig
+sigact,351,03-05-2009,31.5563755,65.41782379,Taliban,1,1,Violence sig
+sigact,352,03-05-2009,32.80122375,62.15077209,Taliban,1,1,Violence sig
+sigact,353,03-05-2009,33.06190109,68.66255951,ISAF,3,1,Violence sig
+ged,254,03-05-2009,30.852922,64.131675,Taleban,1,3,Violence ged
+sigact,354,03-05-2009,31.5596981,65.33413696,Taliban,2,1,Violence sig
+sigact,355,03-05-2009,33.3823204,70.03394318,Taliban,2,1,Violence sig
+sigact,356,03-05-2009,32.83907318,67.81096649,Taliban,1,1,Violence sig
+sigact,357,07-05-2008,33.53380585,69.90015411,Taliban,2,1,Violence sig
+sigact,358,07-05-2008,34.96807861,71.09104156,Taliban,1,1,Violence sig
+ged,257,07-05-2008,33.33333,67.75,Taleban,1,4,Violence ged
+gtd,145,07-05-2008,36.315551,67.964286,Unknown,7,1,Violence gtd
+sigact,359,08-05-2008,34.52164459,69.07627106,Taliban,2,1,Violence sig
+sigact,360,08-05-2008,33.86416626,69.09171295,Taliban,2,1,Violence sig
+sigact,361,08-05-2008,33.49249649,65.11444092,Taliban,1,1,Violence sig
+ged,259,08-05-2008,34.525181,65.252342,Government of Afghanistan,1,2,Violence ged
+ged,261,08-05-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+ged,262,08-05-2008,33.265833,68.229166,Taleban,1,5,Violence ged
+sigact,362,09-05-2008,34.90670776,69.62583923,Taliban,1,1,Violence sig
+sigact,363,09-05-2008,34.94353485,70.95137024,Taliban,1,1,Violence sig
+sigact,364,09-05-2008,34.7434082,70.88122559,Taliban,1,1,Violence sig
+sigact,365,09-05-2008,33.3584404,69.36729431,Taliban,1,1,Violence sig
+ged,264,09-05-2008,33.372715,69.406475,Government of Afghanistan,1,3,Violence ged
+ged,265,09-05-2008,32.465816,64.737566,Government of Afghanistan,1,3,Violence ged
+ged,267,10-05-2008,33.436394,68.974098,Government of Afghanistan,1,1,Violence ged
+ged,268,10-05-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+ged,269,10-05-2008,33.543516,69.9118,Government of Afghanistan,1,3,Violence ged
+sigact,366,11-05-2008,34.71073151,70.95243835,Taliban,1,1,Violence sig
+ged,270,11-05-2008,33.5212,68.4161,Government of Afghanistan,1,1,Violence ged
+sigact,367,12-05-2008,33.51654053,69.12458801,Taliban,1,1,Violence sig
+sigact,368,12-05-2008,33.78678131,68.56253052,Taliban,1,1,Violence sig
+sigact,369,12-05-2008,34.9855957,70.90307617,Taliban,1,1,Violence sig
+ged,271,12-05-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+gtd,147,12-05-2008,31.585831,67.028191,Taliban,8,3,Violence gtd
+gtd,148,12-05-2008,31.623036,65.054246,Taliban,6,3,Violence gtd
+gtd,150,12-05-2008,36.859931,68.715498,Taliban,8,4,Violence gtd
+ged,274,13-05-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,275,13-05-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+sigact,370,14-05-2008,34.7434082,70.88122559,Taliban,1,1,Violence sig
+sigact,371,14-05-2008,35.58661652,63.80797577,ISAF,3,1,Violence sig
+sigact,372,14-05-2008,34.86155319,70.99208832,ISAF,3,1,Violence sig
+gtd,153,14-05-2008,36.972222,69.163056,Unknown,2,3,Violence gtd
+gtd,154,14-05-2009,36.733333,68.866667,Unknown,3,1,Violence gtd
+sigact,373,14-05-2009,36.65399933,68.85611725,Taliban,2,1,Violence sig
+sigact,374,14-05-2009,32.15229416,63.43690491,Taliban,2,1,Violence sig
+sigact,375,14-05-2009,33.47029114,69.99700165,Taliban,2,1,Violence sig
+sigact,376,14-05-2009,33.36504745,69.73739624,Taliban,1,1,Violence sig
+ged,279,14-05-2009,31.918721,67.151789,Government of Afghanistan,1,3,Violence ged
+sigact,377,14-05-2009,33.46979523,69.99688721,Taliban,2,1,Violence sig
+sigact,378,14-05-2009,33.36504745,69.73739624,Taliban,2,1,Violence sig
+sigact,379,14-05-2009,31.4949131,65.32782745,Taliban,2,1,Violence sig
+sigact,380,14-05-2009,31.10996246,64.19232941,ISAF,3,1,Violence sig
+ged,282,14-05-2009,32.755167,62.073124,Government of Afghanistan,1,3,Violence ged
+sigact,381,14-05-2009,31.92459297,64.70776367,Taliban,2,1,Violence sig
+sigact,382,14-05-2009,31.61630058,65.66913605,Taliban,2,1,Violence sig
+sigact,383,14-05-2009,31.62848473,64.82304382,Taliban,1,1,Violence sig
+sigact,384,14-05-2009,31.75943375,64.7474823,Taliban,1,1,Violence sig
+sigact,385,14-05-2009,33.28862762,68.2525177,Taliban,2,1,Violence sig
+sigact,386,14-05-2009,33.91062927,69.01519775,Taliban,2,1,Violence sig
+sigact,387,14-05-2009,33.35277939,69.9500885,Taliban,2,1,Violence sig
+sigact,388,14-05-2009,32.13053513,68.5335083,Taliban,2,1,Violence sig
+sigact,389,14-05-2009,34.8915596,69.63257599,Taliban,1,1,Violence sig
+sigact,390,14-05-2009,34.78491592,70.9812851,ISAF,3,1,Violence sig
+ged,283,14-05-2009,33.666667,69.33333,Taleban,1,4,Violence ged
+sigact,391,14-05-2009,32.17423248,66.83637238,Taliban,2,1,Violence sig
+sigact,392,14-05-2009,32.33996964,64.77236176,Taliban,2,1,Violence sig
+sigact,393,14-05-2009,32.40758514,68.35131073,Taliban,1,1,Violence sig
+sigact,394,14-05-2009,31.0430603,64.20721436,Taliban,1,1,Violence sig
+ged,287,14-05-2009,32.25,67.25,Taleban,1,4,Violence ged
+ged,291,14-05-2009,32.672833,67.691617,Government of Afghanistan,1,1,Violence ged
+sigact,395,19-05-2008,32.4077301,64.76411438,Taliban,2,1,Violence sig
+sigact,396,19-05-2008,33.75163651,69.79580688,Taliban,2,1,Violence sig
+ged,292,19-05-2008,31,62.5,Taleban,1,4,Violence ged
+ged,293,19-05-2008,31,64,Taleban,1,4,Violence ged
+sigact,397,20-05-2010,32.28007126,63.21345139,Taliban,2,1,Violence sig
+sigact,398,20-05-2010,33.48176575,69.0753479,Taliban,2,1,Violence sig
+sigact,399,20-05-2010,32.59373093,69.33886719,Taliban,1,1,Violence sig
+sigact,400,20-05-2010,32.86645889,68.08448029,Taliban,2,1,Violence sig
+sigact,401,20-05-2010,34.96004868,69.60572052,Taliban,1,1,Violence sig
+sigact,402,20-05-2010,34.75397491,70.80860138,ISAF,3,1,Violence sig
+ged,297,20-05-2010,32.860043,67.181449,Government of Afghanistan,1,3,Violence ged
+sigact,403,20-05-2010,32.63886261,69.26847076,Taliban,2,1,Violence sig
+ged,301,20-05-2010,32.416667,68.75,Taleban,1,4,Violence ged
+gtd,164,20-05-2010,36.890916,67.189449,Unknown,2,1,Violence gtd
+sigact,404,20-05-2010,31.616745,65.73342896,Taliban,2,1,Violence sig
+sigact,405,20-05-2010,34.93937302,71.00765991,Taliban,1,1,Violence sig
+sigact,406,20-05-2010,33.32549286,69.84396362,Taliban,2,1,Violence sig
+sigact,407,20-05-2010,33.34380341,68.9580307,Taliban,2,1,Violence sig
+sigact,408,23-05-2008,34.227211,69.8516922,Taliban,2,1,Violence sig
+ged,304,23-05-2008,32.465816,64.737566,Government of Afghanistan,1,3,Violence ged
+ged,305,23-05-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+sigact,409,24-05-2008,33.16087341,68.11547089,Taliban,1,1,Violence sig
+sigact,410,25-05-2008,31.63689804,65.67604828,Taliban,2,1,Violence sig
+sigact,411,25-05-2008,32.82038116,62.76069641,Taliban,1,1,Violence sig
+ged,307,25-05-2008,32.771851,62.753066,Government of Afghanistan,1,3,Violence ged
+gtd,168,25-05-2008,36.896969,65.665857,Unknown,2,4,Violence gtd
+sigact,412,26-05-2008,32.53720474,69.19488525,Taliban,1,1,Violence sig
+ged,309,26-05-2008,33.33333,67.75,Taleban,1,4,Violence ged
+sigact,413,27-05-2008,31.67821693,67.18547821,Taliban,1,1,Violence sig
+sigact,414,27-05-2008,30.18282127,66.09941101,Taliban,2,1,Violence sig
+sigact,415,27-05-2008,33.84423828,68.97159576,Taliban,2,1,Violence sig
+sigact,416,27-05-2008,34.94843292,70.94906616,Taliban,1,1,Violence sig
+sigact,417,27-05-2008,31.61632156,65.79454041,Taliban,2,1,Violence sig
+sigact,418,27-05-2008,33.48213196,69.37134552,Taliban,1,1,Violence sig
+sigact,419,27-05-2008,33.44911194,69.07639313,Taliban,1,1,Violence sig
+sigact,420,27-05-2008,34.96854401,69.6232605,Taliban,1,1,Violence sig
+sigact,421,27-05-2008,33.7913208,68.93952942,Taliban,2,1,Violence sig
+ged,313,27-05-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+ged,317,27-05-2008,35.481792,63.153801,Government of Afghanistan,1,1,Violence ged
+ged,318,27-05-2008,34.900056,70.924465,Government of Afghanistan,1,2,Violence ged
+ged,319,27-05-2008,33.4232,69.041565,Government of Afghanistan,1,3,Violence ged
+sigact,422,28-05-2008,31.57838821,64.3542099,Taliban,2,1,Violence sig
+sigact,423,28-05-2008,31.08787727,64.23818207,Taliban,2,1,Violence sig
+sigact,424,28-05-2008,32.54285049,62.34181976,Taliban,1,1,Violence sig
+sigact,425,28-05-2008,33.59066772,69.11209106,Taliban,2,1,Violence sig
+sigact,426,28-05-2008,33.87727737,68.62857819,Taliban,1,1,Violence sig
+sigact,427,28-05-2008,33.27731323,69.91398621,Taliban,2,1,Violence sig
+sigact,428,28-05-2008,32.40111542,68.47711945,Taliban,1,1,Violence sig
+ged,321,28-05-2008,32.416667,68.75,Taleban,1,4,Violence ged
+ged,322,28-05-2008,33.214845,69.958707,Government of Afghanistan,1,2,Violence ged
+ged,323,28-05-2008,34.25,68,Government of Afghanistan,1,4,Violence ged
+ged,324,28-05-2008,31.072875,65.158015,Government of Afghanistan,1,3,Violence ged
+sigact,429,29-05-2008,32.62259674,62.50105667,Taliban,1,1,Violence sig
+sigact,430,29-05-2008,32.00896072,67.10383606,Taliban,2,1,Violence sig
+sigact,431,29-05-2008,31.0797348,64.20832825,Taliban,1,1,Violence sig
+sigact,432,29-05-2008,34.54121399,69.22231293,Taliban,2,1,Violence sig
+ged,327,29-05-2008,32.630096,62.480503,Government of Afghanistan,1,1,Violence ged
+ged,329,29-05-2008,33.305843,68.446963,Government of Afghanistan,1,3,Violence ged
+ged,330,29-05-2008,32.771851,62.753066,Taleban,1,3,Violence ged
+ged,331,29-05-2008,32.21683,62.88273,Taleban,1,3,Violence ged
+sigact,433,30-05-2008,31.07225609,64.17194366,Taliban,1,1,Violence sig
+sigact,434,30-05-2008,33.35214233,69.51480103,Taliban,1,1,Violence sig
+sigact,435,30-05-2008,31.07225609,64.17194366,Taliban,2,1,Violence sig
+sigact,436,30-05-2008,33.39707947,69.98266602,Taliban,2,1,Violence sig
+sigact,437,30-05-2008,33.41245651,68.51193237,Taliban,1,1,Violence sig
+sigact,438,30-05-2008,34.52443695,70.32164764,Taliban,2,1,Violence sig
+ged,334,30-05-2008,31.583123,65.643074,Government of Afghanistan,1,2,Violence ged
+ged,336,30-05-2008,32.5,62.5,Government of Afghanistan,1,4,Violence ged
+ged,337,30-05-2008,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+sigact,439,31-05-2008,33.43037033,68.96987915,Taliban,2,1,Violence sig
+sigact,440,31-05-2008,34.42733765,70.45505524,Taliban,2,1,Violence sig
+ged,340,31-05-2008,35.806595,63.142708,Government of Afghanistan,1,1,Violence ged
+sigact,441,01-06-2008,34.51259995,69.10894775,Taliban,2,1,Violence sig
+sigact,442,01-06-2008,32.93900299,66.63827515,Taliban,1,1,Violence sig
+sigact,443,01-06-2008,35.81466675,63.12755585,Taliban,1,1,Violence sig
+sigact,444,01-06-2008,34.98403931,63.24323654,Taliban,1,1,Violence sig
+sigact,445,01-06-2008,32.89891434,68.79042053,Taliban,1,1,Violence sig
+ged,341,01-06-2008,35.462075,63.469625,Government of Afghanistan,1,3,Violence ged
+sigact,446,02-06-2008,33.32872391,69.38974762,Taliban,1,1,Violence sig
+sigact,447,02-06-2008,34.32318878,68.86195374,Taliban,1,1,Violence sig
+sigact,448,02-06-2008,33.43117905,68.95944214,ISAF,3,1,Violence sig
+ged,344,02-06-2008,32.83333,66,Government of Afghanistan,1,4,Violence ged
+ged,345,02-06-2008,33.886501,69.91443,Government of Afghanistan,1,5,Violence ged
+ged,348,02-06-2008,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+ged,349,02-06-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+sigact,449,03-06-2008,32.15048599,64.96057892,Taliban,2,1,Violence sig
+sigact,450,03-06-2008,33.48989487,69.05382538,Taliban,2,1,Violence sig
+sigact,451,03-06-2008,31.4711132,65.31723785,Taliban,1,1,Violence sig
+sigact,452,03-06-2008,34.8873291,70.90835571,ISAF,3,1,Violence sig
+ged,355,03-06-2008,32.154197,64.95086,Government of Afghanistan,1,1,Violence ged
+ged,356,04-06-2008,31,64,Government of Afghanistan,1,4,Violence ged
+sigact,453,05-06-2008,32.10964966,66.91101074,Taliban,2,1,Violence sig
+sigact,454,05-06-2008,32.17352676,68.27555084,Taliban,2,1,Violence sig
+sigact,455,05-06-2008,32.70700836,68.33848572,Taliban,1,1,Violence sig
+sigact,456,05-06-2008,33.04844284,69.22589111,Taliban,1,1,Violence sig
+sigact,457,05-06-2008,34.93893051,71.00162506,Taliban,1,1,Violence sig
+ged,360,05-06-2008,31,64,Government of Afghanistan,1,4,Violence ged
+ged,361,05-06-2008,32.97518,69.192429,Government of Afghanistan,1,3,Violence ged
+ged,362,05-06-2008,32.10368,66.905121,Government of Afghanistan,1,1,Violence ged
+ged,364,05-06-2008,32.6683,68.479991,Government of Afghanistan,1,3,Violence ged
+sigact,458,06-06-2008,34.33666992,69.04213715,Taliban,2,1,Violence sig
+sigact,459,06-06-2008,34.95891953,71.06256104,ISAF,3,1,Violence sig
+ged,367,06-06-2009,33.835973,68.355315,Government of Afghanistan,1,3,Violence ged
+sigact,460,06-06-2009,31.55884171,65.33362579,Taliban,2,1,Violence sig
+sigact,461,06-06-2009,32.33636093,64.77229309,Taliban,2,1,Violence sig
+sigact,462,06-06-2009,32.17787552,63.32989502,Taliban,2,1,Violence sig
+sigact,463,06-06-2009,34.24201584,68.79377747,Taliban,1,1,Violence sig
+sigact,464,06-06-2009,33.83700943,68.60895538,Taliban,1,1,Violence sig
+ged,368,06-06-2009,32.161313,63.43305,Government of Afghanistan,1,1,Violence ged
+sigact,465,06-06-2009,31.5660305,65.4317627,Taliban,2,1,Violence sig
+sigact,466,06-06-2009,32.09931564,64.88531494,Taliban,2,1,Violence sig
+sigact,467,06-06-2009,33.1523056,68.1001358,Taliban,2,1,Violence sig
+sigact,468,06-06-2009,33.14174271,68.08046722,Taliban,1,1,Violence sig
+ged,371,06-06-2009,34.093087,64.338716,Government of Afghanistan,1,3,Violence ged
+ged,372,06-06-2009,33.391935,69.381221,Taleban,1,5,Violence ged
+ged,373,06-06-2009,32.83333,66,Taleban,1,4,Violence ged
+ged,375,06-06-2009,31,64,Government of Afghanistan,1,4,Violence ged
+sigact,469,06-06-2009,33.5516777,68.41829681,Taliban,2,1,Violence sig
+sigact,470,06-06-2009,34.03900909,64.07250214,Taliban,1,1,Violence sig
+ged,376,06-06-2009,32.83333,66,Taleban,1,4,Violence ged
+sigact,471,06-06-2009,36.1769371,68.76091766,Taliban,2,1,Violence sig
+sigact,472,06-06-2009,31.90182877,64.75650787,Taliban,2,1,Violence sig
+sigact,473,06-06-2009,34.69937515,71.09698486,Taliban,1,1,Violence sig
+ged,380,06-06-2009,33.678715,68.666712,Government of Afghanistan,1,3,Violence ged
+ged,381,06-06-2009,33.39,68.8574,Government of Afghanistan,1,1,Violence ged
+gtd,195,06-06-2009,32.495328,62.262663,Taliban,9,4,Violence gtd
+sigact,474,06-06-2009,36.0458107,64.7828598,Taliban,1,1,Violence sig
+sigact,475,06-06-2009,33.36863327,69.41053009,Taliban,1,1,Violence sig
+ged,382,06-06-2009,34.750462,71.118319,Government of Afghanistan,1,2,Violence ged
+sigact,476,06-06-2009,33.10574341,68.97609711,Taliban,1,1,Violence sig
+sigact,477,06-06-2009,33.36863327,69.41053009,Taliban,1,1,Violence sig
+sigact,478,06-06-2009,33.3731575,69.7416153,Taliban,1,1,Violence sig
+ged,385,06-06-2009,33.38193,69.684565,Government of Afghanistan,1,2,Violence ged
+ged,386,06-06-2009,33.4955,69.0357,Government of Afghanistan,1,1,Violence ged
+ged,387,06-06-2009,32.62675,65.873313,Government of Afghanistan,1,2,Violence ged
+sigact,479,06-06-2009,34.24606323,70.8497467,Taliban,2,1,Violence sig
+sigact,480,06-06-2009,32.65766144,65.99489594,Taliban,1,1,Violence sig
+sigact,481,06-06-2009,33.46670914,62.59965897,Taliban,1,1,Violence sig
+sigact,482,06-06-2009,31.61722374,65.66810608,Taliban,2,1,Violence sig
+sigact,483,06-06-2009,34.72414398,70.90229797,Taliban,1,1,Violence sig
+ged,388,06-06-2009,34.33333,70.41667,Taleban,1,4,Violence ged
+ged,389,06-06-2009,33.305843,68.446963,Government of Afghanistan,1,3,Violence ged
+sigact,484,06-06-2009,32.23142624,63.0033226,Taliban,2,1,Violence sig
+sigact,485,06-06-2009,31.49117088,65.30036163,Taliban,1,1,Violence sig
+sigact,486,06-06-2009,31.40517807,64.06771851,Taliban,2,1,Violence sig
+sigact,487,06-06-2009,32.12202454,63.29682922,Taliban,2,1,Violence sig
+sigact,488,06-06-2009,33.39299774,68.31111145,Taliban,1,1,Violence sig
+ged,393,06-06-2009,32.5,62.5,Taleban,1,4,Violence ged
+ged,394,06-06-2009,31.640454,65.397591,Government of Afghanistan,1,3,Violence ged
+ged,397,06-06-2009,31,64,Government of Afghanistan,1,4,Violence ged
+ged,398,06-06-2009,31,65.75,Government of Afghanistan,1,4,Violence ged
+sigact,489,06-06-2009,33.45604706,69.99505615,Taliban,2,1,Violence sig
+sigact,490,06-06-2009,32.3300209,66.67121887,Taliban,1,1,Violence sig
+ged,400,06-06-2009,30.852922,64.131675,Government of Afghanistan,1,3,Violence ged
+ged,401,06-06-2009,32.612577,66.688212,Government of Afghanistan,1,3,Violence ged
+ged,402,06-06-2009,32.25,67.25,Government of Afghanistan,1,4,Violence ged
+gtd,201,06-06-2009,33.465833,70.091111,Unknown,3,1,Violence gtd
+sigact,491,06-06-2009,31.8204174,64.56691742,Taliban,2,1,Violence sig
+sigact,492,06-06-2009,31.63581467,64.5406189,Taliban,2,1,Violence sig
+sigact,493,06-06-2009,33.50413895,69.36856842,Taliban,1,1,Violence sig
+sigact,494,06-06-2009,34.22843933,68.81976318,Taliban,2,1,Violence sig
+sigact,495,06-06-2009,33.42105103,70.09280396,Taliban,2,1,Violence sig
+sigact,496,06-06-2009,32.16226959,63.42104721,Taliban,2,1,Violence sig
+sigact,497,06-06-2009,31.61940193,65.73561859,Taliban,2,1,Violence sig
+sigact,498,06-06-2009,34.88017654,69.63620758,Taliban,1,1,Violence sig
+sigact,499,06-06-2009,34.46035004,68.70562744,Taliban,1,1,Violence sig
+sigact,500,06-06-2009,33.1576004,69.3045578,Taliban,1,1,Violence sig
+sigact,501,06-06-2009,33.36696625,69.43875885,Taliban,1,1,Violence sig
+ged,406,06-06-2009,32.416667,68.75,Taleban,1,4,Violence ged
+ged,409,06-06-2009,31.669497,65.63369,Government of Afghanistan,1,2,Violence ged
+ged,410,06-06-2009,31.6469,65.6074,Government of Afghanistan,1,1,Violence ged
+ged,411,06-06-2009,31.5819,64.99308,Government of Afghanistan,1,3,Violence ged
+ged,412,06-06-2009,31.666094,65.615799,Government of Afghanistan,1,1,Violence ged
+ged,413,06-06-2009,31.756763,65.647486,Government of Afghanistan,1,3,Violence ged
+sigact,502,06-06-2009,31.8205471,64.55635834,Taliban,1,1,Violence sig
+sigact,503,06-06-2009,32.79402542,62.67425919,Taliban,1,1,Violence sig
+sigact,504,06-06-2009,34.07157898,69.02840424,Taliban,1,1,Violence sig
+ged,414,06-06-2009,34,69.25,Taleban,1,4,Violence ged
+ged,415,06-06-2009,32.5,62.5,Taleban,1,4,Violence ged
+ged,416,06-06-2009,32.080455,66.007358,Government of Afghanistan,1,3,Violence ged
+sigact,505,06-06-2009,31.81858826,64.56900024,Taliban,2,1,Violence sig
+sigact,506,06-06-2009,31.87579346,64.74755859,Taliban,2,1,Violence sig
+sigact,507,06-06-2009,33.40486145,69.99066162,Taliban,2,1,Violence sig
+sigact,508,06-06-2009,32.26039124,62.94266891,Taliban,2,1,Violence sig
+sigact,509,06-06-2009,32.62037277,68.21617126,Taliban,2,1,Violence sig
+sigact,510,06-06-2009,33.1000824,69.25045776,Taliban,1,1,Violence sig
+sigact,511,06-06-2009,32.71579742,68.29573822,Taliban,1,1,Violence sig
+sigact,512,06-06-2009,34.45212555,68.79283905,Taliban,1,1,Violence sig
+sigact,513,06-06-2009,34.72520828,71.05870056,Taliban,1,1,Violence sig
+sigact,514,06-06-2009,33.33774948,69.95832062,Taliban,1,1,Violence sig
+ged,418,06-06-2009,32.5,62.5,Taleban,1,4,Violence ged
+ged,419,06-06-2009,33.383334,69.883334,Taleban,1,4,Violence ged
+ged,422,06-06-2009,33.158342,69.327506,Government of Afghanistan,1,2,Violence ged
+ged,423,06-06-2009,32.97518,69.192429,Government of Afghanistan,1,3,Violence ged
+sigact,515,06-06-2009,31.59832764,65.48739624,Taliban,2,1,Violence sig
+sigact,516,06-06-2009,32.00544739,67.11036682,Taliban,2,1,Violence sig
+sigact,517,06-06-2009,31.81682396,64.56580353,Taliban,2,1,Violence sig
+sigact,518,06-06-2009,33.33774948,69.95832062,Taliban,1,1,Violence sig
+sigact,519,06-06-2009,34.85281372,71.13514709,Taliban,1,1,Violence sig
+ged,427,06-06-2009,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,428,06-06-2009,32.25,67.25,Taleban,1,4,Violence ged
+sigact,520,06-06-2009,32.75036621,62.60010147,Taliban,1,1,Violence sig
+sigact,521,06-06-2009,31.74892807,65.03018188,Taliban,1,1,Violence sig
+sigact,522,06-06-2009,33.07137299,69.03321075,Taliban,1,1,Violence sig
+ged,430,06-06-2009,35.3,70.833333,Government of Afghanistan,1,4,Violence ged
+ged,431,06-06-2009,32.120374,64.994325,Government of Afghanistan,1,3,Violence ged
+sigact,523,06-06-2009,33.50082779,69.93232727,Taliban,2,1,Violence sig
+sigact,524,06-06-2009,33.36006927,62.34003448,Taliban,2,1,Violence sig
+sigact,525,06-06-2009,33.68973541,69.3765564,Taliban,1,1,Violence sig
+sigact,526,06-06-2009,34.96242142,71.07381439,ISAF,3,1,Violence sig
+ged,433,06-06-2009,30.15106,63.879346,Government of Afghanistan,1,3,Violence ged
+ged,435,06-06-2009,32.079122,65.989895,Government of Afghanistan,1,5,Violence ged
+sigact,527,06-06-2009,34.26655197,70.23396301,Taliban,2,1,Violence sig
+sigact,528,06-06-2009,31.98875427,64.82862854,Taliban,2,1,Violence sig
+sigact,529,06-06-2009,33.86097717,68.62761688,Taliban,1,1,Violence sig
+ged,437,06-06-2009,30.15106,63.879346,Government of Afghanistan,1,3,Violence ged
+ged,442,06-06-2009,32.7887,69.0893,Government of Afghanistan,1,1,Violence ged
+ged,443,06-06-2009,32.5127,68.8556,Government of Afghanistan,1,1,Violence ged
+sigact,530,06-06-2009,32.40335464,64.47271729,Taliban,2,1,Violence sig
+sigact,531,06-06-2009,32.76204681,69.33982086,Taliban,1,1,Violence sig
+ged,446,06-06-2009,31.5819,64.99308,Government of Afghanistan,1,3,Violence ged
+ged,447,06-06-2009,32.25,67.25,Government of Afghanistan,1,4,Violence ged
+sigact,532,06-06-2009,32.94522476,62.19764328,Taliban,1,1,Violence sig
+sigact,533,06-06-2009,32.93188858,62.22878265,Taliban,1,1,Violence sig
+sigact,534,06-06-2009,32.09801483,67.64771271,Taliban,2,1,Violence sig
+sigact,535,06-06-2009,33.99811935,68.83260345,Taliban,2,1,Violence sig
+sigact,536,06-06-2009,34.87596893,70.90841675,ISAF,3,1,Violence sig
+ged,451,06-06-2009,32.997793,66.690348,Government of Afghanistan,1,3,Violence ged
+ged,452,06-06-2009,31.507982,62.700962,Government of Afghanistan,1,1,Violence ged
+ged,453,06-06-2009,35.3,70.833333,Government of Afghanistan,1,4,Violence ged
+sigact,537,06-06-2009,32.91791153,66.66770172,Taliban,1,1,Violence sig
+sigact,538,06-06-2009,32.18937683,65.51045227,Taliban,2,1,Violence sig
+sigact,539,06-06-2009,33.98497772,68.85491943,Taliban,1,1,Violence sig
+sigact,540,06-06-2009,35.01386642,71.36177063,Taliban,1,1,Violence sig
+sigact,541,06-06-2009,34.85281372,71.13514709,Taliban,1,1,Violence sig
+ged,455,06-06-2009,34.95,71.133333,Taleban,1,4,Violence ged
+ged,456,06-06-2009,32.997793,66.690348,Government of Afghanistan,1,3,Violence ged
+sigact,542,06-06-2009,34.88648987,69.63603973,Taliban,1,1,Violence sig
+sigact,543,06-06-2009,31.5656147,64.36772919,Taliban,2,1,Violence sig
+sigact,544,06-06-2009,31.03972626,66.35966492,Taliban,2,1,Violence sig
+sigact,545,06-06-2009,36.34492111,64.60357666,Taliban,1,1,Violence sig
+sigact,546,06-06-2009,31.56023598,64.36448669,Taliban,1,1,Violence sig
+sigact,547,06-06-2009,34.92456436,71.02536011,ISAF,3,1,Violence sig
+sigact,548,06-06-2009,34.45849991,68.76646423,ISAF,3,1,Violence sig
+sigact,549,06-06-2009,31.71802521,61.62792969,Taliban,1,1,Violence sig
+sigact,550,06-06-2009,31.18753433,66.10381317,Taliban,2,1,Violence sig
+sigact,551,06-06-2009,32.39160538,64.47464752,Taliban,2,1,Violence sig
+sigact,552,06-06-2009,34.17546082,69.64671326,Taliban,1,1,Violence sig
+sigact,553,06-06-2009,34.44638824,68.80361938,Taliban,1,1,Violence sig
+sigact,554,06-06-2009,34.35911179,68.73268127,Taliban,1,1,Violence sig
+sigact,555,06-06-2009,32.41922379,68.34633636,Taliban,1,1,Violence sig
+ged,462,06-06-2009,33.666667,69.33333,Taleban,1,4,Violence ged
+ged,463,06-06-2009,34.25,68,Government of Afghanistan,1,4,Violence ged
+ged,465,06-06-2009,31.749897,62.940045,Government of Afghanistan,1,3,Violence ged
+sigact,556,06-06-2009,33.4204483,69.03979492,Taliban,2,1,Violence sig
+sigact,557,06-06-2009,32.93753052,66.60837555,Taliban,1,1,Violence sig
+sigact,558,06-06-2009,33.16170883,69.67971039,ISAF,3,1,Violence sig
+ged,467,06-06-2009,31,64,Government of Afghanistan,1,4,Violence ged
+ged,470,06-06-2009,31.749897,62.940045,Government of Afghanistan,1,3,Violence ged
+sigact,559,06-06-2009,31.52887154,65.44132996,Taliban,2,1,Violence sig
+sigact,560,06-06-2009,31.62587929,64.54151154,Taliban,2,1,Violence sig
+sigact,561,06-06-2009,35.66172028,69.39221954,Taliban,1,1,Violence sig
+sigact,562,06-06-2009,34.44566727,68.80340576,Taliban,1,1,Violence sig
+sigact,563,06-06-2009,36.80892181,66.37128448,Taliban,1,1,Violence sig
+ged,473,06-06-2009,32.6286,66.794,Government of Afghanistan,1,1,Violence ged
+sigact,564,06-06-2009,31.11486244,66.29154968,Taliban,2,1,Violence sig
+sigact,565,06-06-2009,32.63810349,69.26760101,Taliban,2,1,Violence sig
+sigact,566,06-06-2009,33.89035416,68.94592285,Taliban,2,1,Violence sig
+sigact,567,06-06-2009,33.05493927,69.05754089,Taliban,1,1,Violence sig
+sigact,568,06-06-2009,34.79935455,71.27420807,Taliban,1,1,Violence sig
+sigact,569,06-06-2009,31.76865196,64.96304321,ISAF,3,1,Violence sig
+ged,478,06-06-2009,34,69.25,Taleban,1,4,Violence ged
+ged,480,06-06-2009,35.178889,63.090612,Government of Afghanistan,1,3,Violence ged
+sigact,570,06-06-2009,32.21136856,67.06887817,Taliban,2,1,Violence sig
+sigact,571,06-06-2009,33.35642242,69.14155579,Taliban,2,1,Violence sig
+sigact,572,06-06-2009,33.49393845,68.62569427,Taliban,1,1,Violence sig
+sigact,573,06-06-2009,32.51009369,63.22357178,Taliban,1,1,Violence sig
+sigact,574,06-06-2009,33.69312668,68.22636414,Taliban,2,1,Violence sig
+ged,484,06-06-2009,34.25,68,Taleban,1,4,Violence ged
+ged,485,06-06-2009,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+ged,488,06-06-2010,32.350174,64.772322,Government of Afghanistan,1,2,Violence ged
+sigact,575,06-06-2010,33.67260742,68.68824768,Taliban,2,1,Violence sig
+sigact,576,06-06-2010,31.48994255,65.35295868,Taliban,2,1,Violence sig
+ged,489,06-06-2010,31.270823,64.091336,Government of Afghanistan,1,3,Violence ged
+ged,490,06-06-2010,31.735932,64.36725,Government of Afghanistan,1,2,Violence ged
+sigact,577,06-06-2010,33.4814682,70.08388519,Taliban,2,1,Violence sig
+sigact,578,06-06-2010,36.69901276,68.8119278,Taliban,2,1,Violence sig
+sigact,579,06-06-2010,33.69129181,69.01607513,Taliban,2,1,Violence sig
+sigact,580,06-06-2010,32.63774872,65.92177582,Taliban,2,1,Violence sig
+ged,491,06-06-2010,31.072875,65.158015,Taleban,1,3,Violence ged
+sigact,581,06-06-2010,31.59746742,65.48526764,Taliban,2,1,Violence sig
+sigact,582,06-06-2010,34.52786636,69.16671753,Taliban,2,1,Violence sig
+sigact,583,06-06-2010,33.4045372,69.38069916,Taliban,2,1,Violence sig
+sigact,584,06-06-2010,32.9875412,67.9995575,Taliban,1,1,Violence sig
+sigact,585,06-06-2010,32.93541336,68.64424896,Taliban,1,1,Violence sig
+sigact,586,06-06-2010,34.44566727,68.80340576,ISAF,3,1,Violence sig
+sigact,587,06-06-2010,34.73339462,70.88744354,Taliban,2,1,Violence sig
+sigact,588,06-06-2010,34.88246918,69.64651489,Taliban,1,1,Violence sig
+sigact,589,06-06-2010,33.70053864,68.67735291,Taliban,2,1,Violence sig
+ged,499,06-06-2010,32.945127,67.783463,Government of Afghanistan,1,3,Violence ged
+ged,500,06-06-2010,32.83333,66,Taleban,1,4,Violence ged
+ged,501,06-06-2010,32.236388,62.857286,Taleban,1,5,Violence ged
+gtd,228,06-06-2009,32.375081,62.115759,Taliban,2,1,Violence gtd
+sigact,590,06-06-2009,35.73421097,63.84706116,Taliban,1,1,Violence sig
+sigact,591,06-06-2009,34.44485474,68.80297089,Taliban,1,1,Violence sig
+ged,502,06-06-2009,31,65.75,Government of Afghanistan,1,4,Violence ged
+ged,504,06-06-2009,34,69.25,Government of Afghanistan,1,4,Violence ged
+ged,505,06-06-2009,32.416667,68.75,Taleban,1,4,Violence ged
+gtd,229,06-06-2009,30.96,61.86,Unknown,6,1,Violence gtd
+sigact,592,06-06-2009,32.68467331,68.2828598,Taliban,2,1,Violence sig
+sigact,593,06-06-2009,34.43997192,68.81088257,Taliban,1,1,Violence sig
+sigact,594,06-06-2009,34.95788956,69.61177063,Taliban,1,1,Violence sig
+sigact,595,06-06-2009,34.44566727,68.80340576,ISAF,3,1,Violence sig
+ged,506,06-06-2009,33.666667,69.33333,Taleban,1,4,Violence ged
+sigact,596,06-06-2009,31.44362831,64.10813904,Taliban,2,1,Violence sig
+sigact,597,06-06-2009,32.24937439,65.03805542,Taliban,1,1,Violence sig
+sigact,598,06-06-2009,36.3574028,68.85955811,Taliban,2,1,Violence sig
+sigact,599,06-06-2009,33.62205887,68.41570282,Taliban,2,1,Violence sig
+ged,510,06-06-2009,32.468709,64.47606,Government of Afghanistan,1,3,Violence ged
+ged,512,06-06-2009,32.120374,64.994325,Government of Afghanistan,1,3,Violence ged
+sigact,600,06-06-2009,32.62521362,65.45467377,Taliban,2,1,Violence sig
+sigact,601,06-06-2009,33.62165451,68.41577911,Taliban,2,1,Violence sig
+sigact,602,06-06-2009,35.05212021,70.90773773,Taliban,1,1,Violence sig
+sigact,603,06-06-2009,32.68231964,68.98175812,Taliban,1,1,Violence sig
+sigact,604,06-06-2009,32.61310959,68.92325592,Taliban,1,1,Violence sig
+sigact,605,14-07-2008,33.11912155,68.3212204,Taliban,1,1,Violence sig
+sigact,606,14-07-2008,34.2846489,68.83691406,Taliban,1,1,Violence sig
+sigact,607,15-07-2008,32.6922226,65.90542603,Taliban,2,1,Violence sig
+sigact,608,15-07-2008,31.81187439,64.52768707,Taliban,2,1,Violence sig
+sigact,609,15-07-2008,33.06877518,62.52872086,Taliban,2,1,Violence sig
+sigact,610,15-07-2008,32.62584686,62.54695129,Taliban,2,1,Violence sig
+sigact,611,15-07-2008,34.9537468,69.60337067,Taliban,1,1,Violence sig
+sigact,612,15-07-2008,33.40734482,69.37651825,ISAF,3,1,Violence sig
+sigact,613,15-07-2008,32.2874527,63.06053543,ISAF,3,1,Violence sig
+sigact,614,15-07-2008,34.44566727,68.80340576,ISAF,3,1,Violence sig
+ged,520,15-07-2008,32.080455,66.007358,Government of Afghanistan,1,3,Violence ged
+ged,522,15-07-2008,32.005213,65.500902,Government of Afghanistan,1,3,Violence ged
+ged,523,15-07-2008,31.9983,66.736,Government of Afghanistan,1,1,Violence ged
+sigact,615,16-07-2008,31.57233238,65.38452148,Taliban,2,1,Violence sig
+sigact,616,16-07-2008,32.00208282,64.81134796,Taliban,1,1,Violence sig
+sigact,617,16-07-2009,33.18592834,62.17829514,Taliban,1,1,Violence sig
+ged,525,16-07-2009,32.416667,68.75,Government of Afghanistan,1,4,Violence ged
+sigact,618,16-07-2009,33.1161232,68.04275513,Taliban,2,1,Violence sig
+sigact,619,16-07-2009,36.81707001,70.1059494,Taliban,1,1,Violence sig
+sigact,620,16-07-2009,36.81707001,70.1059494,Taliban,1,1,Violence sig
+sigact,621,16-07-2009,33.37537384,69.46765137,ISAF,3,1,Violence sig
+ged,529,16-07-2009,33.244188,62.359647,Government of Afghanistan,1,1,Violence ged
+ged,530,16-07-2009,33.240272,62.217169,Government of Afghanistan,1,1,Violence ged
+sigact,622,16-07-2009,33.45561981,69.05272675,Taliban,1,1,Violence sig
+sigact,623,16-07-2009,31.48547363,65.35074615,Taliban,2,1,Violence sig
+ged,534,16-07-2009,32.154186,66.989135,Taleban,1,5,Violence ged
+ged,535,16-07-2009,33.666667,69.33333,Taleban,1,4,Violence ged
+ged,536,16-07-2009,33.33333,67.75,Taleban,1,4,Violence ged
+sigact,624,16-07-2009,31.56918144,65.26013947,Taliban,2,1,Violence sig
+sigact,625,16-07-2009,32.42394638,68.36837006,Taliban,2,1,Violence sig
+sigact,626,16-07-2009,31.55841064,65.84441376,Taliban,2,1,Violence sig
+sigact,627,16-07-2009,33.27684402,69.9126358,Taliban,1,1,Violence sig
+ged,540,16-07-2009,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+ged,541,16-07-2009,32.25,67.25,Taleban,1,4,Violence ged
+sigact,628,16-07-2009,34.36729813,68.80423737,Taliban,1,1,Violence sig
+sigact,629,16-07-2009,33.50726318,67.18799591,Taliban,1,1,Violence sig
+sigact,630,16-07-2009,33.43927765,69.64515686,Taliban,1,1,Violence sig
+sigact,631,16-07-2009,32.59373093,69.33886719,ISAF,3,1,Violence sig
+ged,546,20-07-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+ged,548,20-07-2008,31,64,Taleban,1,4,Violence ged
+ged,552,20-07-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+ged,553,20-07-2008,32.350174,64.772322,Government of Afghanistan,1,2,Violence ged
+sigact,632,21-07-2008,32.41600418,64.47079468,Taliban,2,1,Violence sig
+sigact,633,21-07-2008,32.12183762,66.07042694,Taliban,1,1,Violence sig
+sigact,634,21-07-2008,34.854496,69.64979553,Taliban,2,1,Violence sig
+sigact,635,21-07-2008,31.89529037,66.52578735,Taliban,1,1,Violence sig
+sigact,636,21-07-2008,32.23243713,62.99681473,Taliban,2,1,Violence sig
+sigact,637,21-07-2008,32.27423477,64.7647171,Taliban,2,1,Violence sig
+sigact,638,21-07-2008,34.93666077,69.62963867,Taliban,1,1,Violence sig
+ged,554,21-07-2008,32.25,67.25,Taleban,1,4,Violence ged
+ged,558,21-07-2008,32.771851,62.753066,Taleban,1,3,Violence ged
+ged,559,21-07-2008,31.447533,67.253177,Government of Afghanistan,1,3,Violence ged
+ged,560,21-07-2008,32.080455,66.007358,Government of Afghanistan,1,3,Violence ged
+ged,561,21-07-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+sigact,639,22-07-2008,34.50262833,69.15686035,Taliban,2,1,Violence sig
+sigact,640,22-07-2008,32.91319275,69.28660583,Taliban,1,1,Violence sig
+sigact,641,22-07-2008,33.20148468,69.71273804,Taliban,2,1,Violence sig
+ged,562,22-07-2008,33.929385,68.659797,Government of Afghanistan,1,3,Violence ged
+ged,565,22-07-2008,31,64,Government of Afghanistan,1,4,Violence ged
+gtd,252,22-07-2008,33.358508,69.859741,Unknown,3,4,Violence gtd
+sigact,642,23-07-2008,32.51723099,62.27599716,Taliban,1,1,Violence sig
+sigact,643,23-07-2008,34.29788971,70.37278748,Taliban,2,1,Violence sig
+sigact,644,23-07-2008,33.11633301,68.80812836,Taliban,2,1,Violence sig
+sigact,645,23-07-2008,33.51555634,67.19649506,ISAF,3,1,Violence sig
+ged,567,23-07-2008,32.6178,63.6676,Taleban,1,2,Violence ged
+ged,568,23-07-2008,33.516229,67.114352,Government of Afghanistan,1,3,Violence ged
+ged,569,23-07-2008,32.83333,66,Government of Afghanistan,1,4,Violence ged
+sigact,646,24-07-2008,31.55917931,65.41262817,Taliban,2,1,Violence sig
+sigact,647,24-07-2008,33.69139862,69.36685181,Taliban,2,1,Violence sig
+sigact,648,24-07-2008,33.36778259,69.40812683,Taliban,1,1,Violence sig
+sigact,649,24-07-2008,34.83911133,69.65022278,Taliban,1,1,Violence sig
+ged,571,24-07-2008,32.259197,67.3629,Government of Afghanistan,1,1,Violence ged
+sigact,650,25-07-2010,31.94344139,64.74777985,Taliban,2,1,Violence sig
+sigact,651,25-07-2010,33.50904846,69.91841888,Taliban,2,1,Violence sig
+ged,573,25-07-2010,31,64,Taleban,1,4,Violence ged
+ged,574,25-07-2010,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+ged,575,25-07-2010,33.516229,67.114352,Government of Afghanistan,1,3,Violence ged
+ged,577,25-07-2010,36.790547,69.913569,Government of Afghanistan,1,3,Violence ged
+sigact,652,25-07-2010,33.0140686,69.48297119,Taliban,2,1,Violence sig
+sigact,653,25-07-2010,33.96251297,68.9675293,Taliban,1,1,Violence sig
+sigact,654,25-07-2010,33.22914505,69.51784515,Taliban,1,1,Violence sig
+sigact,655,25-07-2010,33.27988815,69.25843048,ISAF,3,1,Violence sig
+ged,579,25-07-2010,33.372715,69.406475,Government of Afghanistan,1,3,Violence ged
+sigact,656,25-07-2010,33.50018692,70.00938416,Taliban,2,1,Violence sig
+sigact,657,25-07-2010,33.49936676,70.00379181,Taliban,2,1,Violence sig
+ged,580,25-07-2010,33.2025,69.5165,Government of Afghanistan,1,1,Violence ged
+sigact,658,25-07-2010,31.64294815,65.00151062,Taliban,2,1,Violence sig
+ged,581,25-07-2010,31.625941,63.861445,Taleban,1,3,Violence ged
+ged,582,25-07-2010,32.683043,66.030379,Government of Afghanistan,1,2,Violence ged
+ged,583,25-07-2010,31.908849,66.520153,Taleban,1,3,Violence ged
+sigact,659,29-07-2008,34.53559113,70.28271484,Taliban,2,1,Violence sig
+sigact,660,29-07-2008,33.43553925,68.53353882,Taliban,1,1,Violence sig
+sigact,661,29-07-2008,32.88214111,67.85720062,Taliban,1,1,Violence sig
+ged,584,29-07-2008,34,69.25,Taleban,1,4,Violence ged
+ged,587,29-07-2008,33.1201,68.3362,Government of Afghanistan,1,1,Violence ged
+sigact,662,30-07-2008,34.94458389,71.04117584,Taliban,2,1,Violence sig
+ged,589,30-07-2008,33.305843,68.446963,Government of Afghanistan,1,3,Violence ged
+gtd,263,30-07-2008,34.376111,62.243056,Taliban,6,1,Violence gtd
+gtd,265,30-07-2008,37.181789,68.913158,Unknown,7,1,Violence gtd
+sigact,663,31-07-2008,31.54020691,65.46163177,Taliban,2,1,Violence sig
+sigact,664,31-07-2008,34.93103027,69.62006378,Taliban,1,1,Violence sig
+sigact,665,01-08-2008,33.21166229,69.77548218,Taliban,2,1,Violence sig
+sigact,666,01-08-2008,34.73067093,70.88847351,Taliban,2,1,Violence sig
+ged,591,01-08-2008,32.5,62.5,Government of Afghanistan,1,4,Violence ged
+ged,595,01-08-2008,32.920909,65.474153,Government of Afghanistan,1,3,Violence ged
+ged,596,01-08-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+ged,598,01-08-2008,33.383334,69.883334,Government of Afghanistan,1,4,Violence ged
+ged,599,01-08-2008,31.625941,63.861445,Taleban,1,3,Violence ged
+ged,600,01-08-2008,32.043898,65.195661,Taleban,1,3,Violence ged
+sigact,667,02-08-2008,32.11231995,63.18231964,Taliban,1,1,Violence sig
+sigact,668,02-08-2008,33.52191544,69.33705902,Taliban,2,1,Violence sig
+sigact,669,02-08-2008,31.55086136,65.40409088,Taliban,1,1,Violence sig
+sigact,670,02-08-2008,33.55623245,69.87937927,Taliban,2,1,Violence sig
+sigact,671,02-08-2009,35.42356491,71.3252182,Taliban,1,1,Violence sig
+ged,601,02-08-2009,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+ged,602,02-08-2009,31.00568,66.4002,Taleban,1,2,Violence ged
+sigact,672,02-08-2009,34.49669647,69.32267761,Taliban,2,1,Violence sig
+sigact,673,02-08-2009,33.46253204,69.97685242,Taliban,2,1,Violence sig
+sigact,674,02-08-2009,34.44566727,68.80351257,Taliban,1,1,Violence sig
+ged,603,02-08-2009,31.82004,64.570518,Taleban,1,1,Violence ged
+ged,605,02-08-2009,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,608,02-08-2009,35.273939,68.377712,Government of Afghanistan,1,3,Violence ged
+sigact,675,02-08-2009,33.17760849,69.70793152,Taliban,2,1,Violence sig
+sigact,676,02-08-2009,32.93235397,69.16687012,Taliban,2,1,Violence sig
+ged,610,02-08-2009,32.92962,66.2608,Government of Afghanistan,1,3,Violence ged
+ged,611,04-08-2008,31.072875,65.158015,Taleban,1,3,Violence ged
+ged,612,04-08-2008,32.5,62.5,Taleban,1,4,Violence ged
+ged,613,04-08-2008,32.62675,65.873313,Government of Afghanistan,1,1,Violence ged
+ged,614,04-08-2008,32.920909,65.474153,Government of Afghanistan,1,3,Violence ged
+ged,615,04-08-2008,30.987916,66.169753,Government of Afghanistan,1,3,Violence ged
+gtd,274,04-08-2008,32.943021,69.179885,Unknown,3,1,Violence gtd
+sigact,677,05-08-2008,34.3678627,68.81848145,Taliban,1,1,Violence sig
+ged,617,05-08-2008,35,69.58333,Government of Afghanistan,1,4,Violence ged
+sigact,678,06-08-2008,36.32310867,68.83177185,Taliban,2,1,Violence sig
+sigact,679,06-08-2008,33.59093094,69.84438324,Taliban,1,1,Violence sig
+ged,619,06-08-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,621,06-08-2008,35.462075,63.469625,Government of Afghanistan,1,3,Violence ged
+ged,622,06-08-2008,32.48418,65.038714,Government of Afghanistan,1,3,Violence ged
+sigact,680,07-08-2008,32.62278366,62.54347992,Taliban,1,1,Violence sig
+sigact,681,07-08-2008,31.60770416,65.69207001,Taliban,2,1,Violence sig
+sigact,682,07-08-2008,32.95979691,68.55683899,Taliban,1,1,Violence sig
+ged,624,07-08-2008,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+ged,625,07-08-2008,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+sigact,683,08-08-2008,33.09915924,68.28072357,Taliban,1,1,Violence sig
+sigact,684,08-08-2008,35.27643967,63.02639008,Taliban,2,1,Violence sig
+sigact,685,08-08-2008,33.10565186,68.97428131,Taliban,2,1,Violence sig
+sigact,686,08-08-2008,30.34955215,66.176651,Taliban,2,1,Violence sig
+sigact,687,08-08-2008,34.9855957,70.90307617,Taliban,1,1,Violence sig
+ged,627,08-08-2008,32.5,62.5,Taleban,1,4,Violence ged
+ged,629,08-08-2008,33.237591,69.012001,Taleban,1,1,Violence ged
+ged,630,08-08-2008,32.771851,62.753066,Government of Afghanistan,1,3,Violence ged
+sigact,688,09-08-2008,34.86943436,69.64221954,ISAF,3,1,Violence sig
+sigact,689,10-08-2008,32.53954315,69.1999054,Taliban,1,1,Violence sig
+sigact,690,10-08-2008,32.94664001,66.63877869,Taliban,1,1,Violence sig
+ged,634,10-08-2008,32.997793,66.690348,Government of Afghanistan,1,3,Violence ged
+sigact,691,11-08-2008,34.42602921,70.48876953,Taliban,1,1,Violence sig
+sigact,692,11-08-2008,31.99416733,66.75065613,Taliban,1,1,Violence sig
+sigact,693,11-08-2008,35.91524124,64.77327728,Taliban,2,1,Violence sig
+sigact,694,11-08-2008,34.54297638,69.28553772,Taliban,2,1,Violence sig
+sigact,695,11-08-2008,31.99416733,66.75065613,Taliban,1,1,Violence sig
+sigact,696,11-08-2008,34.46108627,69.19706726,Taliban,2,1,Violence sig
+sigact,697,11-08-2008,33.20563126,69.73621368,Taliban,2,1,Violence sig
+sigact,698,11-08-2008,32.2218132,66.85580444,Taliban,1,1,Violence sig
+sigact,699,11-08-2008,34.46108627,69.19706726,Taliban,2,1,Violence sig
+ged,638,11-08-2008,32.25,67.25,Taleban,1,4,Violence ged
+sigact,700,12-08-2008,33.86370087,68.62993622,Taliban,1,1,Violence sig
+sigact,701,12-08-2008,32.01626587,64.82855988,Taliban,1,1,Violence sig
+sigact,702,12-08-2008,31.4274807,64.09742737,Taliban,2,1,Violence sig
+sigact,703,13-08-2008,32.36862946,66.17409515,Taliban,1,1,Violence sig
+sigact,704,13-08-2008,33.33987427,68.81997681,Taliban,1,1,Violence sig
+sigact,705,13-08-2008,31.57954407,65.23510742,Taliban,2,1,Violence sig
+sigact,706,13-08-2008,33.51346207,69.93138123,Taliban,2,1,Violence sig
+sigact,707,13-08-2008,34.08437347,69.25244904,Taliban,1,1,Violence sig
+ged,648,13-08-2008,32.372,66.1742,Government of Afghanistan,1,2,Violence ged
+sigact,708,14-08-2008,32.2649231,66.13693237,Taliban,1,1,Violence sig
+sigact,709,14-08-2008,35.40444946,71.42671967,Taliban,1,1,Violence sig
+sigact,710,14-08-2008,32.05557251,64.85476685,Taliban,2,1,Violence sig
+sigact,711,14-08-2008,33.55342102,69.89400482,Taliban,2,1,Violence sig
+sigact,712,14-08-2008,34.3367157,69.13916016,Taliban,2,1,Violence sig
+ged,649,14-08-2008,32.83333,66,Government of Afghanistan,1,4,Violence ged
+ged,651,14-08-2008,33.453563,69.376801,Government of Afghanistan,1,2,Violence ged
+sigact,713,15-08-2008,33.42259598,69.37324524,Taliban,1,1,Violence sig
+sigact,714,15-08-2008,34.24407959,68.8271637,Taliban,2,1,Violence sig
+sigact,715,15-08-2008,32.35884476,66.66941833,Taliban,2,1,Violence sig
+sigact,716,15-08-2008,33.33839798,69.94348145,Taliban,2,1,Violence sig
+ged,652,15-08-2008,31,64,Taleban,1,4,Violence ged
+ged,654,15-08-2008,34.797169,69.67923,Government of Afghanistan,1,3,Violence ged
+ged,655,15-08-2008,34.25,68,Taleban,1,4,Violence ged
+sigact,717,16-08-2008,34.90633392,70.9487381,Taliban,1,1,Violence sig
+sigact,718,16-08-2008,34.09746552,69.05168915,Taliban,1,1,Violence sig
+sigact,719,16-08-2008,33.86686325,68.64807892,Taliban,1,1,Violence sig
+sigact,720,16-08-2008,34.90400314,70.94299316,Taliban,1,1,Violence sig
+sigact,721,16-08-2008,32.09568024,66.10131073,Taliban,2,1,Violence sig
+sigact,722,16-08-2008,34.91486359,70.93460083,Taliban,2,1,Violence sig
+sigact,723,16-08-2008,32.0103035,64.8292923,Taliban,1,1,Violence sig
+sigact,724,16-08-2008,32.2856369,66.66068268,Taliban,2,1,Violence sig
+ged,656,16-08-2008,33.453563,69.376801,Government of Afghanistan,1,2,Violence ged
+ged,659,16-08-2008,32.612577,66.688212,Government of Afghanistan,1,3,Violence ged
+ged,660,16-08-2008,33.470776,68.608627,Government of Afghanistan,1,1,Violence ged
+sigact,725,17-08-2008,32.54937744,69.27979279,Taliban,1,1,Violence sig
+sigact,726,17-08-2008,34.8850708,69.66535187,Taliban,1,1,Violence sig
+sigact,727,17-08-2008,32.22968292,63.10931778,ISAF,3,1,Violence sig
+ged,663,17-08-2008,32.265896,67.139893,Government of Afghanistan,1,1,Violence ged
+ged,664,17-08-2008,34.797169,69.67923,Government of Afghanistan,1,3,Violence ged
+ged,665,17-08-2008,34.3856,70.4428,Taleban,1,1,Violence ged
+ged,666,17-08-2008,32.713324,69.27614,Government of Afghanistan,1,3,Violence ged
+sigact,728,18-08-2008,35.40444183,71.42701721,Taliban,1,1,Violence sig
+sigact,729,18-08-2008,34.64517593,69.81837463,Taliban,1,1,Violence sig
+sigact,730,18-08-2008,34.64517593,69.81837463,Taliban,1,1,Violence sig
+sigact,731,18-08-2008,33.37217331,69.97172546,Taliban,2,1,Violence sig
+sigact,732,18-08-2008,34.86698151,70.1109848,Taliban,2,1,Violence sig
+sigact,733,18-08-2008,33.35667419,69.96897125,Taliban,2,1,Violence sig
+ged,667,18-08-2008,31,62.5,Government of Afghanistan,1,4,Violence ged
+ged,668,18-08-2008,33.453563,69.376801,Government of Afghanistan,1,2,Violence ged
+ged,669,18-08-2008,34.79114,69.660444,Government of Afghanistan,1,2,Violence ged
+ged,671,18-08-2008,33.366944,69.960555,Government of Afghanistan,1,1,Violence ged
+ged,674,18-08-2008,34.659698,69.847397,Government of Afghanistan,1,1,Violence ged
+sigact,734,19-08-2008,33.33045959,68.53302002,Taliban,1,1,Violence sig
+sigact,735,19-08-2008,31.54120827,65.45639038,Taliban,2,1,Violence sig
+sigact,736,19-08-2008,33.3787384,69.70955658,Taliban,2,1,Violence sig
+ged,676,19-08-2008,33.524792,69.049301,Government of Afghanistan,1,1,Violence ged
+sigact,737,20-08-2008,33.33217239,68.55729675,Taliban,2,1,Violence sig
+sigact,738,20-08-2008,34.9454689,71.04229736,Taliban,1,1,Violence sig
+sigact,739,20-08-2008,31.57152939,65.37923431,Taliban,2,1,Violence sig
+sigact,740,20-08-2008,33.4315834,70.12520599,Taliban,1,1,Violence sig
+sigact,741,20-08-2008,33.34832764,68.51210785,Taliban,2,1,Violence sig
+sigact,742,20-08-2008,32.30509567,65.08868408,Taliban,2,1,Violence sig
+sigact,743,20-08-2008,32.96620178,66.64611053,Taliban,1,1,Violence sig
+sigact,744,20-08-2008,33.44864273,68.3748703,Taliban,2,1,Violence sig
+ged,677,20-08-2008,33.383675,70.190835,Government of Afghanistan,1,3,Violence ged
+ged,679,20-08-2008,34.631821,69.928751,Government of Afghanistan,1,2,Violence ged
+sigact,745,21-08-2008,33.85746765,68.62450409,Taliban,1,1,Violence sig
+sigact,746,21-08-2008,33.28360748,62.32783127,Taliban,1,1,Violence sig
+sigact,747,21-08-2008,32.46770859,66.85810089,Taliban,2,1,Violence sig
+sigact,748,21-08-2008,35.73552704,63.78625488,Taliban,2,1,Violence sig
+ged,682,21-08-2008,34.79114,69.660444,Government of Afghanistan,1,2,Violence ged
+ged,683,21-08-2008,32.997793,66.690348,Government of Afghanistan,1,3,Violence ged
+ged,684,21-08-2008,35.734207,63.785556,Government of Afghanistan,1,3,Violence ged
+sigact,749,22-08-2008,32.94364548,66.64060974,Taliban,1,1,Violence sig
+sigact,750,22-08-2008,34.31827164,68.50749207,Taliban,2,1,Violence sig
+sigact,751,22-08-2008,35.26111221,63.00549698,Taliban,2,1,Violence sig
+sigact,752,22-08-2008,33.41119385,68.51140594,Taliban,2,1,Violence sig
+ged,686,22-08-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,687,22-08-2008,33.33333,67.75,Taleban,1,4,Violence ged
+ged,688,22-08-2008,35,63.75,Taleban,1,4,Violence ged
+ged,690,22-08-2008,33.33333,67.75,Taleban,1,4,Violence ged
+sigact,753,23-08-2010,31.99682617,67.33164978,Taliban,1,1,Violence sig
+sigact,754,23-08-2010,33.22325516,69.76732635,Taliban,2,1,Violence sig
+sigact,755,23-08-2010,32.60546875,65.87492371,Taliban,2,1,Violence sig
+sigact,756,23-08-2010,35.72834396,63.78176117,Taliban,2,1,Violence sig
+ged,691,23-08-2010,35,63.75,Taleban,1,4,Violence ged
+sigact,757,23-08-2010,32.78216171,67.72614288,Taliban,1,1,Violence sig
+sigact,758,23-08-2010,34.92477417,70.94632721,Taliban,1,1,Violence sig
+sigact,759,23-08-2010,32.3745575,62.11237335,Taliban,2,1,Violence sig
+ged,694,23-08-2010,32.465816,64.737566,Government of Afghanistan,1,3,Violence ged
+ged,695,23-08-2010,32.373795,62.1157,Government of Afghanistan,1,1,Violence ged
+ged,696,23-08-2010,34.79114,69.660444,Government of Afghanistan,1,2,Violence ged
+sigact,760,25-08-2008,33.83510971,68.60453033,Taliban,1,1,Violence sig
+sigact,761,25-08-2008,33.42593384,69.65615845,Taliban,1,1,Violence sig
+ged,697,25-08-2008,31,64,Taleban,1,4,Violence ged
+ged,698,25-08-2008,31,64,Government of Afghanistan,1,4,Violence ged
+sigact,762,26-08-2008,31.71801567,64.80685425,Taliban,2,1,Violence sig
+sigact,763,26-08-2008,32.19094467,64.16908264,Taliban,1,1,Violence sig
+sigact,764,26-08-2008,32.18901443,64.98664856,Taliban,1,1,Violence sig
+ged,699,26-08-2008,33.33333,67.75,Taleban,1,4,Violence ged
+ged,700,26-08-2008,31.579996,64.377396,Government of Afghanistan,1,2,Violence ged
+ged,701,26-08-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+ged,702,26-08-2008,32.6604,62.1207,Government of Afghanistan,1,1,Violence ged
+ged,703,26-08-2008,32.751723,69.047267,Government of Afghanistan,1,3,Violence ged
+sigact,765,27-08-2008,36.61254883,68.87475586,Taliban,2,1,Violence sig
+sigact,766,27-08-2008,32.73643112,67.62854767,Taliban,2,1,Violence sig
+sigact,767,27-08-2008,31.70486259,64.84352875,Taliban,2,1,Violence sig
+sigact,768,27-08-2008,35.59968948,63.33119583,Taliban,1,1,Violence sig
+sigact,769,27-08-2008,32.20163345,66.42207336,Taliban,1,1,Violence sig
+sigact,770,27-08-2008,33.96801758,68.98506165,Taliban,1,1,Violence sig
+ged,704,27-08-2008,32.120374,64.994325,Government of Afghanistan,1,3,Violence ged
+ged,705,27-08-2008,32.511956,66.987372,Government of Afghanistan,1,3,Violence ged
+ged,706,27-08-2008,31,65.75,Taleban,1,4,Violence ged
+sigact,771,28-08-2008,34.87950897,70.11273956,Taliban,2,1,Violence sig
+sigact,772,28-08-2008,32.94218445,65.56606293,Taliban,1,1,Violence sig
+sigact,773,28-08-2008,34.8970871,70.91853333,Taliban,1,1,Violence sig
+ged,708,28-08-2008,32.920909,65.474153,Government of Afghanistan,1,3,Violence ged
+ged,711,29-08-2008,35.042243,69.633367,Government of Afghanistan,1,3,Violence ged
+gtd,292,29-08-2008,32.677851,61.981391,Taliban,7,3,Violence gtd
+sigact,774,30-08-2008,32.24806213,65.00724792,Taliban,1,1,Violence sig
+sigact,775,30-08-2008,32.17969131,64.99620056,Taliban,1,1,Violence sig
+sigact,776,30-08-2008,32.46608734,65.13121796,Taliban,1,1,Violence sig
+sigact,777,30-08-2008,32.17230606,64.9493866,Taliban,1,1,Violence sig
+sigact,778,30-08-2008,34.51895905,69.02506256,Taliban,2,1,Violence sig
+sigact,779,30-08-2008,32.06579971,64.83378601,Taliban,2,1,Violence sig
+sigact,780,30-08-2008,31.95788383,64.74699402,Taliban,1,1,Violence sig
+sigact,781,30-08-2008,32.97305298,66.67481232,Taliban,1,1,Violence sig
+sigact,782,30-08-2008,34.8807106,70.90491486,Taliban,1,1,Violence sig
+ged,712,30-08-2008,34.531094,69.162796,Government of Afghanistan,1,2,Violence ged
+ged,713,30-08-2008,34.985958,63.129742,Taleban,1,2,Violence ged
+sigact,783,31-08-2008,32.64696884,69.33374023,Taliban,1,1,Violence sig
+sigact,784,31-08-2008,31.0602684,64.20009613,Taliban,2,1,Violence sig
+sigact,785,31-08-2008,32.25175476,67.03192902,Taliban,2,1,Violence sig
+sigact,786,31-08-2008,31.5962925,64.36711884,Taliban,2,1,Violence sig
+sigact,787,01-09-2008,32.26807404,65.01352692,Taliban,1,1,Violence sig
+sigact,788,01-09-2008,32.92202377,69.35936737,Taliban,1,1,Violence sig
+sigact,789,01-09-2008,32.02361298,64.99916077,Taliban,1,1,Violence sig
+sigact,790,01-09-2008,32.24704361,65.01465607,Taliban,1,1,Violence sig
+sigact,791,01-09-2008,33.34858322,69.90812683,Taliban,2,1,Violence sig
+sigact,792,01-09-2008,33.2375412,68.2089386,Taliban,1,1,Violence sig
+sigact,793,01-09-2008,32.26807404,65.01352692,ISAF,3,1,Violence sig
+ged,716,01-09-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+ged,717,01-09-2008,34.25,68,Taleban,1,4,Violence ged
+ged,718,01-09-2008,31,65.75,Taleban,1,4,Violence ged
+sigact,794,02-09-2008,32.05082321,64.99520111,Taliban,1,1,Violence sig
+sigact,795,02-09-2008,32.96553421,66.73342133,Taliban,1,1,Violence sig
+sigact,796,02-09-2008,31.06610489,66.55381012,Taliban,2,1,Violence sig
+sigact,797,02-09-2008,32.27530289,67.68532562,ISAF,3,1,Violence sig
+ged,723,02-09-2008,32.997793,66.690348,Government of Afghanistan,1,3,Violence ged
+ged,724,02-09-2008,32.217008,67.567827,Government of Afghanistan,1,3,Violence ged
+gtd,296,02-09-2008,36.758946,64.858516,Unknown,2,2,Violence gtd
+sigact,798,03-09-2008,31.5471611,65.42811584,Taliban,1,1,Violence sig
+sigact,799,04-09-2008,32.4077301,64.48177338,Taliban,1,1,Violence sig
+sigact,800,04-09-2008,32.07574844,64.8318634,Taliban,2,1,Violence sig
+sigact,801,04-09-2008,34.77044296,70.88774109,Taliban,1,1,Violence sig
+sigact,802,04-09-2008,31.68564415,65.03934479,Taliban,2,1,Violence sig
+sigact,803,04-09-2008,33.57396317,69.85105133,ISAF,3,1,Violence sig
+ged,726,04-09-2008,31.480806,64.875154,Taleban,1,5,Violence ged
+sigact,804,05-09-2008,32.14191437,67.62084198,Taliban,2,1,Violence sig
+ged,730,05-09-2008,32.2091,63.0522,Government of Afghanistan,1,1,Violence ged
+ged,731,05-09-2008,33.33333,67.75,Taleban,1,4,Violence ged
+sigact,805,06-09-2008,34.90764999,70.95161438,Taliban,1,1,Violence sig
+sigact,806,06-09-2008,30.95887756,61.86190033,Taliban,2,1,Violence sig
+ged,734,06-09-2008,34.783333,70.183333,Government of Afghanistan,1,4,Violence ged
+ged,735,06-09-2008,30.206999,62.10307,Government of Afghanistan,1,3,Violence ged
+ged,737,06-09-2008,34.95,71.133333,Taleban,1,4,Violence ged
+sigact,807,07-09-2008,33.85441208,68.62203217,Taliban,1,1,Violence sig
+sigact,808,07-09-2008,34.34645081,62.14757156,Taliban,2,1,Violence sig
+sigact,809,07-09-2009,31.57850456,65.57746124,Taliban,2,1,Violence sig
+sigact,810,07-09-2009,31.61651611,65.70181274,Taliban,2,1,Violence sig
+sigact,811,07-09-2009,32.79728317,65.92378235,Taliban,2,1,Violence sig
+sigact,812,07-09-2009,32.10669708,66.91192627,Taliban,2,1,Violence sig
+ged,741,07-09-2009,32.10368,66.905121,Government of Afghanistan,1,1,Violence ged
+ged,742,07-09-2009,34.349991,62.200001,Government of Afghanistan,1,1,Violence ged
+sigact,813,07-09-2009,34.45166397,68.77624512,Taliban,1,1,Violence sig
+sigact,814,07-09-2009,34.77484512,71.11164856,Taliban,1,1,Violence sig
+sigact,815,07-09-2009,34.90375137,70.94609833,Taliban,1,1,Violence sig
+sigact,816,07-09-2009,33.53087616,69.89387512,Taliban,1,1,Violence sig
+sigact,817,07-09-2009,33.27854919,68.92642212,Taliban,2,1,Violence sig
+sigact,818,07-09-2009,33.57742691,69.8539505,ISAF,3,1,Violence sig
+sigact,819,07-09-2009,33.35342407,69.47623444,ISAF,3,1,Violence sig
+ged,744,07-09-2009,34.25,68,Government of Afghanistan,1,4,Violence ged
+ged,745,07-09-2009,33.372715,69.406475,Government of Afghanistan,1,3,Violence ged
+ged,748,07-09-2009,33.543516,69.9118,Government of Afghanistan,1,3,Violence ged
+sigact,820,07-09-2009,34.95682907,69.60201263,Taliban,2,1,Violence sig
+sigact,821,09-09-2008,31.57499695,65.6605835,Taliban,2,1,Violence sig
+sigact,822,09-09-2008,31.48545456,65.35179901,Taliban,2,1,Violence sig
+ged,750,09-09-2008,35,68.91667,Taleban,1,4,Violence ged
+ged,752,09-09-2008,32.62675,65.873313,Government of Afghanistan,1,2,Violence ged
+sigact,823,10-09-2008,31.7770195,64.47716522,Taliban,1,1,Violence sig
+sigact,824,10-09-2008,32.34630966,64.7692337,Taliban,2,1,Violence sig
+sigact,825,10-09-2008,34.55734634,70.25024414,ISAF,3,1,Violence sig
+ged,754,10-09-2008,33.3752,68.4071,Government of Afghanistan,1,1,Violence ged
+gtd,303,10-09-2008,36.370146,66.891581,Taliban,2,1,Violence gtd
+gtd,304,10-09-2008,35.243333,62.283889,Unknown,2,1,Violence gtd
+sigact,826,11-09-2008,35.42224121,71.61702728,Taliban,1,1,Violence sig
+sigact,827,11-09-2008,31.61543465,65.75235748,Taliban,2,1,Violence sig
+sigact,828,11-09-2008,33.54349899,68.42514038,Taliban,2,1,Violence sig
+sigact,829,11-09-2008,34.94138718,70.08444214,Taliban,1,1,Violence sig
+sigact,830,11-09-2008,33.29158783,68.86914063,ISAF,3,1,Violence sig
+ged,758,11-09-2008,34.797169,69.67923,Government of Afghanistan,1,3,Violence ged
+ged,759,11-09-2008,34.011698,69.073448,Taleban,1,5,Violence ged
+gtd,307,11-09-2008,34.341944,62.203056,Taliban,3,1,Violence gtd
+ged,760,12-09-2008,31,64,Taleban,1,4,Violence ged
+ged,761,12-09-2008,32.21683,62.88273,Government of Afghanistan,1,3,Violence ged
+sigact,831,13-09-2008,33.66545868,68.59544373,Taliban,1,1,Violence sig
+sigact,832,13-09-2008,34.56762314,68.98410797,Taliban,2,1,Violence sig
+sigact,833,13-09-2008,32.32552338,65.06950378,Taliban,2,1,Violence sig
+sigact,834,13-09-2008,34.89801407,70.11859894,Taliban,1,1,Violence sig
+sigact,835,13-09-2008,32.19432068,68.3506012,ISAF,3,1,Violence sig
+ged,764,13-09-2008,33.383334,69.883334,Government of Afghanistan,1,4,Violence ged
+sigact,836,14-09-2008,31.85465813,64.8391037,Taliban,1,1,Violence sig
+sigact,837,14-09-2008,30.98536682,66.34755707,Taliban,2,1,Violence sig
+sigact,838,14-09-2008,31.74340248,66.24385834,Taliban,2,1,Violence sig
+sigact,839,14-09-2008,33.86686325,68.64807892,Taliban,1,1,Violence sig
+sigact,840,14-09-2008,34.66326904,70.20919037,Taliban,2,1,Violence sig
+sigact,841,14-09-2008,33.32673264,68.50682831,ISAF,3,1,Violence sig
+ged,767,14-09-2008,32.25,67.25,Taleban,1,4,Violence ged
+ged,768,14-09-2008,34.176022,68.798232,Government of Afghanistan,1,5,Violence ged
+sigact,842,15-09-2008,31.96051025,64.81687927,Taliban,1,1,Violence sig
+sigact,843,15-09-2008,33.04962158,68.037117,Taliban,1,1,Violence sig
+sigact,844,15-09-2008,34.92821503,71.01456451,Taliban,1,1,Violence sig
+sigact,845,15-09-2008,33.30485916,62.15892029,Taliban,2,1,Violence sig
+ged,770,15-09-2008,32.178461,66.508063,Taleban,1,3,Violence ged
+sigact,846,16-09-2008,34.35945511,71.09428406,Taliban,2,1,Violence sig
+sigact,847,16-09-2008,32.75629425,68.29850769,Taliban,2,1,Violence sig
+sigact,848,16-09-2008,34.90789795,70.94860077,ISAF,3,1,Violence sig
+ged,771,16-09-2008,34.25,68,Government of Afghanistan,1,4,Violence ged
+sigact,849,17-09-2008,33.79597473,69.11083984,Taliban,2,1,Violence sig
+sigact,850,17-09-2008,31.65159607,65.07002258,Taliban,1,1,Violence sig
+sigact,851,17-09-2008,32.19274902,66.42868805,Taliban,1,1,Violence sig
+sigact,852,17-09-2008,35.06851196,71.36553955,Taliban,1,1,Violence sig
+sigact,853,17-09-2008,31.83580208,64.70348358,Taliban,2,1,Violence sig
+sigact,854,17-09-2008,33.37672043,69.39196777,Taliban,2,1,Violence sig
+ged,774,17-09-2008,32.416667,68.75,Taleban,1,4,Violence ged
+ged,776,17-09-2008,35,68.91667,Taleban,1,4,Violence ged
+sigact,855,18-09-2008,31.89958191,67.02890015,Taliban,2,1,Violence sig
+ged,778,18-09-2008,32.416667,68.75,Taleban,1,4,Violence ged
+ged,779,18-09-2008,32.83333,66,Taleban,1,4,Violence ged
+ged,781,18-09-2008,32.511956,66.987372,Government of Afghanistan,1,3,Violence ged
+ged,782,18-09-2008,33.383334,69.883334,Taleban,1,4,Violence ged
+sigact,856,19-09-2008,33.15743637,69.30814362,Taliban,1,1,Violence sig
+sigact,857,19-09-2008,32.21347809,63.0551796,Taliban,2,1,Violence sig
+sigact,858,19-09-2008,31.54395676,65.30902863,Taliban,1,1,Violence sig
+ged,784,19-09-2008,33.33333,67.75,Taleban,1,4,Violence ged
+ged,785,19-09-2008,34.33333,70.41667,Government of Afghanistan,1,4,Violence ged
+sigact,859,20-09-2008,31.57248878,65.37609863,Taliban,2,1,Violence sig
+sigact,860,20-09-2008,34.90415573,70.92198181,Taliban,2,1,Violence sig
+sigact,861,20-09-2008,31.72718239,64.62866974,Taliban,1,1,Violence sig
+sigact,862,21-09-2008,34.93836975,70.98081207,Taliban,1,1,Violence sig
+sigact,863,21-09-2008,32.63473892,69.27231598,ISAF,3,1,Violence sig
+sigact,864,22-09-2008,32.93960953,66.60389709,Taliban,1,1,Violence sig
+sigact,865,22-09-2008,31.86177444,66.77649689,Taliban,1,1,Violence sig
+sigact,866,22-09-2008,31.0230484,66.38211823,Taliban,2,1,Violence sig
+sigact,867,22-09-2008,32.71865463,65.93187714,Taliban,2,1,Violence sig
+sigact,868,22-09-2008,33.08001709,68.69142151,Taliban,2,1,Violence sig
+sigact,869,22-09-2008,32.68610764,68.23693085,Taliban,2,1,Violence sig
+ged,792,22-09-2008,30.959629,61.862839,Taleban,1,1,Violence ged
+gtd,317,22-09-2008,32.264539,68.524715,Unknown,2,4,Violence gtd
+sigact,870,23-09-2008,34.89856339,70.92316437,ISAF,3,1,Violence sig
+sigact,871,24-09-2008,34.52165985,69.0435791,Taliban,2,1,Violence sig
+sigact,872,24-09-2008,31.06112289,66.34754944,Taliban,2,1,Violence sig
+sigact,873,24-09-2008,35.40444183,71.42701721,Taliban,1,1,Violence sig
+sigact,874,24-09-2008,34.75190735,69.38052368,ISAF,3,1,Violence sig
+ged,801,24-09-2008,32.373795,62.1157,Government of Afghanistan,1,2,Violence ged
+sigact,875,25-09-2010,32.41694641,64.47506714,Taliban,2,1,Violence sig
+sigact,876,25-09-2010,32.17731094,64.47337341,ISAF,3,1,Violence sig
+sigact,877,25-09-2010,33.14081573,68.07846069,Taliban,2,1,Violence sig
+sigact,878,25-09-2010,32.26374435,66.74615479,Taliban,1,1,Violence sig
+sigact,879,25-09-2010,33.62543488,70.12136078,Taliban,2,1,Violence sig
+sigact,880,25-09-2010,33.62462616,70.12123871,Taliban,2,1,Violence sig
+ged,807,25-09-2010,31.640454,65.397591,Government of Afghanistan,1,3,Violence ged
+ged,808,25-09-2010,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+sigact,881,25-09-2010,31.77629662,64.47715759,Taliban,1,1,Violence sig
+sigact,882,25-09-2010,34.38272095,71.1046524,Taliban,1,1,Violence sig
+sigact,883,25-09-2010,32.63884735,69.25737,Taliban,1,1,Violence sig
+sigact,884,25-09-2010,33.37172318,69.94921875,Taliban,2,1,Violence sig
+ged,809,25-09-2010,31.266414,66.391938,Taleban,1,5,Violence ged
+ged,810,25-09-2010,34.011698,69.073448,Taleban,1,5,Violence ged
+sigact,885,25-09-2010,33.95219421,69.69036865,Taliban,2,1,Violence sig
+sigact,886,25-09-2010,33.9234314,69.72053528,Taliban,1,1,Violence sig
+sigact,887,25-09-2010,30.98536682,66.34755707,Taliban,2,1,Violence sig
+sigact,888,25-09-2010,32.3557663,67.46961212,Taliban,2,1,Violence sig
+sigact,889,25-09-2010,31.79584503,64.5844574,Taliban,2,1,Violence sig
+sigact,890,25-09-2010,31.60256577,64.81511688,Taliban,1,1,Violence sig
+sigact,891,28-09-2008,31.60047531,64.83261108,Taliban,1,1,Violence sig
+sigact,892,28-09-2008,31.59249687,64.84162903,Taliban,1,1,Violence sig
+ged,814,28-09-2008,32.416667,68.75,Taleban,1,4,Violence ged
+ged,815,28-09-2008,32.5,62.5,Taleban,1,4,Violence ged
+ged,819,28-09-2008,33.33333,67.75,Taleban,1,4,Violence ged
+gtd,323,28-09-2008,36.370146,66.891581,Unknown,3,1,Violence gtd
+sigact,893,29-09-2008,31.79784393,64.64733887,Taliban,2,1,Violence sig
+ged,821,29-09-2008,32.416667,68.75,Taleban,1,4,Violence ged
+sigact,894,30-09-2008,32.53683472,69.19451141,Taliban,1,1,Violence sig
+sigact,895,30-09-2008,33.4649353,68.38658905,Taliban,2,1,Violence sig
+sigact,896,01-10-2008,32.81819534,66.59235382,Taliban,1,1,Violence sig
+sigact,897,01-10-2008,32.78708649,66.46007538,Taliban,1,1,Violence sig
+sigact,898,01-10-2008,32.76078415,66.38259888,Taliban,1,1,Violence sig
+sigact,899,01-10-2008,33.62695694,62.25587463,Taliban,2,1,Violence sig
+sigact,900,01-10-2008,34.75365829,71.08234406,ISAF,3,1,Violence sig
+ged,823,02-10-2008,31.579996,64.377396,Government of Afghanistan,1,1,Violence ged
+ged,824,02-10-2008,32.698113,66.193288,Taleban,1,5,Violence ged
+ged,825,02-10-2008,31.640454,65.397591,Government of Afghanistan,1,3,Violence ged
+sigact,901,03-10-2008,34.93901062,70.98027802,Taliban,1,1,Violence sig
+sigact,902,03-10-2008,32.01741028,65.10382843,Taliban,2,1,Violence sig
+sigact,903,03-10-2008,34.95406342,71.0866394,Taliban,1,1,Violence sig
+sigact,904,03-10-2008,33.13336182,69.71615601,ISAF,3,1,Violence sig
+ged,828,03-10-2008,31.072875,65.158015,Government of Afghanistan,1,3,Violence ged
+sigact,905,04-10-2008,34.96980286,71.09546661,Taliban,1,1,Violence sig
+sigact,906,04-10-2008,33.90323257,68.66623688,Taliban,1,1,Violence sig
+ged,832,04-10-2009,32.043898,65.195661,Government of Afghanistan,1,3,Violence ged
+sigact,907,04-10-2009,33.91228104,68.6667099,Taliban,2,1,Violence sig
+sigact,908,04-10-2009,32.79375839,67.28852081,Taliban,1,1,Violence sig
+sigact,909,04-10-2009,32.76490402,67.29620361,Taliban,1,1,Violence sig
+sigact,910,04-10-2009,33.37751007,68.41293335,Taliban,1,1,Violence sig
+sigact,911,04-10-2009,31.98824692,64.86356354,Taliban,1,1,Violence sig
+sigact,912,04-10-2009,34.24862289,62.21806335,Taliban,2,1,Violence sig
+sigact,913,04-10-2009,33.67472076,68.85652161,Taliban,1,1,Violence sig
+sigact,914,04-10-2009,31.8864994,64.7495575,Taliban,2,1,Violence sig
+ged,833,04-10-2009,34.349991,62.200001,Government of Afghanistan,1,1,Violence ged
+ged,836,04-10-2009,34.25,68,Taleban,1,4,Violence ged
+sigact,915,04-10-2009,32.26529312,62.9947319,Taliban,1,1,Violence sig
+sigact,916,04-10-2009,34.90178299,70.95191193,Taliban,1,1,Violence sig
+sigact,917,04-10-2009,34.9601059,69.62981415,Taliban,1,1,Violence sig
+sigact,918,04-10-2009,31.79694176,64.59347534,Taliban,2,1,Violence sig
+sigact,919,04-10-2009,32.53810501,69.19488525,ISAF,3,1,Violence sig
+ged,837,04-10-2009,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+sigact,920,07-10-2008,33.44738388,68.49430847,Taliban,1,1,Violence sig
+sigact,921,08-10-2008,33.04838181,65.53166962,Taliban,1,1,Violence sig
+sigact,922,08-10-2008,32.21158218,63.05857468,Taliban,2,1,Violence sig
+sigact,923,08-10-2008,31.77373886,64.47215271,Taliban,1,1,Violence sig
+sigact,924,08-10-2008,32.28794479,66.7303009,Taliban,2,1,Violence sig
+sigact,925,08-10-2008,32.91276932,66.7073822,Taliban,1,1,Violence sig
+ged,840,08-10-2008,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+ged,841,08-10-2008,32.920909,65.474153,Government of Afghanistan,1,3,Violence ged
+ged,842,08-10-2008,32.21683,62.88273,Government of Afghanistan,1,3,Violence ged
+ged,844,08-10-2008,33.383334,69.883334,Government of Afghanistan,1,4,Violence ged
+sigact,926,09-10-2008,33.36352921,68.38439941,Taliban,1,1,Violence sig
+sigact,927,09-10-2008,34.11861801,69.05953217,Taliban,2,1,Violence sig
+sigact,928,09-10-2008,31.75881004,64.46041107,Taliban,1,1,Violence sig
+sigact,929,09-10-2008,34.34715271,62.11929703,Taliban,1,1,Violence sig
+sigact,930,09-10-2008,31.79653931,64.58880615,Taliban,2,1,Violence sig
+sigact,931,09-10-2008,34.75000763,70.88585663,Taliban,1,1,Violence sig
+sigact,932,09-10-2008,32.54003143,62.32054138,Taliban,1,1,Violence sig
+sigact,933,10-10-2008,32.15813065,65.40602112,Taliban,1,1,Violence sig
+sigact,934,10-10-2008,33.52879715,70.02265167,Taliban,2,1,Violence sig
+sigact,935,10-10-2008,31.90766144,67.64627075,Taliban,2,1,Violence sig
+sigact,936,10-10-2008,32.53810501,69.19488525,ISAF,3,1,Violence sig
+sigact,937,10-10-2008,32.53810501,69.19488525,ISAF,3,1,Violence sig
+ged,847,10-10-2008,32.005213,65.500902,Government of Afghanistan,1,3,Violence ged
+ged,849,10-10-2008,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+sigact,938,11-10-2008,33.36450195,68.56113434,Taliban,2,1,Violence sig
+sigact,939,11-10-2008,34.02925491,69.01733398,Taliban,1,1,Violence sig
+sigact,940,11-10-2008,34.90658951,63.83190536,Taliban,1,1,Violence sig
+sigact,941,11-10-2008,32.07339096,64.83901978,Taliban,2,1,Violence sig
+sigact,942,11-10-2008,32.65734863,65.4529953,Taliban,2,1,Violence sig
+sigact,943,11-10-2008,33.32720947,68.61018372,Taliban,2,1,Violence sig
+ged,850,11-10-2008,31.579996,64.377396,Government of Afghanistan,1,2,Violence ged
+ged,851,11-10-2008,35.002284,64.336319,Government of Afghanistan,1,3,Violence ged
+sigact,944,12-10-2008,33.31417465,69.86373138,Taliban,1,1,Violence sig
+sigact,945,12-10-2008,35.03149033,64.00856781,Taliban,1,1,Violence sig
+ged,856,12-10-2008,33.305843,68.446963,Government of Afghanistan,1,3,Violence ged
+ged,859,12-10-2008,29.433333,64.05,Government of Afghanistan,1,1,Violence ged
+sigact,946,13-10-2008,34.91617966,69.63199615,Taliban,1,1,Violence sig
+sigact,947,13-10-2008,31.62735558,65.56051636,Taliban,2,1,Violence sig
+ged,860,13-10-2008,31,65.75,Taleban,1,4,Violence ged
+ged,861,13-10-2008,33.696449,68.146584,Government of Afghanistan,1,3,Violence ged
+ged,862,13-10-2008,34.325691,68.762323,Government of Afghanistan,1,3,Violence ged
+sigact,948,14-10-2008,31.93188667,64.74259949,Taliban,1,1,Violence sig
+sigact,949,14-10-2008,31.63377571,65.03742218,Taliban,2,1,Violence sig
+sigact,950,14-10-2008,34.68019104,70.94528198,Taliban,2,1,Violence sig
+sigact,951,14-10-2008,32.66911697,65.53231812,Taliban,2,1,Violence sig
+sigact,952,14-10-2008,31.65231323,64.51874542,Taliban,2,1,Violence sig
+ged,866,14-10-2008,33.305843,68.446963,Government of Afghanistan,1,3,Violence ged
+ged,868,14-10-2008,31.579996,64.377396,Government of Afghanistan,1,1,Violence ged
+sigact,953,15-10-2008,33.19119644,68.10531616,Taliban,2,1,Violence sig
+sigact,954,15-10-2008,31.33597946,64.15917969,Taliban,2,1,Violence sig
+sigact,955,15-10-2008,32.07389832,64.83500671,Taliban,1,1,Violence sig
+sigact,956,16-10-2008,33.41878891,70.05212402,Taliban,2,1,Violence sig
+sigact,957,16-10-2008,33.66423798,68.16233063,Taliban,2,1,Violence sig
+sigact,958,16-10-2008,34.90034103,70.87705994,Taliban,1,1,Violence sig
+sigact,959,16-10-2008,34.50080872,68.58014679,Taliban,1,1,Violence sig
+sigact,960,16-10-2008,33.35027695,68.38211823,Taliban,1,1,Violence sig
+sigact,961,16-10-2008,34.35759354,68.77174377,Taliban,1,1,Violence sig
+sigact,962,16-10-2008,32.27477264,67.14715576,Taliban,2,1,Violence sig
+sigact,963,16-10-2008,31.8507061,66.42874146,Taliban,1,1,Violence sig
+sigact,964,16-10-2008,32.42592621,64.45553589,Taliban,1,1,Violence sig
+sigact,965,16-10-2008,32.31636047,64.78358459,Taliban,1,1,Violence sig
+ged,874,16-10-2008,34.325691,68.762323,Government of Afghanistan,1,3,Violence ged
+sigact,966,17-10-2008,33.94887924,69.05257416,Taliban,1,1,Violence sig
+sigact,967,17-10-2008,34.97898483,69.64091492,Taliban,1,1,Violence sig
+sigact,968,17-10-2008,31.99072456,64.81715393,Taliban,1,1,Violence sig
+sigact,969,17-10-2008,32.11196899,64.88366699,ISAF,3,1,Violence sig
+sigact,970,17-10-2008,34.44509125,68.60321808,ISAF,3,1,Violence sig
+sigact,971,17-10-2008,32.25748062,62.76536942,ISAF,3,1,Violence sig
+sigact,972,18-10-2008,34.89207077,69.69088745,Taliban,1,1,Violence sig
+sigact,973,18-10-2008,33.53429031,69.14248657,Taliban,2,1,Violence sig
+sigact,974,18-10-2008,32.25500488,63.87807465,Taliban,1,1,Violence sig
+sigact,975,18-10-2008,31.96405029,64.80277252,Taliban,1,1,Violence sig
+sigact,976,18-10-2008,35.21294785,71.36064911,Taliban,1,1,Violence sig
+sigact,977,18-10-2008,34.18615723,62.22254562,Taliban,2,1,Violence sig
+sigact,978,18-10-2008,32.35316467,64.79599762,Taliban,1,1,Violence sig
+sigact,979,18-10-2008,32.45352173,63.5245018,ISAF,3,1,Violence sig
+ged,875,18-10-2008,31,64,Government of Afghanistan,1,4,Violence ged
+ged,877,18-10-2008,31.579996,64.377396,Government of Afghanistan,1,2,Violence ged
+sigact,980,19-10-2008,32.33660126,67.87739563,Taliban,1,1,Violence sig
+sigact,981,19-10-2008,32.27477264,67.14715576,Taliban,1,1,Violence sig
+sigact,982,19-10-2008,32.27477646,67.14715576,Taliban,1,1,Violence sig
+sigact,983,19-10-2008,31.07766914,64.17201233,Taliban,1,1,Violence sig
+gtd,338,19-10-2008,33.5,70.05,Unknown,2,1,Violence gtd
+sigact,984,20-10-2008,32.508358,66.97102356,Taliban,1,1,Violence sig
+sigact,985,20-10-2008,31.57299805,64.35202789,Taliban,2,1,Violence sig
+sigact,986,20-10-2008,36.64588547,68.85680389,Taliban,2,1,Violence sig
+sigact,987,20-10-2008,31.75091553,64.35851288,Taliban,1,1,Violence sig
+sigact,988,20-10-2008,31.62332344,64.76675415,Taliban,1,1,Violence sig
+sigact,989,20-10-2008,31.62332344,64.76675415,Taliban,1,1,Violence sig
+sigact,990,20-10-2008,31.39799118,64.32532501,Taliban,1,1,Violence sig
+sigact,991,20-10-2008,31.04763985,64.19993591,Taliban,1,1,Violence sig
+sigact,992,20-10-2008,34.50986862,69.13617706,Taliban,1,1,Violence sig
+sigact,993,20-10-2008,31.05853271,64.19273376,ISAF,3,1,Violence sig
+sigact,994,20-10-2008,32.70465469,66.137146,ISAF,3,1,Violence sig
+sigact,995,21-10-2008,32.93181229,66.61590576,Taliban,1,1,Violence sig
+sigact,996,21-10-2008,32.73626709,63.04069519,Taliban,1,1,Violence sig
+sigact,997,21-10-2008,31.60299873,64.37099457,Taliban,1,1,Violence sig
+sigact,998,21-10-2008,31.4898262,65.35927582,Taliban,1,1,Violence sig
+sigact,999,21-10-2008,31.88989258,64.75215912,Taliban,1,1,Violence sig
+sigact,1000,21-10-2008,32.40251541,64.46738434,Taliban,2,1,Violence sig
+ged,881,21-10-2008,32.622501,65.457451,Government of Afghanistan,1,2,Violence ged
+sigact,1001,22-10-2008,35.7684288,63.74757385,Taliban,1,1,Violence sig
+sigact,1002,22-10-2008,32.96788788,65.49422455,Taliban,2,1,Violence sig
+sigact,1003,22-10-2008,32.64674759,62.59162521,Taliban,2,1,Violence sig
+sigact,1004,22-10-2008,32.89900589,68.50386047,Taliban,2,1,Violence sig
+sigact,1005,22-10-2008,32.73626709,63.04069519,Taliban,1,1,Violence sig
+sigact,1006,22-10-2008,32.07587814,64.84040833,ISAF,3,1,Violence sig
+ged,886,22-10-2008,31,64,Government of Afghanistan,1,4,Violence ged
+ged,887,22-10-2008,33.315326,69.532119,Government of Afghanistan,1,2,Violence ged
+ged,888,22-10-2008,34.015449,62.739639,Taleban,1,5,Violence ged
+ged,889,22-10-2008,35.751984,63.77626,Government of Afghanistan,1,2,Violence ged
+sigact,1007,23-10-2008,31.62777901,65.59358215,Taliban,2,1,Violence sig
+sigact,1008,23-10-2008,33.55265808,69.07444,Taliban,1,1,Violence sig
+sigact,1009,23-10-2008,34.36545944,69.21750641,Taliban,1,1,Violence sig
+sigact,1010,23-10-2008,31.87628937,64.73118591,ISAF,3,1,Violence sig
+ged,891,23-10-2008,33.158342,69.327506,Government of Afghanistan,1,2,Violence ged
+sigact,1011,24-10-2008,35.23454285,71.55345154,Taliban,1,1,Violence sig
+sigact,1012,24-10-2010,31.94120598,67.57913208,Taliban,1,1,Violence sig
+sigact,1013,24-10-2010,31.67148209,64.91970062,Taliban,2,1,Violence sig
+sigact,1014,24-10-2010,31.50391579,63.96038055,Taliban,1,1,Violence sig
+sigact,1015,24-10-2010,31.73499107,64.30265045,Taliban,1,1,Violence sig
+sigact,1016,24-10-2010,31.86517143,64.71290588,Taliban,1,1,Violence sig
+sigact,1017,24-10-2010,31.86702156,64.72942352,Taliban,1,1,Violence sig
+ged,893,24-10-2010,31.8768,64.7386,Government of Afghanistan,1,1,Violence ged
+sigact,1018,24-10-2010,31.00164413,64.03061676,Taliban,1,1,Violence sig
+sigact,1019,24-10-2010,33.15746689,69.30656433,Taliban,1,1,Violence sig
+sigact,1020,24-10-2010,32.76006317,62.61639023,Taliban,1,1,Violence sig
+sigact,1021,24-10-2010,31.00164413,64.03061676,Taliban,1,1,Violence sig
+sigact,1022,24-10-2010,32.18018341,67.01676941,Taliban,1,1,Violence sig
+gtd,351,24-10-2010,36.801729,66.951146,Unknown,2,2,Violence gtd
+sigact,1023,24-10-2010,33.21998596,68.14578247,Taliban,1,1,Violence sig
+sigact,1024,24-10-2010,32.43050766,64.46464539,Taliban,1,1,Violence sig
+sigact,1025,24-10-2010,32.09115982,64.85749817,Taliban,1,1,Violence sig
+sigact,1026,24-10-2010,32.43050766,64.46464539,Taliban,1,1,Violence sig
+sigact,1027,24-10-2010,33.84786224,68.59778595,Taliban,1,1,Violence sig
+sigact,1028,27-10-2008,35.96905136,68.69034576,Taliban,2,1,Violence sig
+sigact,1029,27-10-2008,32.53077316,64.45243073,Taliban,2,1,Violence sig
+sigact,1030,27-10-2008,31.84428596,64.68948364,Taliban,1,1,Violence sig
+sigact,1031,27-10-2008,32.31636047,64.78358459,ISAF,3,1,Violence sig
+ged,898,27-10-2008,31,64,Taleban,1,4,Violence ged
+ged,899,27-10-2008,33.929385,68.659797,Government of Afghanistan,1,3,Violence ged
+ged,900,27-10-2008,33.414025,68.207658,Government of Afghanistan,1,3,Violence ged
+sigact,1032,28-10-2008,31.62236977,64.28842926,Taliban,1,1,Violence sig
+sigact,1033,28-10-2008,33.8155365,68.58647919,Taliban,2,1,Violence sig
+sigact,1034,28-10-2008,31.40930176,64.09963989,Taliban,1,1,Violence sig
+sigact,1035,28-10-2008,31.62517166,64.27898407,Taliban,1,1,Violence sig
+sigact,1036,29-10-2008,33.43803787,69.03421021,Taliban,2,1,Violence sig
+sigact,1037,29-10-2008,31.86662483,64.72550964,Taliban,1,1,Violence sig
+ged,901,29-10-2008,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+sigact,1038,30-10-2008,31.59086037,65.46882629,Taliban,1,1,Violence sig
+sigact,1039,30-10-2008,31.6196537,64.24390411,ISAF,5,1,Violence sig
+sigact,1040,30-10-2008,33.37907028,62.37226486,Taliban,2,1,Violence sig
+sigact,1041,30-10-2008,34.51883698,69.17541504,Taliban,2,1,Violence sig
+sigact,1042,30-10-2008,31.56743431,65.67722321,Taliban,2,1,Violence sig
+sigact,1043,31-10-2008,32.3952446,68.33768463,Taliban,1,1,Violence sig
+sigact,1044,31-10-2008,32.35683441,66.93771362,Taliban,1,1,Violence sig
+sigact,1045,31-10-2008,32.01701736,64.8296051,Taliban,1,1,Violence sig
+sigact,1046,31-10-2008,34.55773926,69.0294342,Taliban,2,1,Violence sig
+sigact,1047,31-10-2008,31.77915573,64.68977356,Taliban,2,1,Violence sig
+sigact,1048,31-10-2008,35.40444183,71.42701721,Taliban,1,1,Violence sig
+sigact,1049,31-10-2008,32.3625412,66.98892975,Taliban,1,1,Violence sig
+sigact,1050,31-10-2008,35.27012253,63.04397964,Taliban,1,1,Violence sig
+sigact,1051,31-10-2008,32.35683823,66.93771362,Taliban,1,1,Violence sig
+ged,906,31-10-2008,32.416667,68.75,Government of Afghanistan,1,4,Violence ged
+ged,907,31-10-2008,34.95455,70.914272,Government of Afghanistan,1,3,Violence ged
+ged,908,31-10-2008,33.38193,69.684565,Government of Afghanistan,1,2,Violence ged
+sigact,1052,01-11-2008,31.76435089,64.50367737,Taliban,1,1,Violence sig
+sigact,1053,01-11-2008,31.75152969,66.63204956,Taliban,2,1,Violence sig
+sigact,1054,02-11-2008,32.50687027,64.80724335,Taliban,1,1,Violence sig
+sigact,1055,02-11-2008,31.05853081,64.19284058,Taliban,2,1,Violence sig
+sigact,1056,02-11-2008,31.05764008,64.19167328,Taliban,1,1,Violence sig
+sigact,1057,03-11-2008,32.83726501,67.78512573,Taliban,1,1,Violence sig
+sigact,1058,03-11-2008,31.88726616,64.70654297,Taliban,1,1,Violence sig
+sigact,1059,03-11-2008,32.96211243,66.76708984,Taliban,2,1,Violence sig
+sigact,1060,03-11-2008,32.77577591,65.40970612,Taliban,2,1,Violence sig
+sigact,1061,03-11-2008,33.58006668,69.09159851,Taliban,1,1,Violence sig
+sigact,1062,03-11-2008,31.83773422,66.44281769,Taliban,1,1,Violence sig
+sigact,1063,03-11-2008,31.88726616,64.70654297,Taliban,1,1,Violence sig
+sigact,1064,03-11-2008,32.12437439,66.07098389,Taliban,1,1,Violence sig
+sigact,1065,03-11-2008,31.83773422,66.44281769,Taliban,1,1,Violence sig
+sigact,1066,03-11-2008,32.08824158,66.02172089,Taliban,1,1,Violence sig
+sigact,1067,03-11-2008,31.88213539,64.74556732,ISAF,3,1,Violence sig
+ged,914,03-11-2008,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+sigact,1068,04-11-2008,32.07388306,64.8360672,Taliban,2,1,Violence sig
+sigact,1069,04-11-2008,31.61873055,64.29154205,Taliban,1,1,Violence sig
+sigact,1070,04-11-2008,32.3129158,64.77183533,Taliban,1,1,Violence sig
+sigact,1071,04-11-2008,32.05819702,64.84181976,Taliban,1,1,Violence sig
+sigact,1072,04-11-2008,32.45966721,68.3401947,Taliban,1,1,Violence sig
+sigact,1073,04-11-2008,31.83666229,64.63799286,Taliban,1,1,Violence sig
+sigact,1074,04-11-2008,32.3082428,64.78990936,Taliban,1,1,Violence sig
+sigact,1075,04-11-2008,31.61873055,64.29154205,Taliban,1,1,Violence sig
+sigact,1076,04-11-2009,31.62137413,65.05375671,ISAF,3,1,Violence sig
+ged,917,04-11-2009,34.2721,69.3037,Taleban,1,1,Violence ged
+ged,918,04-11-2009,33.929385,68.659797,Government of Afghanistan,1,3,Violence ged
+ged,919,04-11-2009,33.192284,62.164119,Government of Afghanistan,1,2,Violence ged
+gtd,363,04-11-2009,37.00254,70.90664,Unknown,1,1,Violence gtd
+sigact,1077,04-11-2009,35.56761932,63.85346222,Taliban,1,1,Violence sig
+sigact,1078,04-11-2009,34.54205322,69.29534149,Taliban,1,1,Violence sig
+sigact,1079,04-11-2009,31.72356033,64.7980957,Taliban,2,1,Violence sig
+sigact,1080,04-11-2009,36.66309738,68.98657227,Taliban,2,1,Violence sig
+sigact,1081,04-11-2009,36.96662521,70.92429352,Taliban,2,1,Violence sig
+sigact,1082,04-11-2009,35.56761932,63.85346222,Taliban,1,1,Violence sig
+sigact,1083,04-11-2009,35.6155014,63.80274582,ISAF,5,1,Violence sig
+sigact,1084,04-11-2009,34.52435684,69.0610199,Taliban,2,1,Violence sig
+ged,920,04-11-2009,33.640774,70.078882,Government of Afghanistan,1,2,Violence ged
+ged,922,04-11-2009,35.561794,63.85009,Government of Afghanistan,1,1,Violence ged
+ged,923,04-11-2009,35.550297,63.875397,Government of Afghanistan,1,2,Violence ged
+sigact,1085,04-11-2009,32.07258987,67.26811218,Taliban,1,1,Violence sig
+sigact,1086,04-11-2009,31.81811142,64.54152679,Taliban,2,1,Violence sig
+sigact,1087,04-11-2009,34.00053787,68.71218109,Taliban,2,1,Violence sig
+sigact,1088,04-11-2009,33.54500198,69.06064606,Taliban,2,1,Violence sig
+sigact,1089,04-11-2009,31.71808815,64.27300262,Taliban,1,1,Violence sig
+sigact,1090,04-11-2009,33.21980667,68.12003326,Taliban,2,1,Violence sig
+sigact,1091,04-11-2009,32.37244415,64.77193451,Taliban,1,1,Violence sig
+sigact,1092,04-11-2009,33.08853149,68.31183624,Taliban,2,1,Violence sig
+sigact,1093,04-11-2009,32.37244415,64.77193451,Taliban,1,1,Violence sig
+sigact,1094,04-11-2009,35.61681747,63.80304718,Taliban,1,1,Violence sig
+sigact,1095,04-11-2009,32.07258987,67.26811218,Taliban,1,1,Violence sig
+sigact,1096,04-11-2009,31.53268814,65.30875397,Taliban,1,1,Violence sig
+sigact,1097,04-11-2009,31.49582481,65.37626648,ISAF,3,1,Violence sig
+sigact,1098,04-11-2009,32.39952087,61.96720505,Taliban,1,1,Violence sig
+sigact,1099,04-11-2009,32.92635727,69.3115387,Taliban,2,1,Violence sig
+sigact,1100,04-11-2009,31.81811142,64.54152679,Taliban,1,1,Violence sig
+sigact,1101,04-11-2009,32.30623627,64.79135132,Taliban,1,1,Violence sig
+ged,926,04-11-2009,31,65.75,Government of Afghanistan,1,4,Violence ged
+ged,928,04-11-2009,34.056919,70.661263,Government of Afghanistan,1,3,Violence ged
+ged,929,04-11-2009,31.918721,67.151789,Government of Afghanistan,1,3,Violence ged
+ged,932,04-11-2009,33.543516,69.9118,Government of Afghanistan,1,3,Violence ged
+sigact,1102,04-11-2009,33.37789154,62.30001831,Taliban,2,1,Violence sig
+sigact,1103,04-11-2009,33.79906845,68.96269989,Taliban,2,1,Violence sig
+sigact,1104,04-11-2009,31.89265633,64.70136261,Taliban,1,1,Violence sig
+sigact,1105,04-11-2009,34.74645615,70.91297913,Taliban,2,1,Violence sig
+sigact,1106,04-11-2009,34.71061707,70.98737335,Taliban,2,1,Violence sig
+sigact,1107,04-11-2009,33.50575638,62.66750336,Taliban,2,1,Violence sig
+gtd,370,04-11-2009,34.014552,69.192392,Taliban,6,4,Violence gtd
+sigact,1108,04-11-2009,30.96961975,61.85234833,Taliban,2,1,Violence sig
+sigact,1109,04-11-2009,32.931633,69.45578003,Taliban,1,1,Violence sig
+sigact,1110,04-11-2009,34.89894485,70.95480347,Taliban,1,1,Violence sig
+sigact,1111,04-11-2009,32.79244614,62.68356705,Taliban,1,1,Violence sig
+sigact,1112,04-11-2009,31.58775711,65.46045685,Taliban,2,1,Violence sig
+sigact,1113,04-11-2009,32.13087082,66.94020844,Taliban,1,1,Violence sig
+sigact,1114,04-11-2009,35.59699249,63.81622696,Taliban,1,1,Violence sig
+sigact,1115,04-11-2009,35.5464859,63.81571579,Taliban,1,1,Violence sig
+sigact,1116,04-11-2009,31.53417015,65.32648468,Taliban,1,1,Violence sig
+sigact,1117,04-11-2009,31.63737488,64.48264313,Taliban,2,1,Violence sig
+sigact,1118,04-11-2009,31.60732079,65.70549774,Taliban,2,1,Violence sig
+sigact,1119,04-11-2009,33.34573746,68.82514954,Taliban,2,1,Violence sig
+sigact,1120,04-11-2009,31.13523483,64.01192474,Taliban,2,1,Violence sig
+sigact,1121,04-11-2009,36.81002426,66.33986664,ISAF,5,1,Violence sig
+sigact,1122,04-11-2009,32.79244614,62.68356705,ISAF,3,1,Violence sig
+sigact,1123,04-11-2009,32.01444626,64.82958221,ISAF,3,1,Violence sig
+gtd,373,04-11-2009,31.617667,65.675942,Unknown,3,1,Violence gtd
+sigact,1124,04-11-2009,31.60624695,65.0793457,Taliban,1,1,Violence sig
+sigact,1125,04-11-2009,34.27097321,70.74846649,Taliban,2,1,Violence sig
+sigact,1126,04-11-2009,31.61170578,65.58575439,Taliban,2,1,Violence sig
+ged,942,04-11-2009,33.4232,69.041565,Government of Afghanistan,1,3,Violence ged
+sigact,1127,04-11-2009,32.9544487,65.60940552,Taliban,2,1,Violence sig
+sigact,1128,04-11-2009,32.77911758,67.28623962,Taliban,1,1,Violence sig
+sigact,1129,04-11-2009,32.60697556,63.67750931,Taliban,1,1,Violence sig
+sigact,1130,04-11-2009,32.9544487,65.60940552,Taliban,1,1,Violence sig
+sigact,1131,04-11-2009,31.48854637,65.35534668,Taliban,1,1,Violence sig
+sigact,1132,04-11-2009,32.60697556,63.67750931,Taliban,1,1,Violence sig
+sigact,1133,04-11-2009,33.53345871,70.02593994,Taliban,2,1,Violence sig
+sigact,1134,04-11-2009,34.36005402,69.2131424,Taliban,2,1,Violence sig
+sigact,1135,04-11-2009,32.77911758,67.28623962,Taliban,1,1,Violence sig
+ged,945,04-11-2009,33.530101,70.076616,Government of Afghanistan,1,2,Violence ged
+gtd,376,04-11-2009,33.358508,69.859741,Taliban,2,4,Violence gtd
+gtd,377,04-11-2009,34.099578,64.905955,Taliban,1,4,Violence gtd
+sigact,1136,04-11-2009,31.02816582,66.59877014,Taliban,1,1,Violence sig
+sigact,1137,04-11-2009,31.46670914,65.29135132,Taliban,1,1,Violence sig
+sigact,1138,04-11-2009,32.2169075,67.07724762,Taliban,1,1,Violence sig
+sigact,1139,04-11-2009,33.33347702,69.91377258,Taliban,2,1,Violence sig
+sigact,1140,04-11-2009,32.31087494,64.78878784,Taliban,2,1,Violence sig
+sigact,1141,04-11-2009,34.9388237,71.00819397,Taliban,1,1,Violence sig
+sigact,1142,04-11-2009,31.74723434,64.36366272,Taliban,1,1,Violence sig
+sigact,1143,04-11-2009,31.47806931,65.36108398,Taliban,1,1,Violence sig
+sigact,1144,04-11-2009,32.37995148,64.76399994,Taliban,1,1,Violence sig
+sigact,1145,04-11-2009,34.8874321,70.95310974,ISAF,3,1,Violence sig
+sigact,1146,04-11-2009,32.36994934,64.75700378,ISAF,3,1,Violence sig
+sigact,1147,04-11-2009,31.76243591,64.35266113,ISAF,3,1,Violence sig
+ged,952,04-11-2009,32.25,67.25,Taleban,1,4,Violence ged
+ged,953,04-11-2009,33.335091,69.918411,Government of Afghanistan,1,1,Violence ged
+sigact,1148,04-11-2009,32.76151657,69.33907318,Taliban,1,1,Violence sig
+sigact,1149,04-11-2009,34.26210022,70.19165039,Taliban,1,1,Violence sig
+sigact,1150,04-11-2009,31.48111534,65.29275513,ISAF,5,1,Violence sig
+sigact,1151,04-11-2009,31.54964447,65.41606903,Taliban,1,1,Violence sig
+sigact,1152,04-11-2009,31.50631142,65.4183197,Taliban,2,1,Violence sig
+sigact,1153,04-11-2009,32.31636047,64.78358459,Taliban,1,1,Violence sig
+sigact,1154,04-11-2009,31.75090408,64.35967255,ISAF,5,1,Violence sig
+sigact,1155,04-11-2009,34.21255493,62.22143555,Taliban,2,1,Violence sig
+sigact,1156,04-11-2009,36.1712265,68.74613953,Taliban,2,1,Violence sig
+sigact,1157,04-11-2009,31.7189312,64.80581665,Taliban,2,1,Violence sig
+sigact,1158,04-11-2009,31.54761124,65.52132416,Taliban,1,1,Violence sig
+sigact,1159,04-11-2009,34.88102341,70.89649963,Taliban,1,1,Violence sig
+sigact,1160,04-11-2009,32.10127258,64.88111877,ISAF,3,1,Violence sig
+ged,956,04-11-2009,34.349991,62.200001,Government of Afghanistan,1,1,Violence ged
+ged,957,04-11-2009,35.75,69,Taleban,1,4,Violence ged
+sigact,1161,04-11-2009,35.58078384,63.32052231,Taliban,1,1,Violence sig
+sigact,1162,04-11-2009,31.5674305,65.6774292,Taliban,2,1,Violence sig
+sigact,1163,04-11-2009,35.63264847,64.03704834,Taliban,2,1,Violence sig
+sigact,1164,04-11-2009,31.46706581,65.2713623,Taliban,1,1,Violence sig
+sigact,1165,04-11-2009,32.3769989,64.76883698,Taliban,1,1,Violence sig
+ged,961,04-11-2009,32.780994,69.329597,Government of Afghanistan,1,1,Violence ged
+sigact,1166,04-11-2009,33.33292007,68.59156799,Taliban,2,1,Violence sig
+ged,962,04-11-2009,32.5,62.5,Government of Afghanistan,1,4,Violence ged
+sigact,1167,04-11-2009,31.57579231,64.34363556,ISAF,3,1,Violence sig
+sigact,1168,04-11-2009,31.8360424,64.3864975,Taliban,1,1,Violence sig
+sigact,1169,04-11-2009,32.53375244,66.73767853,Taliban,1,1,Violence sig
+sigact,1170,04-11-2009,31.89338875,64.71405792,Taliban,1,1,Violence sig
+sigact,1171,04-11-2009,32.06478882,64.82889557,Taliban,1,1,Violence sig
+sigact,1172,04-11-2009,31.8360424,64.3864975,Taliban,1,1,Violence sig
+sigact,1173,04-11-2009,32.37534332,64.77103424,Taliban,1,1,Violence sig
+sigact,1174,04-11-2009,32.53375244,66.73767853,Taliban,1,1,Violence sig
+sigact,1175,04-11-2009,31.649786,64.9679184,Taliban,2,1,Violence sig
+sigact,1176,04-11-2009,33.28011703,69.59610748,Taliban,2,1,Violence sig
+sigact,1177,04-11-2009,32.07767868,64.85414886,ISAF,3,1,Violence sig
+ged,967,04-11-2009,34.8205,69.6573,Government of Afghanistan,1,1,Violence ged
+gtd,381,04-11-2009,33.498229,67.761598,Unknown,9,4,Violence gtd
+sigact,1178,04-11-2009,32.79666901,62.70390701,Taliban,1,1,Violence sig
+sigact,1179,04-11-2009,32.79666901,62.70390701,Taliban,1,1,Violence sig
+sigact,1180,04-11-2009,32.51935959,67.41306305,Taliban,2,1,Violence sig
+ged,970,04-11-2009,32.793503,62.678444,Government of Afghanistan,1,1,Violence ged
+ged,971,04-11-2009,34.95,71.133333,Taleban,1,4,Violence ged
+gtd,383,04-11-2009,35.013056,69.168889,Unknown,3,1,Violence gtd
+sigact,1181,04-11-2009,31.62559509,65.53618622,Taliban,1,1,Violence sig
+sigact,1182,04-11-2009,31.64451981,64.23812103,Taliban,1,1,Violence sig
+sigact,1183,04-11-2009,32.01256943,64.83483887,Taliban,1,1,Violence sig
+sigact,1184,04-11-2009,32.23362732,66.31295776,Taliban,1,1,Violence sig
+sigact,1185,04-11-2009,35.40444183,71.42701721,Taliban,1,1,Violence sig
+sigact,1186,04-11-2009,34.45398331,69.11104584,Taliban,2,1,Violence sig
+sigact,1187,04-11-2009,35.37648392,71.5582962,Taliban,1,1,Violence sig
+sigact,1188,04-11-2009,34.91352844,69.63865662,Taliban,1,1,Violence sig
+sigact,1189,04-11-2009,34.91230774,69.63054657,Taliban,1,1,Violence sig
+sigact,1190,04-11-2009,32.23709488,66.30648804,Taliban,1,1,Violence sig
+sigact,1191,04-11-2009,35.3962326,71.56221771,Taliban,1,1,Violence sig
+sigact,1192,04-11-2009,31.54112244,65.44959259,Taliban,1,1,Violence sig
+sigact,1193,04-11-2009,31.74956322,65.69163513,ISAF,3,1,Violence sig
+sigact,1194,04-11-2009,32.37253571,64.76555634,Taliban,1,1,Violence sig
+sigact,1195,04-11-2009,34.9855957,70.90307617,Taliban,2,1,Violence sig
+sigact,1196,04-11-2009,32.63119125,66.78419495,Taliban,1,1,Violence sig
+sigact,1197,04-11-2009,32.63119125,66.78419495,Taliban,1,1,Violence sig
+sigact,1198,04-11-2009,31.64451981,64.23812103,Taliban,1,1,Violence sig
+sigact,1199,04-11-2009,34.73530579,71.04802704,Taliban,1,1,Violence sig
+sigact,1200,04-11-2009,32.32055283,65.10444641,Taliban,2,1,Violence sig
+sigact,1201,04-11-2009,32.09029388,64.88565826,ISAF,3,1,Violence sig
+ged,979,04-11-2009,33.33333,67.75,Government of Afghanistan,1,4,Violence ged
+ged,980,04-11-2009,34.7313,69.6683,Government of Afghanistan,1,1,Violence ged
+ged,981,04-11-2009,33.158342,69.327506,Government of Afghanistan,1,2,Violence ged
+sigact,1202,04-11-2009,32.09260559,64.88782501,Taliban,1,1,Violence sig
+sigact,1203,04-11-2009,31.96095085,64.90385437,Taliban,1,1,Violence sig
+sigact,1204,04-11-2009,32.30783463,64.78044891,Taliban,2,1,Violence sig
+sigact,1205,04-11-2009,34.51705551,65.25637817,Taliban,1,1,Violence sig
+sigact,1206,04-11-2009,32.09797668,64.89652252,Taliban,1,1,Violence sig
+sigact,1207,04-11-2009,31.96095085,64.90385437,Taliban,1,1,Violence sig
+sigact,1208,04-11-2009,33.29508209,68.89797211,Taliban,2,1,Violence sig
+ged,982,04-11-2009,33.4232,69.041565,Government of Afghanistan,1,3,Violence ged
+ged,983,04-11-2009,32.751723,69.047267,Government of Afghanistan,1,3,Violence ged
+ged,985,04-11-2009,31,64,Taleban,1,4,Violence ged
+sigact,1209,04-11-2009,31.53626633,65.33516693,Taliban,1,1,Violence sig
+sigact,1210,04-11-2009,31.89970016,64.71417999,Taliban,1,1,Violence sig
+sigact,1211,26-11-2010,33.6867485,68.21563721,Taliban,2,1,Violence sig
+sigact,1212,26-11-2010,32.6857338,66.06826019,Taliban,2,1,Violence sig
+sigact,1213,26-11-2010,31.89970016,64.71417999,ISAF,3,1,Violence sig
+ged,987,26-11-2010,31.640454,65.397591,Government of Afghanistan,1,3,Violence ged
+sigact,1214,26-11-2010,33.54439545,69.06000519,Taliban,2,1,Violence sig
+sigact,1215,26-11-2010,32.37615585,64.76456451,Taliban,1,1,Violence sig
+sigact,1216,26-11-2010,35.60350418,63.19919205,Taliban,1,1,Violence sig
+sigact,1217,26-11-2010,31.64141464,64.28753662,Taliban,1,1,Violence sig
+sigact,1218,26-11-2010,31.88707352,64.73734283,Taliban,1,1,Violence sig
+sigact,1219,26-11-2010,34.53594208,69.19397736,Taliban,2,1,Violence sig
+sigact,1220,26-11-2010,31.88324547,64.66281128,Taliban,2,1,Violence sig
+sigact,1221,26-11-2010,32.53810501,69.19488525,Taliban,1,1,Violence sig
+sigact,1222,27-11-2008,31.94998741,63.13333511,Taliban,1,1,Violence sig
+ged,989,27-11-2008,32.83333,66,Taleban,1,4,Violence ged
+ged,992,27-11-2008,32.713324,69.27614,Government of Afghanistan,1,3,Violence ged
+sigact,1223,28-11-2008,31.53059769,64.04375458,Taliban,1,1,Violence sig
+sigact,1224,28-11-2008,32.33838654,64.75639343,Taliban,2,1,Violence sig
+ged,994,28-11-2008,31.640454,65.397591,Government of Afghanistan,1,3,Violence ged
+ged,996,28-11-2008,32.381958,62.015236,Government of Afghanistan,1,1,Violence ged
+ged,997,28-11-2008,33.220631,67.996501,Government of Afghanistan,1,3,Violence ged
+ged,998,28-11-2008,36.877529,67.155205,Taleban,1,1,Violence ged
+sigact,1225,29-11-2008,31.90151787,64.71315765,Taliban,2,1,Violence sig
+sigact,1226,29-11-2008,31.63151741,64.27590179,Taliban,1,1,Violence sig
+sigact,1227,29-11-2008,34.77081299,69.83755493,Taliban,1,1,Violence sig
+sigact,1228,29-11-2008,32.3180542,65.09567261,ISAF,3,1,Violence sig
+ged,999,29-11-2008,33.372715,69.406475,Government of Afghanistan,1,3,Violence ged
+ged,1000,29-11-2008,34.779888,69.892822,Government of Afghanistan,1,2,Violence ged
+sigact,1229,30-11-2008,32.30623627,64.79135132,Taliban,1,1,Violence sig
+sigact,1230,30-11-2008,31.84960938,64.68260193,Taliban,1,1,Violence sig
+sigact,1231,30-11-2008,31.54672813,65.85157776,Taliban,2,1,Violence sig
+sigact,1232,30-11-2008,34.5017395,69.14814758,Taliban,2,1,Violence sig
+sigact,1233,30-11-2008,31.72509193,65.72711182,Taliban,2,1,Violence sig
+ged,1001,30-11-2008,34.95,71.133333,Government of Afghanistan,1,4,Violence ged
+ged,1003,30-11-2008,35.75,69,Government of Afghanistan,1,4,Violence ged
+sigact,1234,01-12-2008,36.12628174,68.68883514,Taliban,2,1,Violence sig
+sigact,1235,01-12-2008,32.34987259,64.77362061,Taliban,2,1,Violence sig
+sigact,1236,02-12-2008,31.69252968,64.21765137,Taliban,1,1,Violence sig
+sigact,1237,02-12-2008,35.9276886,64.05377197,Taliban,1,1,Violence sig
+sigact,1238,02-12-2008,32.10673523,64.90804291,ISAF,3,1,Violence sig
+sigact,1239,02-12-2008,31.89766884,64.72439575,ISAF,3,1,Violence sig
+sigact,1240,02-12-2008,32.0055809,64.81882477,ISAF,3,1,Violence sig
+ged,1006,02-12-2008,33.305843,68.446963,Government of Afghanistan,1,3,Violence ged
+sigact,1241,03-12-2008,36.77747345,66.45862579,Taliban,1,1,Violence sig
+sigact,1242,03-12-2008,34.36392212,62.19741821,Taliban,1,1,Violence sig
+sigact,1243,03-12-2008,34.35969543,70.22586823,Taliban,2,1,Violence sig
+sigact,1244,03-12-2008,32.01626587,64.82855988,Taliban,1,1,Violence sig
+ged,1008,03-12-2008,36.83333,65.83333,Taleban,1,4,Violence ged
+sigact,1245,04-12-2008,33.34208298,69.89634705,Taliban,2,1,Violence sig
+sigact,1246,04-12-2008,31.68724823,64.6566391,Taliban,2,1,Violence sig
+sigact,1247,04-12-2008,31.80670738,64.5814743,Taliban,2,1,Violence sig
+sigact,1248,04-12-2008,31.63224411,65.05083466,Taliban,2,1,Violence sig
+sigact,1249,04-12-2008,31.80549049,64.456604,Taliban,1,1,Violence sig
+sigact,1250,04-12-2008,31.78031158,64.47483063,Taliban,2,1,Violence sig
+sigact,1251,05-12-2008,33.29130173,62.16549301,Taliban,1,1,Violence sig
+sigact,1252,05-12-2008,31.56960678,65.70256042,Taliban,2,1,Violence sig
+sigact,1253,05-12-2008,33.32902908,68.53422546,Taliban,1,1,Violence sig
+sigact,1254,05-12-2008,31.62742996,65.54371643,Taliban,2,1,Violence sig
+sigact,1255,05-12-2008,31.37749863,64.30905151,Taliban,1,1,Violence sig
+sigact,1256,05-12-2008,31.54044914,65.44900513,Taliban,1,1,Violence sig
+ged,1013,05-12-2008,33.244188,62.359647,Government of Afghanistan,1,3,Violence ged
+sigact,1257,06-12-2008,31.59050369,66.12980652,Taliban,1,1,Violence sig
+sigact,1258,06-12-2008,32.30624008,64.79124451,Taliban,1,1,Violence sig
+sigact,1259,06-12-2008,35.16780472,71.449646,Taliban,2,1,Violence sig
+sigact,1260,06-12-2008,31.84131432,64.68921661,Taliban,2,1,Violence sig
+sigact,1261,06-12-2008,35.42496872,71.32900238,Taliban,1,1,Violence sig
+sigact,1262,06-12-2008,31.81668663,64.56446838,Taliban,2,1,Violence sig
+sigact,1263,06-12-2008,31.77735519,64.72849274,Taliban,1,1,Violence sig
+sigact,1264,06-12-2008,31.60443306,65.49809265,Taliban,1,1,Violence sig
+sigact,1265,06-12-2008,32.30725098,64.78977966,Taliban,1,1,Violence sig
+sigact,1266,06-12-2008,31.6340332,64.23101807,Taliban,2,1,Violence sig
+sigact,1267,06-12-2008,33.1574707,69.30656433,ISAF,3,1,Violence sig
+ged,1018,06-12-2008,33,65,Taleban,1,6,Violence ged
+ged,1019,06-12-2008,34.531094,69.162796,Government of Afghanistan,1,2,Violence ged
+ged,1021,06-12-2008,34.797169,69.67923,Government of Afghanistan,1,3,Violence ged
+sigact,1268,07-12-2008,34.93155289,71.00794983,Taliban,1,1,Violence sig
+sigact,1269,07-12-2008,32.31534576,64.79153442,Taliban,1,1,Violence sig
+sigact,1270,07-12-2008,32.00617599,64.81513214,Taliban,1,1,Violence sig
+sigact,1271,07-12-2008,32.30632782,64.79135895,Taliban,1,1,Violence sig
+sigact,1272,08-12-2008,32.01626587,64.82855988,Taliban,1,1,Violence sig
+sigact,1273,08-12-2008,31.63567162,64.4763031,Taliban,2,1,Violence sig
+sigact,1274,08-12-2008,31.8750515,64.73591614,Taliban,1,1,Violence sig
+sigact,1275,08-12-2008,32.01628113,64.82750702,Taliban,1,1,Violence sig
+sigact,1276,08-12-2008,32.30615234,64.79092407,Taliban,1,1,Violence sig
+sigact,1277,08-12-2008,32.00512695,64.81903076,ISAF,3,1,Violence sig
+ged,1023,08-12-2008,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+ged,1024,08-12-2008,33.973743,69.051591,Government of Afghanistan,1,3,Violence ged
+sigact,1278,09-12-2008,32.62649155,65.87431335,Taliban,2,1,Violence sig
+sigact,1279,09-12-2008,31.63728142,65.0291214,Taliban,2,1,Violence sig
+sigact,1280,10-12-2008,32.40497208,64.48092651,Taliban,1,1,Violence sig
+sigact,1281,10-12-2008,32.64732361,67.64590454,Taliban,1,1,Violence sig
+sigact,1282,10-12-2008,33.64409256,69.78931427,Taliban,1,1,Violence sig
+sigact,1283,10-12-2008,32.09224701,66.90044403,Taliban,1,1,Violence sig
+sigact,1284,10-12-2008,32.3928566,64.76988983,Taliban,1,1,Violence sig
+ged,1026,10-12-2008,36.896746,68.361061,Taleban,1,3,Violence ged
+sigact,1285,11-12-2008,32.25049973,63.88788223,Taliban,1,1,Violence sig
+sigact,1286,11-12-2008,31.77583504,64.47809601,Taliban,2,1,Violence sig
+sigact,1287,11-12-2008,31.5894165,64.19839478,Taliban,1,1,Violence sig
+sigact,1288,11-12-2009,31.60240936,64.29975128,Taliban,1,1,Violence sig
+sigact,1289,11-12-2009,32.31789017,65.09481812,ISAF,3,1,Violence sig
+ged,1027,11-12-2009,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+ged,1028,11-12-2009,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+sigact,1290,11-12-2009,32.07481766,64.83396149,Taliban,2,1,Violence sig
+sigact,1291,11-12-2009,32.03773117,64.83061981,Taliban,2,1,Violence sig
+sigact,1292,11-12-2009,32.07389832,64.83500671,Taliban,1,1,Violence sig
+sigact,1293,11-12-2009,32.33840179,64.75533295,Taliban,2,1,Violence sig
+sigact,1294,11-12-2009,35.58125305,63.32057953,Taliban,1,1,Violence sig
+sigact,1295,11-12-2009,31.62439156,64.27850342,Taliban,1,1,Violence sig
+sigact,1296,11-12-2009,33.86717987,68.63316345,ISAF,3,1,Violence sig
+sigact,1297,11-12-2009,34.88251877,70.92688751,Taliban,1,1,Violence sig
+sigact,1298,11-12-2009,33.21826553,62.19205093,Taliban,1,1,Violence sig
+sigact,1299,11-12-2009,31.62674141,65.55561066,Taliban,2,1,Violence sig
+sigact,1300,11-12-2009,32.62166977,65.4513855,Taliban,2,1,Violence sig
+sigact,1301,11-12-2009,33.02593994,65.52674103,Taliban,1,1,Violence sig
+sigact,1302,11-12-2009,32.40107727,64.74325562,Taliban,1,1,Violence sig
+sigact,1303,11-12-2009,33.36058807,70.20561218,Taliban,1,1,Violence sig
+sigact,1304,11-12-2009,31.61966324,65.68082428,Taliban,2,1,Violence sig
+sigact,1305,11-12-2009,32.38269043,64.74874878,Taliban,1,1,Violence sig
+sigact,1306,11-12-2009,33.21826553,62.19205093,Taliban,1,1,Violence sig
+sigact,1307,11-12-2009,32.09800339,64.87045288,ISAF,3,1,Violence sig
+sigact,1308,11-12-2009,32.61748505,68.24343872,Taliban,2,1,Violence sig
+sigact,1309,11-12-2009,32.40251541,64.46738434,Taliban,2,1,Violence sig
+sigact,1310,11-12-2009,31.89340782,64.69915009,Taliban,1,1,Violence sig
+sigact,1311,11-12-2009,32.96055984,68.56130219,Taliban,2,1,Violence sig
+sigact,1312,11-12-2009,33.47587585,69.99771118,Taliban,2,1,Violence sig
+sigact,1313,11-12-2009,34.95537567,70.81586456,ISAF,3,1,Violence sig
+ged,1040,11-12-2009,33.666667,69.33333,Taleban,1,4,Violence ged
+ged,1041,11-12-2009,32.83333,66,Government of Afghanistan,1,4,Violence ged
+sigact,1314,11-12-2009,31.86384773,64.72408295,Taliban,1,1,Violence sig
+sigact,1315,11-12-2009,33.02186584,69.49510956,Taliban,1,1,Violence sig
+sigact,1316,11-12-2009,29.83853531,65.93092346,Taliban,2,1,Violence sig
+sigact,1317,11-12-2009,31.53180695,64.23241425,ISAF,3,1,Violence sig
+sigact,1318,11-12-2009,33.04384232,69.503479,ISAF,3,1,Violence sig
+sigact,1319,11-12-2009,31.65239906,64.26248169,Taliban,1,1,Violence sig
+sigact,1320,11-12-2009,31.64065361,64.26442719,Taliban,1,1,Violence sig
+sigact,1321,11-12-2009,31.64872932,64.26865387,Taliban,1,1,Violence sig
+sigact,1322,11-12-2009,35.40444183,71.42701721,Taliban,1,1,Violence sig
+sigact,1323,11-12-2009,32.85455704,66.0049057,Taliban,2,1,Violence sig
+sigact,1324,11-12-2009,36.27978516,68.76441956,Taliban,2,1,Violence sig
+sigact,1325,11-12-2009,31.84695816,64.53566742,Taliban,2,1,Violence sig
+sigact,1326,11-12-2009,32.30633545,64.79082489,ISAF,3,1,Violence sig
+ged,1046,11-12-2009,31.625941,63.861445,Government of Afghanistan,1,3,Violence ged
+gtd,400,11-12-2009,33.316667,69.820833,Taliban,9,1,Violence gtd
+gtd,401,11-12-2009,33.458527,69.995087,Unknown,3,1,Violence gtd
+sigact,1327,11-12-2009,32.3058815,64.75895691,Taliban,1,1,Violence sig
+ged,1047,11-12-2009,32.209067,66.996744,Government of Afghanistan,1,3,Violence ged
+sigact,1328,11-12-2009,32.00522232,64.81871033,Taliban,1,1,Violence sig
+sigact,1329,11-12-2009,31.55790138,64.20359802,Taliban,2,1,Violence sig
+ged,1049,11-12-2009,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+sigact,1330,11-12-2009,32.62322617,62.52191162,Taliban,1,1,Violence sig
+sigact,1331,11-12-2009,33.84104156,68.60873413,Taliban,1,1,Violence sig
+sigact,1332,11-12-2009,33.22994614,62.19237137,Taliban,1,1,Violence sig
+sigact,1333,11-12-2009,33.54501343,68.42082214,Taliban,2,1,Violence sig
+sigact,1334,11-12-2009,33.22994614,62.19237137,Taliban,1,1,Violence sig
+ged,1050,11-12-2009,33.549999,68.416702,Government of Afghanistan,1,1,Violence ged
+ged,1051,11-12-2009,33.192284,62.164119,Government of Afghanistan,1,2,Violence ged
+ged,1052,11-12-2009,34.556073,69.707238,Government of Afghanistan,1,3,Violence ged
+sigact,1335,11-12-2009,32.76454926,69.33551025,Taliban,1,1,Violence sig
+sigact,1336,11-12-2009,31.70842934,64.27083588,Taliban,1,1,Violence sig
+sigact,1337,11-12-2009,34.74228668,70.89761353,Taliban,1,1,Violence sig
+sigact,1338,11-12-2009,31.71473503,64.27176666,Taliban,1,1,Violence sig
+sigact,1339,11-12-2009,31.25945854,64.22109222,Taliban,2,1,Violence sig
+sigact,1340,11-12-2009,31.71473503,64.27176666,Taliban,1,1,Violence sig
+sigact,1341,11-12-2009,31.70842934,64.27083588,ISAF,3,1,Violence sig
+ged,1054,11-12-2009,32.416667,68.75,Taleban,1,4,Violence ged
+sigact,1342,11-12-2009,32.30003738,64.78964233,Taliban,1,1,Violence sig
+sigact,1343,11-12-2009,32.76316833,69.33932495,ISAF,3,1,Violence sig
+sigact,1344,11-12-2009,31.98689842,64.89613342,ISAF,3,1,Violence sig
+ged,1059,11-12-2009,31.829363,64.608526,Government of Afghanistan,1,3,Violence ged
+sigact,1345,11-12-2009,31.57734489,65.40431976,Taliban,2,1,Violence sig
+sigact,1346,11-12-2009,31.5664711,65.36014557,Taliban,2,1,Violence sig
+sigact,1347,11-12-2009,34.22444153,62.22725296,Taliban,2,1,Violence sig
+sigact,1348,11-12-2009,31.58403969,65.43328857,Taliban,2,1,Violence sig
+sigact,1349,11-12-2009,30.96884727,61.86701584,Taliban,2,1,Violence sig
+sigact,1350,11-12-2009,34.53243256,69.11769104,Taliban,1,1,Violence sig
+sigact,1351,11-12-2009,33.19706345,62.19537735,Taliban,1,1,Violence sig
+sigact,1352,11-12-2009,31.61405754,65.5131073,Taliban,2,1,Violence sig
+sigact,1353,11-12-2009,31.6191082,65.57647705,Taliban,2,1,Violence sig
+sigact,1354,11-12-2009,31.54164314,65.46520996,Taliban,2,1,Violence sig
+sigact,1355,11-12-2009,31.57279396,65.58029938,Taliban,2,1,Violence sig
+sigact,1356,11-12-2009,35.40765762,71.42814636,ISAF,3,1,Violence sig
+ged,1065,11-12-2009,32.416667,68.75,Government of Afghanistan,1,4,Violence ged
+sigact,1357,11-12-2009,31.3595295,64.31952667,Taliban,1,1,Violence sig
+sigact,1358,11-12-2009,33.31820679,69.80177307,Taliban,2,1,Violence sig
+sigact,1359,11-12-2009,31.61987495,65.71350098,Taliban,1,1,Violence sig
+sigact,1360,11-12-2009,33.19706345,62.19537735,ISAF,3,1,Violence sig
+sigact,1361,11-12-2009,32.76476288,69.33589172,ISAF,3,1,Violence sig
+ged,1068,11-12-2009,31,64,Taleban,1,4,Violence ged
+gtd,409,11-12-2009,33.358508,69.859741,Haqqani Network,1,4,Violence gtd
+gtd,410,11-12-2009,32.666404,65.903629,Unknown,3,1,Violence gtd
+sigact,1362,11-12-2009,31.90332222,64.71318817,Taliban,1,1,Violence sig
+sigact,1363,11-12-2009,35.00631714,69.17086792,Taliban,2,1,Violence sig
+sigact,1364,11-12-2009,31.00777817,66.40028381,Taliban,2,1,Violence sig
+sigact,1365,11-12-2009,31.61426163,64.19449615,Taliban,1,1,Violence sig
+sigact,1366,11-12-2009,32.09778976,64.89694214,Taliban,1,1,Violence sig
+sigact,1367,11-12-2009,32.85710144,66.0133667,Taliban,1,1,Violence sig
+sigact,1368,11-12-2009,34.99685669,70.92655945,ISAF,3,1,Violence sig
+sigact,1369,31-12-2010,32.01700974,64.82959747,Taliban,1,1,Violence sig
+sigact,1370,31-12-2010,31.8893013,64.74263763,Taliban,2,1,Violence sig
+sigact,1371,31-12-2010,32.01700974,64.82959747,Taliban,1,1,Violence sig
+sigact,1372,31-12-2010,32.30632782,64.79135895,Taliban,2,1,Violence sig
+sigact,1373,31-12-2010,31.8893013,64.74263763,Taliban,2,1,Violence sig
+sigact,1374,31-12-2010,34.8900032,70.10919952,Taliban,1,1,Violence sig
+sigact,1375,31-12-2010,32.4187355,64.46871185,Taliban,2,1,Violence sig
+sigact,1376,31-12-2008,32.41702271,64.47623444,ISAF,3,1,Violence sig
+sigact,1377,31-12-2008,32.38261795,65.02581024,ISAF,3,1,Violence sig
+sigact,1378,31-12-2008,32.04061508,64.84757996,ISAF,3,1,Violence sig
